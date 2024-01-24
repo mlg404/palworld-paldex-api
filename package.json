@@ -1,0 +1,14 @@
+{
+  "name": "paldex-api",
+  "module": "index.ts",
+  "type": "module",
+  "dependencies": {
+    "elysia": "latest"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
