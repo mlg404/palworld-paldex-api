@@ -5,6 +5,9 @@
   "dependencies": {
     "elysia": "latest"
   },
+  "scripts": {
+    "start": "bun --watch run ./src/index.ts"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },
