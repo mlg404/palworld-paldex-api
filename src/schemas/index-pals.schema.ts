@@ -10,4 +10,5 @@ export const queryIndexPals = t.Object({
   types: t.Optional(t.String()),
   suitabilities: t.Optional(t.String()),
   drops: t.Optional(t.String()),
+  term: t.Optional(t.String()),
 });

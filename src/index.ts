@@ -5,8 +5,8 @@ import { IndexPalsUseCase } from "./useCases";
 const app = new Elysia()
   .get(
     "/",
-    ({ query: { page, limit, ...filter } }) =>
-      IndexPalsUseCase.execute({ page, limit, filter }),
+    ({ query: { page, limit, term, ...filter } }) =>
+      IndexPalsUseCase.execute({ page, limit, term, filter }),
     {
       query: queryIndexPals,
     }

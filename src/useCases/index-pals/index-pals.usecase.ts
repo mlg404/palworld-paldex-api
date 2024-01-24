@@ -1,8 +1,5 @@
 import type { IPal } from "../../common/interfaces";
-
-const file = Bun.file("src/pals.json");
-
-const pals: IPal[] = await file.json();
+import * as elasticurnService from "../../services";
 
 interface IFilter {
   name?: string;
@@ -16,18 +13,30 @@ interface Props {
   page?: number;
   limit?: number;
   filter?: IFilter;
+  term?: string;
 }
-export const execute = ({ page = 1, limit = 10, filter }: Props) => {
+
+const isSameValueOrIncludedInList = (
+  value: string,
+  key: keyof IPal,
+  object: IPal
+) => {
+  if (typeof object[key as keyof IPal] === "string")
+    return object[key as keyof IPal] === value;
+  return (object[key as keyof IPal] as string[]).includes(value);
+};
+
+export const execute = ({ page = 1, limit = 10, filter, term }: Props) => {
   const start = (page - 1) * limit;
   const end = page * limit;
+
+  const pals = elasticurnService.execute(term || "");
 
   const filters = Object.entries(filter || {});
   const content = pals.filter((pal) =>
     filters.every(([key, value]) => {
       if (!value) return true;
-      if (typeof pal[key as keyof IPal] === "string")
-        return pal[key as keyof IPal] === value;
-      return (pal[key as keyof IPal] as string[]).includes(value);
+      return isSameValueOrIncludedInList(value, key as keyof IPal, pal);
     })
   );
   const contentSliced = content.slice(start, end);
