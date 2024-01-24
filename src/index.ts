@@ -1,8 +1,10 @@
+import { staticPlugin } from "@elysiajs/static";
 import { Elysia } from "elysia";
 import { queryIndexPals } from "./schemas";
 import { IndexPalsUseCase } from "./useCases";
 
 const app = new Elysia()
+  .use(staticPlugin())
   .get(
     "/",
     ({ query: { page, limit, term, ...filter } }) =>

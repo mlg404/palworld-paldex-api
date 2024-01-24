@@ -3,6 +3,7 @@
   "module": "index.ts",
   "type": "module",
   "dependencies": {
+    "@elysiajs/static": "^0.8.1",
     "elasticlunr": "^0.9.5",
     "elysia": "latest"
   },
