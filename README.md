@@ -42,24 +42,89 @@ This is what final data looks like:
 ```json
 {
   "content": [
-    {
-      "id": 85,
-      "key": "085",
-      "image": "https://static.wikia.nocookie.net/palworld/images/0/01/Relaxaurus_menu.png/",
-      "name": "Relaxaurus",
-      "wiki": "https://palworld.fandom.com/wiki/Relaxaurus",
-      "types": ["dragon", "water"],
-      "suitability": [
-        { "type": "watering", "level": 2 },
-        { "type": "transporting", "level": 1 }
-      ],
-      "drops": ["High Quality Pal Oil", "Ruby"],
-      "aura": {
-        "name": "Hungry Missile",
-        "description": "Can be ridden. Can rapidly fire a missile launcher while mounted."
+   {
+    "id": 85,
+    "key": "085",
+    "image": "/public/images/085.png",
+    "name": "Relaxaurus",
+    "wiki": "https://palworld.fandom.com/wiki/Relaxaurus",
+    "types": ["dragon", "water"],
+    "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/01/Relaxaurus_menu.png/",
+    "suitability": [
+      {
+        "type": "watering",
+        "level": 2
       },
-      "description": "Contrary to its blasé  appearance, it's quite ferocious.\nIt perceives everything in its sight as prey and will stop at nothing to devour it."
-    }
+      {
+        "type": "transporting",
+        "level": 1
+      }
+    ],
+    "drops": ["High Quality Pal Oil", "Ruby"],
+    "aura": {
+      "name": "Hungry Missile",
+      "description": "Can be ridden. Can rapidly fire a missile launcher while mounted."
+    },
+    "description": "Contrary to its blasé appearance, it's quite ferocious.\nIt perceives everything in its sight as prey and will stop at nothing to devour it.",
+    "skills": [
+      {
+        "level": 1,
+        "name": "Dragon Cannon",
+        "type": "Dragon",
+        "cooldown": 2,
+        "power": 30,
+        "description": "Hurls an energy ball imbued with draconic energy at an enemy.\n"
+      },
+      {
+        "level": 7,
+        "name": "Aqua Gun",
+        "type": "Water",
+        "cooldown": 4,
+        "power": 40,
+        "description": "Hurls a ball of water straight at an enemy.\n"
+      },
+      {
+        "level": 15,
+        "name": "Dragon Burst",
+        "type": "Dragon",
+        "cooldown": 10,
+        "power": 55,
+        "description": "Quickly discharges draconic energy, damaging those around it.\n"
+      },
+      {
+        "level": 22,
+        "name": "Bubble Blast",
+        "type": "Water",
+        "cooldown": 13,
+        "power": 65,
+        "description": "Fires numerous bubbles that slowly pursue an enemy.\n"
+      },
+      {
+        "level": 30,
+        "name": "Draconic Breath",
+        "type": "Dragon",
+        "cooldown": 15,
+        "power": 70,
+        "description": "Exhales breath imbued with draconic energy, dealing continuous damage to those in front of it.\n"
+      },
+      {
+        "level": 40,
+        "name": "Aqua Burst",
+        "type": "Water",
+        "cooldown": 30,
+        "power": 100,
+        "description": "Creates a giant ball of water and hurls it at an enemy.\n"
+      },
+      {
+        "level": 50,
+        "name": "Dragon Meteor",
+        "type": "Dragon",
+        "cooldown": 55,
+        "power": 150,
+        "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
+      }
+    ]
+  }
   ],
   "page": 1,
   "limit": 10,
