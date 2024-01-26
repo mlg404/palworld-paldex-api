@@ -1,6 +1,7 @@
 import type { ISuitability } from ".";
 import type { TypesEnum } from "../enums";
 import type { IAura } from "./aura.interface";
+import type { ISkill } from "./skill.interface";
 
 export interface IPal {
   id: number;
@@ -14,4 +15,5 @@ export interface IPal {
   image: string;
   aura: IAura;
   wiki: string;
+  skills: ISkill[];
 }
