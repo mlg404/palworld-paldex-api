@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  paldex:
+    container_name: paldex
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
