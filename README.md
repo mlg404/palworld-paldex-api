@@ -230,3 +230,6 @@ Made with 💙 by Victor Eyer :wave: [Get in touch!](https://www.linkedin.com/in
 [vc]: https://code.visualstudio.com/
 
 This project was created using `bun init` in bun v1.0.25. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+
+## Contributions
+- [Discord Bot Using this API](https://github.com/nibalizer/palbot-rs/)
