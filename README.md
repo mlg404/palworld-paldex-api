@@ -37,7 +37,9 @@
 ## :rocket: Info
 
 This is the first Palworld API, it's a simple API to get all Palworld Paldex data.
-This is what final data looks like:
+
+<details>
+  <summary>This is what final data looks like</summary>
 
 ```json
 {
@@ -132,6 +134,8 @@ This is what final data looks like:
   "total": 1
 }
 ```
+
+</details>
 
 ## :computer: Technologies
 
