@@ -2,7 +2,7 @@
   {
     "id": 1,
     "key": "001",
-    "image": "/public/images/001.png",
+    "image": "/public/images/paldeck/001.png",
     "name": "Lamball",
     "wiki": "https://palworld.fandom.com/wiki/Lamball",
     "types": ["neutral"],
@@ -10,14 +10,17 @@
     "suitability": [
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "farming",
+        "image": "/public/images/works/farming.png",
         "level": 1
       }
     ],
@@ -89,7 +92,7 @@
   {
     "id": 2,
     "key": "002",
-    "image": "/public/images/002.png",
+    "image": "/public/images/paldeck/002.png",
     "name": "Cattiva",
     "wiki": "https://palworld.fandom.com/wiki/Cattiva",
     "types": ["neutral"],
@@ -97,18 +100,22 @@
     "suitability": [
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "mining",
+        "image": "/public/images/works/mining.png",
         "level": 1
       }
     ],
@@ -180,7 +187,7 @@
   {
     "id": 3,
     "key": "003",
-    "image": "/public/images/003.png",
+    "image": "/public/images/paldeck/003.png",
     "name": "Chikipi",
     "wiki": "https://palworld.fandom.com/wiki/Chikipi",
     "types": ["neutral"],
@@ -188,10 +195,12 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "farming",
+        "image": "/public/images/works/farming.png",
         "level": 1
       }
     ],
@@ -263,7 +272,7 @@
   {
     "id": 4,
     "key": "004",
-    "image": "/public/images/004.png",
+    "image": "/public/images/paldeck/004.png",
     "name": "Lifmunk",
     "wiki": "https://palworld.fandom.com/wiki/Lifmunk",
     "types": ["grass"],
@@ -271,22 +280,27 @@
     "suitability": [
       {
         "type": "planting",
+        "image": "/public/images/works/planting.png",
         "level": 1
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 1
       },
       {
         "type": "medicine_production",
+        "image": "/public/images/works/medicine_production.png",
         "level": 1
       },
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -358,7 +372,7 @@
   {
     "id": 5,
     "key": "005",
-    "image": "/public/images/005.png",
+    "image": "/public/images/paldeck/005.png",
     "name": "Foxparks",
     "wiki": "https://palworld.fandom.com/wiki/Foxparks",
     "types": ["fire"],
@@ -366,6 +380,7 @@
     "suitability": [
       {
         "type": "kindling",
+        "image": "/public/images/works/kindling.png",
         "level": 1
       }
     ],
@@ -437,7 +452,7 @@
   {
     "id": 6,
     "key": "006",
-    "image": "/public/images/006.png",
+    "image": "/public/images/paldeck/006.png",
     "name": "Fuack",
     "wiki": "https://palworld.fandom.com/wiki/Fuack",
     "types": ["water"],
@@ -445,14 +460,17 @@
     "suitability": [
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "watering",
+        "image": "/public/images/works/watering.png",
         "level": 1
       }
     ],
@@ -524,7 +542,7 @@
   {
     "id": 7,
     "key": "007",
-    "image": "/public/images/007.png",
+    "image": "/public/images/paldeck/007.png",
     "name": "Sparkit",
     "wiki": "https://palworld.fandom.com/wiki/Sparkit",
     "types": ["electric"],
@@ -532,14 +550,17 @@
     "suitability": [
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "generating_electricity",
+        "image": "/public/images/works/generating_electricity.png",
         "level": 1
       }
     ],
@@ -611,7 +632,7 @@
   {
     "id": 8,
     "key": "008",
-    "image": "/public/images/008.png",
+    "image": "/public/images/paldeck/008.png",
     "name": "Tanzee",
     "wiki": "https://palworld.fandom.com/wiki/Tanzee",
     "types": ["grass"],
@@ -619,22 +640,27 @@
     "suitability": [
       {
         "type": "planting",
+        "image": "/public/images/works/planting.png",
         "level": 1
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -706,7 +732,7 @@
   {
     "id": 9,
     "key": "009",
-    "image": "/public/images/009.png",
+    "image": "/public/images/paldeck/009.png",
     "name": "Rooby",
     "wiki": "https://palworld.fandom.com/wiki/Rooby",
     "types": ["fire"],
@@ -714,6 +740,7 @@
     "suitability": [
       {
         "type": "kindling",
+        "image": "/public/images/works/kindling.png",
         "level": 1
       }
     ],
@@ -785,7 +812,7 @@
   {
     "id": 10,
     "key": "010",
-    "image": "/public/images/010.png",
+    "image": "/public/images/paldeck/010.png",
     "name": "Pengullet",
     "wiki": "https://palworld.fandom.com/wiki/Pengullet",
     "types": ["water", "ice"],
@@ -793,18 +820,22 @@
     "suitability": [
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "watering",
+        "image": "/public/images/works/watering.png",
         "level": 1
       },
       {
         "type": "cooling",
+        "image": "/public/images/works/cooling.png",
         "level": 1
       }
     ],
@@ -876,7 +907,7 @@
   {
     "id": 11,
     "key": "011",
-    "image": "/public/images/011.png",
+    "image": "/public/images/paldeck/011.png",
     "name": "Penking",
     "wiki": "https://palworld.fandom.com/wiki/Penking",
     "types": ["water", "ice"],
@@ -884,22 +915,27 @@
     "suitability": [
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 2
       },
       {
         "type": "watering",
+        "image": "/public/images/works/watering.png",
         "level": 2
       },
       {
         "type": "mining",
+        "image": "/public/images/works/mining.png",
         "level": 2
       },
       {
         "type": "cooling",
+        "image": "/public/images/works/cooling.png",
         "level": 2
       }
     ],
@@ -971,7 +1007,7 @@
   {
     "id": 12,
     "key": "012",
-    "image": "/public/images/012.png",
+    "image": "/public/images/paldeck/012.png",
     "name": "Jolthog",
     "wiki": "https://palworld.fandom.com/wiki/Jolthog",
     "types": ["electric"],
@@ -979,6 +1015,7 @@
     "suitability": [
       {
         "type": "generating_electricity",
+        "image": "/public/images/works/generating_electricity.png",
         "level": 1
       }
     ],
@@ -1050,7 +1087,7 @@
   {
     "id": 13,
     "key": "013",
-    "image": "/public/images/013.png",
+    "image": "/public/images/paldeck/013.png",
     "name": "Gumoss",
     "wiki": "https://palworld.fandom.com/wiki/Gumoss",
     "types": ["grass", "ground"],
@@ -1058,6 +1095,7 @@
     "suitability": [
       {
         "type": "planting",
+        "image": "/public/images/works/planting.png",
         "level": 1
       }
     ],
@@ -1129,7 +1167,7 @@
   {
     "id": 14,
     "key": "014",
-    "image": "/public/images/014.png",
+    "image": "/public/images/paldeck/014.png",
     "name": "Vixy",
     "wiki": "https://palworld.fandom.com/wiki/Vixy",
     "types": ["neutral"],
@@ -1137,10 +1175,12 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "farming",
+        "image": "/public/images/works/farming.png",
         "level": 1
       }
     ],
@@ -1212,7 +1252,7 @@
   {
     "id": 15,
     "key": "015",
-    "image": "/public/images/015.png",
+    "image": "/public/images/paldeck/015.png",
     "name": "Hoocrates",
     "wiki": "https://palworld.fandom.com/wiki/Hoocrates",
     "types": ["dark"],
@@ -1220,6 +1260,7 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -1291,7 +1332,7 @@
   {
     "id": 16,
     "key": "016",
-    "image": "/public/images/016.png",
+    "image": "/public/images/paldeck/016.png",
     "name": "Teafant",
     "wiki": "https://palworld.fandom.com/wiki/Teafant",
     "types": ["water"],
@@ -1299,6 +1340,7 @@
     "suitability": [
       {
         "type": "watering",
+        "image": "/public/images/works/watering.png",
         "level": 1
       }
     ],
@@ -1370,7 +1412,7 @@
   {
     "id": 17,
     "key": "017",
-    "image": "/public/images/017.png",
+    "image": "/public/images/paldeck/017.png",
     "name": "Depresso",
     "wiki": "https://palworld.fandom.com/wiki/Depresso",
     "types": ["dark"],
@@ -1378,14 +1420,17 @@
     "suitability": [
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "mining",
+        "image": "/public/images/works/mining.png",
         "level": 1
       }
     ],
@@ -1457,7 +1502,7 @@
   {
     "id": 18,
     "key": "018",
-    "image": "/public/images/018.png",
+    "image": "/public/images/paldeck/018.png",
     "name": "Cremis",
     "wiki": "https://palworld.fandom.com/wiki/Cremis",
     "types": ["neutral"],
@@ -1465,10 +1510,12 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "farming",
+        "image": "/public/images/works/farming.png",
         "level": 1
       }
     ],
@@ -1540,7 +1587,7 @@
   {
     "id": 19,
     "key": "019",
-    "image": "/public/images/019.png",
+    "image": "/public/images/paldeck/019.png",
     "name": "Daedream",
     "wiki": "https://palworld.fandom.com/wiki/Daedream",
     "types": ["dark"],
@@ -1548,14 +1595,17 @@
     "suitability": [
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -1627,7 +1677,7 @@
   {
     "id": 20,
     "key": "020",
-    "image": "/public/images/020.png",
+    "image": "/public/images/paldeck/020.png",
     "name": "Rushoar",
     "wiki": "https://palworld.fandom.com/wiki/Rushoar",
     "types": ["ground"],
@@ -1635,6 +1685,7 @@
     "suitability": [
       {
         "type": "mining",
+        "image": "/public/images/works/mining.png",
         "level": 1
       }
     ],
@@ -1706,7 +1757,7 @@
   {
     "id": 21,
     "key": "021",
-    "image": "/public/images/021.png",
+    "image": "/public/images/paldeck/021.png",
     "name": "Nox",
     "wiki": "https://palworld.fandom.com/wiki/Nox",
     "types": ["dark"],
@@ -1714,6 +1765,7 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -1785,7 +1837,7 @@
   {
     "id": 22,
     "key": "022",
-    "image": "/public/images/022.png",
+    "image": "/public/images/paldeck/022.png",
     "name": "Fuddler",
     "wiki": "https://palworld.fandom.com/wiki/Fuddler",
     "types": ["ground"],
@@ -1793,14 +1845,17 @@
     "suitability": [
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "mining",
+        "image": "/public/images/works/mining.png",
         "level": 1
       }
     ],
@@ -1872,7 +1927,7 @@
   {
     "id": 23,
     "key": "023",
-    "image": "/public/images/023.png",
+    "image": "/public/images/paldeck/023.png",
     "name": "Killamari",
     "wiki": "https://palworld.fandom.com/wiki/Killamari",
     "types": ["dark"],
@@ -1880,10 +1935,12 @@
     "suitability": [
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 2
       },
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -1955,7 +2012,7 @@
   {
     "id": 24,
     "key": "024",
-    "image": "/public/images/024.png",
+    "image": "/public/images/paldeck/024.png",
     "name": "Mau",
     "wiki": "https://palworld.fandom.com/wiki/Mau",
     "types": ["dark"],
@@ -1963,6 +2020,7 @@
     "suitability": [
       {
         "type": "farming",
+        "image": "/public/images/works/farming.png",
         "level": 1
       }
     ],
@@ -2034,7 +2092,7 @@
   {
     "id": 25,
     "key": "025",
-    "image": "/public/images/025.png",
+    "image": "/public/images/paldeck/025.png",
     "name": "Celaray",
     "wiki": "https://palworld.fandom.com/wiki/Celaray",
     "types": ["water"],
@@ -2042,10 +2100,12 @@
     "suitability": [
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "watering",
+        "image": "/public/images/works/watering.png",
         "level": 1
       }
     ],
@@ -2117,7 +2177,7 @@
   {
     "id": 26,
     "key": "026",
-    "image": "/public/images/026.png",
+    "image": "/public/images/paldeck/026.png",
     "name": "Direhowl",
     "wiki": "https://palworld.fandom.com/wiki/Direhowl",
     "types": ["neutral"],
@@ -2125,6 +2185,7 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -2196,7 +2257,7 @@
   {
     "id": 27,
     "key": "027",
-    "image": "/public/images/027.png",
+    "image": "/public/images/paldeck/027.png",
     "name": "Tocotoco",
     "wiki": "https://palworld.fandom.com/wiki/Tocotoco",
     "types": ["neutral"],
@@ -2204,6 +2265,7 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -2275,7 +2337,7 @@
   {
     "id": 28,
     "key": "028",
-    "image": "/public/images/028.png",
+    "image": "/public/images/paldeck/028.png",
     "name": "Flopie",
     "wiki": "https://palworld.fandom.com/wiki/Flopie",
     "types": ["grass"],
@@ -2283,22 +2345,27 @@
     "suitability": [
       {
         "type": "planting",
+        "image": "/public/images/works/planting.png",
         "level": 1
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "medicine_production",
+        "image": "/public/images/works/medicine_production.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 1
       }
     ],
@@ -2370,7 +2437,7 @@
   {
     "id": 29,
     "key": "029",
-    "image": "/public/images/029.png",
+    "image": "/public/images/paldeck/029.png",
     "name": "Mozzarina",
     "wiki": "https://palworld.fandom.com/wiki/Mozzarina",
     "types": ["neutral"],
@@ -2378,6 +2445,7 @@
     "suitability": [
       {
         "type": "farming",
+        "image": "/public/images/works/farming.png",
         "level": 1
       }
     ],
@@ -2449,7 +2517,7 @@
   {
     "id": 30,
     "key": "030",
-    "image": "/public/images/030.png",
+    "image": "/public/images/paldeck/030.png",
     "name": "Bristla",
     "wiki": "https://palworld.fandom.com/wiki/Bristla",
     "types": ["grass"],
@@ -2457,22 +2525,27 @@
     "suitability": [
       {
         "type": "planting",
+        "image": "/public/images/works/planting.png",
         "level": 1
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "medicine_production",
+        "image": "/public/images/works/medicine_production.png",
         "level": 2
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -2544,7 +2617,7 @@
   {
     "id": 31,
     "key": "031",
-    "image": "/public/images/031.png",
+    "image": "/public/images/paldeck/031.png",
     "name": "Gobfin",
     "wiki": "https://palworld.fandom.com/wiki/Gobfin",
     "types": ["water"],
@@ -2552,14 +2625,17 @@
     "suitability": [
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "watering",
+        "image": "/public/images/works/watering.png",
         "level": 2
       }
     ],
@@ -2631,7 +2707,7 @@
   {
     "id": 32,
     "key": "032",
-    "image": "/public/images/032.png",
+    "image": "/public/images/paldeck/032.png",
     "name": "Hangyu",
     "wiki": "https://palworld.fandom.com/wiki/Hangyu",
     "types": ["ground"],
@@ -2639,14 +2715,17 @@
     "suitability": [
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 2
       },
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -2718,7 +2797,7 @@
   {
     "id": 33,
     "key": "033",
-    "image": "/public/images/033.png",
+    "image": "/public/images/paldeck/033.png",
     "name": "Mossanda",
     "wiki": "https://palworld.fandom.com/wiki/Mossanda",
     "types": ["grass"],
@@ -2726,18 +2805,22 @@
     "suitability": [
       {
         "type": "planting",
+        "image": "/public/images/works/planting.png",
         "level": 2
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 2
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 3
       }
     ],
@@ -2809,7 +2892,7 @@
   {
     "id": 34,
     "key": "034",
-    "image": "/public/images/034.png",
+    "image": "/public/images/paldeck/034.png",
     "name": "Woolipop",
     "wiki": "https://palworld.fandom.com/wiki/Woolipop",
     "types": ["neutral"],
@@ -2817,6 +2900,7 @@
     "suitability": [
       {
         "type": "farming",
+        "image": "/public/images/works/farming.png",
         "level": 1
       }
     ],
@@ -2888,7 +2972,7 @@
   {
     "id": 35,
     "key": "035",
-    "image": "/public/images/035.png",
+    "image": "/public/images/paldeck/035.png",
     "name": "Caprity",
     "wiki": "https://palworld.fandom.com/wiki/Caprity",
     "types": ["grass"],
@@ -2896,10 +2980,12 @@
     "suitability": [
       {
         "type": "planting",
+        "image": "/public/images/works/planting.png",
         "level": 2
       },
       {
         "type": "farming",
+        "image": "/public/images/works/farming.png",
         "level": 1
       }
     ],
@@ -2971,7 +3057,7 @@
   {
     "id": 36,
     "key": "036",
-    "image": "/public/images/036.png",
+    "image": "/public/images/paldeck/036.png",
     "name": "Melpaca",
     "wiki": "https://palworld.fandom.com/wiki/Melpaca",
     "types": ["neutral"],
@@ -2979,6 +3065,7 @@
     "suitability": [
       {
         "type": "farming",
+        "image": "/public/images/works/farming.png",
         "level": 1
       }
     ],
@@ -3050,7 +3137,7 @@
   {
     "id": 37,
     "key": "037",
-    "image": "/public/images/037.png",
+    "image": "/public/images/paldeck/037.png",
     "name": "Eikthyrdeer",
     "wiki": "https://palworld.fandom.com/wiki/Eikthyrdeer",
     "types": ["neutral"],
@@ -3058,6 +3145,7 @@
     "suitability": [
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 2
       }
     ],
@@ -3129,7 +3217,7 @@
   {
     "id": 38,
     "key": "038",
-    "image": "/public/images/038.png",
+    "image": "/public/images/paldeck/038.png",
     "name": "Nitewing",
     "wiki": "https://palworld.fandom.com/wiki/Nitewing",
     "types": ["neutral"],
@@ -3137,6 +3225,7 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 2
       }
     ],
@@ -3208,7 +3297,7 @@
   {
     "id": 39,
     "key": "039",
-    "image": "/public/images/039.png",
+    "image": "/public/images/paldeck/039.png",
     "name": "Ribbuny",
     "wiki": "https://palworld.fandom.com/wiki/Ribbuny",
     "types": ["neutral"],
@@ -3216,14 +3305,17 @@
     "suitability": [
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -3295,7 +3387,7 @@
   {
     "id": 40,
     "key": "040",
-    "image": "/public/images/040.png",
+    "image": "/public/images/paldeck/040.png",
     "name": "Incineram",
     "wiki": "https://palworld.fandom.com/wiki/Incineram",
     "types": ["fire", "dark"],
@@ -3303,18 +3395,22 @@
     "suitability": [
       {
         "type": "kindling",
+        "image": "/public/images/works/kindling.png",
         "level": 1
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 2
       },
       {
         "type": "mining",
+        "image": "/public/images/works/mining.png",
         "level": 1
       }
     ],
@@ -3386,7 +3482,7 @@
   {
     "id": 41,
     "key": "041",
-    "image": "/public/images/041.png",
+    "image": "/public/images/paldeck/041.png",
     "name": "Cinnamoth",
     "wiki": "https://palworld.fandom.com/wiki/Cinnamoth",
     "types": ["grass"],
@@ -3394,10 +3490,12 @@
     "suitability": [
       {
         "type": "planting",
+        "image": "/public/images/works/planting.png",
         "level": 2
       },
       {
         "type": "medicine_production",
+        "image": "/public/images/works/medicine_production.png",
         "level": 1
       }
     ],
@@ -3469,7 +3567,7 @@
   {
     "id": 42,
     "key": "042",
-    "image": "/public/images/042.png",
+    "image": "/public/images/paldeck/042.png",
     "name": "Arsox",
     "wiki": "https://palworld.fandom.com/wiki/Arsox",
     "types": ["fire"],
@@ -3477,10 +3575,12 @@
     "suitability": [
       {
         "type": "kindling",
+        "image": "/public/images/works/kindling.png",
         "level": 2
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 1
       }
     ],
@@ -3552,7 +3652,7 @@
   {
     "id": 43,
     "key": "043",
-    "image": "/public/images/043.png",
+    "image": "/public/images/paldeck/043.png",
     "name": "Dumud",
     "wiki": "https://palworld.fandom.com/wiki/Dumud",
     "types": ["ground"],
@@ -3560,14 +3660,17 @@
     "suitability": [
       {
         "type": "watering",
+        "image": "/public/images/works/watering.png",
         "level": 1
       },
       {
         "type": "mining",
+        "image": "/public/images/works/mining.png",
         "level": 2
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 1
       }
     ],
@@ -3582,7 +3685,7 @@
   {
     "id": 44,
     "key": "044",
-    "image": "/public/images/044.png",
+    "image": "/public/images/paldeck/044.png",
     "name": "Cawgnito",
     "wiki": "https://palworld.fandom.com/wiki/Cawgnito",
     "types": ["dark"],
@@ -3590,6 +3693,7 @@
     "suitability": [
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 1
       }
     ],
@@ -3661,7 +3765,7 @@
   {
     "id": 45,
     "key": "045",
-    "image": "/public/images/045.png",
+    "image": "/public/images/paldeck/045.png",
     "name": "Leezpunk",
     "wiki": "https://palworld.fandom.com/wiki/Leezpunk",
     "types": ["dark"],
@@ -3669,14 +3773,17 @@
     "suitability": [
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 1
       }
     ],
@@ -3748,7 +3855,7 @@
   {
     "id": 46,
     "key": "046",
-    "image": "/public/images/046.png",
+    "image": "/public/images/paldeck/046.png",
     "name": "Loupmoon",
     "wiki": "https://palworld.fandom.com/wiki/Loupmoon",
     "types": ["dark"],
@@ -3756,6 +3863,7 @@
     "suitability": [
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 2
       }
     ],
@@ -3827,7 +3935,7 @@
   {
     "id": 47,
     "key": "047",
-    "image": "/public/images/047.png",
+    "image": "/public/images/paldeck/047.png",
     "name": "Galeclaw",
     "wiki": "https://palworld.fandom.com/wiki/Galeclaw",
     "types": ["neutral"],
@@ -3835,6 +3943,7 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 2
       }
     ],
@@ -3906,7 +4015,7 @@
   {
     "id": 48,
     "key": "048",
-    "image": "/public/images/048.png",
+    "image": "/public/images/paldeck/048.png",
     "name": "Robinquill",
     "wiki": "https://palworld.fandom.com/wiki/Robinquill",
     "types": ["grass"],
@@ -3914,26 +4023,32 @@
     "suitability": [
       {
         "type": "planting",
+        "image": "/public/images/works/planting.png",
         "level": 1
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 1
       },
       {
         "type": "medicine_production",
+        "image": "/public/images/works/medicine_production.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 2
       },
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 2
       }
     ],
@@ -4005,7 +4120,7 @@
   {
     "id": 49,
     "key": "049",
-    "image": "/public/images/049.png",
+    "image": "/public/images/paldeck/049.png",
     "name": "Gorirat",
     "wiki": "https://palworld.fandom.com/wiki/Gorirat",
     "types": ["neutral"],
@@ -4013,14 +4128,17 @@
     "suitability": [
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 2
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 3
       }
     ],
@@ -4092,7 +4210,7 @@
   {
     "id": 50,
     "key": "050",
-    "image": "/public/images/050.png",
+    "image": "/public/images/paldeck/050.png",
     "name": "Beegarde",
     "wiki": "https://palworld.fandom.com/wiki/Beegarde",
     "types": ["grass"],
@@ -4100,30 +4218,37 @@
     "suitability": [
       {
         "type": "planting",
+        "image": "/public/images/works/planting.png",
         "level": 1
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 1
       },
       {
         "type": "medicine_production",
+        "image": "/public/images/works/medicine_production.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 2
       },
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "farming",
+        "image": "/public/images/works/farming.png",
         "level": 1
       }
     ],
@@ -4195,7 +4320,7 @@
   {
     "id": 51,
     "key": "051",
-    "image": "/public/images/051.png",
+    "image": "/public/images/paldeck/051.png",
     "name": "Elizabee",
     "wiki": "https://palworld.fandom.com/wiki/Elizabee",
     "types": ["grass"],
@@ -4203,22 +4328,27 @@
     "suitability": [
       {
         "type": "planting",
+        "image": "/public/images/works/planting.png",
         "level": 2
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 1
       },
       {
         "type": "medicine_production",
+        "image": "/public/images/works/medicine_production.png",
         "level": 2
       },
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 2
       }
     ],
@@ -4290,7 +4420,7 @@
   {
     "id": 52,
     "key": "052",
-    "image": "/public/images/052.png",
+    "image": "/public/images/paldeck/052.png",
     "name": "Grintale",
     "wiki": "https://palworld.fandom.com/wiki/Grintale",
     "types": ["neutral"],
@@ -4298,6 +4428,7 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 2
       }
     ],
@@ -4369,7 +4500,7 @@
   {
     "id": 53,
     "key": "053",
-    "image": "/public/images/053.png",
+    "image": "/public/images/paldeck/053.png",
     "name": "Swee",
     "wiki": "https://palworld.fandom.com/wiki/Swee",
     "types": ["ice"],
@@ -4377,10 +4508,12 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "cooling",
+        "image": "/public/images/works/cooling.png",
         "level": 1
       }
     ],
@@ -4452,7 +4585,7 @@
   {
     "id": 54,
     "key": "054",
-    "image": "/public/images/054.png",
+    "image": "/public/images/paldeck/054.png",
     "name": "Sweepa",
     "wiki": "https://palworld.fandom.com/wiki/Sweepa",
     "types": ["ice"],
@@ -4460,10 +4593,12 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 2
       },
       {
         "type": "cooling",
+        "image": "/public/images/works/cooling.png",
         "level": 2
       }
     ],
@@ -4535,7 +4670,7 @@
   {
     "id": 55,
     "key": "055",
-    "image": "/public/images/055.png",
+    "image": "/public/images/paldeck/055.png",
     "name": "Chillet",
     "wiki": "https://palworld.fandom.com/wiki/Chillet",
     "types": ["ice", "dragon"],
@@ -4543,10 +4678,12 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "cooling",
+        "image": "/public/images/works/cooling.png",
         "level": 1
       }
     ],
@@ -4618,7 +4755,7 @@
   {
     "id": 56,
     "key": "056",
-    "image": "/public/images/056.png",
+    "image": "/public/images/paldeck/056.png",
     "name": "Univolt",
     "wiki": "https://palworld.fandom.com/wiki/Univolt",
     "types": ["electric"],
@@ -4626,10 +4763,12 @@
     "suitability": [
       {
         "type": "generating_electricity",
+        "image": "/public/images/works/generating_electricity.png",
         "level": 2
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 1
       }
     ],
@@ -4701,7 +4840,7 @@
   {
     "id": 57,
     "key": "057",
-    "image": "/public/images/057.png",
+    "image": "/public/images/paldeck/057.png",
     "name": "Foxcicle",
     "wiki": "https://palworld.fandom.com/wiki/Foxcicle",
     "types": ["ice"],
@@ -4709,6 +4848,7 @@
     "suitability": [
       {
         "type": "cooling",
+        "image": "/public/images/works/cooling.png",
         "level": 2
       }
     ],
@@ -4780,7 +4920,7 @@
   {
     "id": 58,
     "key": "058",
-    "image": "/public/images/058.png",
+    "image": "/public/images/paldeck/058.png",
     "name": "Pyrin",
     "wiki": "https://palworld.fandom.com/wiki/Pyrin",
     "types": ["fire"],
@@ -4788,10 +4928,12 @@
     "suitability": [
       {
         "type": "kindling",
+        "image": "/public/images/works/kindling.png",
         "level": 2
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 1
       }
     ],
@@ -4863,7 +5005,7 @@
   {
     "id": 59,
     "key": "059",
-    "image": "/public/images/059.png",
+    "image": "/public/images/paldeck/059.png",
     "name": "Reindrix",
     "wiki": "https://palworld.fandom.com/wiki/Reindrix",
     "types": ["ice"],
@@ -4871,10 +5013,12 @@
     "suitability": [
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 2
       },
       {
         "type": "cooling",
+        "image": "/public/images/works/cooling.png",
         "level": 2
       }
     ],
@@ -4946,7 +5090,7 @@
   {
     "id": 60,
     "key": "060",
-    "image": "/public/images/060.png",
+    "image": "/public/images/paldeck/060.png",
     "name": "Rayhound",
     "wiki": "https://palworld.fandom.com/wiki/Rayhound",
     "types": ["electric"],
@@ -4954,6 +5098,7 @@
     "suitability": [
       {
         "type": "generating_electricity",
+        "image": "/public/images/works/generating_electricity.png",
         "level": 2
       }
     ],
@@ -5025,7 +5170,7 @@
   {
     "id": 61,
     "key": "061",
-    "image": "/public/images/061.png",
+    "image": "/public/images/paldeck/061.png",
     "name": "Kitsun",
     "wiki": "https://palworld.fandom.com/wiki/Kitsun",
     "types": ["fire"],
@@ -5033,6 +5178,7 @@
     "suitability": [
       {
         "type": "kindling",
+        "image": "/public/images/works/kindling.png",
         "level": 2
       }
     ],
@@ -5104,7 +5250,7 @@
   {
     "id": 62,
     "key": "062",
-    "image": "/public/images/062.png",
+    "image": "/public/images/paldeck/062.png",
     "name": "Dazzi",
     "wiki": "https://palworld.fandom.com/wiki/Dazzi",
     "types": ["electric"],
@@ -5112,14 +5258,17 @@
     "suitability": [
       {
         "type": "generating_electricity",
+        "image": "/public/images/works/generating_electricity.png",
         "level": 1
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 1
       }
     ],
@@ -5191,7 +5340,7 @@
   {
     "id": 63,
     "key": "063",
-    "image": "/public/images/063.png",
+    "image": "/public/images/paldeck/063.png",
     "name": "Lunaris",
     "wiki": "https://palworld.fandom.com/wiki/Lunaris",
     "types": ["neutral"],
@@ -5199,14 +5348,17 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 3
       }
     ],
@@ -5278,7 +5430,7 @@
   {
     "id": 64,
     "key": "064",
-    "image": "/public/images/064.png",
+    "image": "/public/images/paldeck/064.png",
     "name": "Dinossom",
     "wiki": "https://palworld.fandom.com/wiki/Dinossom",
     "types": ["grass", "dragon"],
@@ -5286,10 +5438,12 @@
     "suitability": [
       {
         "type": "planting",
+        "image": "/public/images/works/planting.png",
         "level": 2
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 2
       }
     ],
@@ -5361,7 +5515,7 @@
   {
     "id": 65,
     "key": "065",
-    "image": "/public/images/065.png",
+    "image": "/public/images/paldeck/065.png",
     "name": "Surfent",
     "wiki": "https://palworld.fandom.com/wiki/Surfent",
     "types": ["water"],
@@ -5369,6 +5523,7 @@
     "suitability": [
       {
         "type": "watering",
+        "image": "/public/images/works/watering.png",
         "level": 2
       }
     ],
@@ -5440,7 +5595,7 @@
   {
     "id": 66,
     "key": "066",
-    "image": "/public/images/066.png",
+    "image": "/public/images/paldeck/066.png",
     "name": "Maraith",
     "wiki": "https://palworld.fandom.com/wiki/Maraith",
     "types": ["dark"],
@@ -5448,10 +5603,12 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 2
       },
       {
         "type": "mining",
+        "image": "/public/images/works/mining.png",
         "level": 1
       }
     ],
@@ -5523,7 +5680,7 @@
   {
     "id": 67,
     "key": "067",
-    "image": "/public/images/067.png",
+    "image": "/public/images/paldeck/067.png",
     "name": "Digtoise",
     "wiki": "https://palworld.fandom.com/wiki/Digtoise",
     "types": ["ground"],
@@ -5531,6 +5688,7 @@
     "suitability": [
       {
         "type": "mining",
+        "image": "/public/images/works/mining.png",
         "level": 3
       }
     ],
@@ -5602,7 +5760,7 @@
   {
     "id": 68,
     "key": "068",
-    "image": "/public/images/068.png",
+    "image": "/public/images/paldeck/068.png",
     "name": "Tombat",
     "wiki": "https://palworld.fandom.com/wiki/Tombat",
     "types": ["dark"],
@@ -5610,14 +5768,17 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 2
       },
       {
         "type": "mining",
+        "image": "/public/images/works/mining.png",
         "level": 2
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 2
       }
     ],
@@ -5689,7 +5850,7 @@
   {
     "id": 69,
     "key": "069",
-    "image": "/public/images/069.png",
+    "image": "/public/images/paldeck/069.png",
     "name": "Lovander",
     "wiki": "https://palworld.fandom.com/wiki/Lovander",
     "types": ["neutral"],
@@ -5697,18 +5858,22 @@
     "suitability": [
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "medicine_production",
+        "image": "/public/images/works/medicine_production.png",
         "level": 2
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 2
       },
       {
         "type": "mining",
+        "image": "/public/images/works/mining.png",
         "level": 1
       }
     ],
@@ -5780,7 +5945,7 @@
   {
     "id": 70,
     "key": "070",
-    "image": "/public/images/070.png",
+    "image": "/public/images/paldeck/070.png",
     "name": "Flambelle",
     "wiki": "https://palworld.fandom.com/wiki/Flambelle",
     "types": ["fire"],
@@ -5788,18 +5953,22 @@
     "suitability": [
       {
         "type": "kindling",
+        "image": "/public/images/works/kindling.png",
         "level": 1
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "farming",
+        "image": "/public/images/works/farming.png",
         "level": 1
       }
     ],
@@ -5871,7 +6040,7 @@
   {
     "id": 71,
     "key": "071",
-    "image": "/public/images/071.png",
+    "image": "/public/images/paldeck/071.png",
     "name": "Vanwyrm",
     "wiki": "https://palworld.fandom.com/wiki/Vanwyrm",
     "types": ["fire", "dark"],
@@ -5879,10 +6048,12 @@
     "suitability": [
       {
         "type": "kindling",
+        "image": "/public/images/works/kindling.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 3
       }
     ],
@@ -5954,7 +6125,7 @@
   {
     "id": 72,
     "key": "072",
-    "image": "/public/images/072.png",
+    "image": "/public/images/paldeck/072.png",
     "name": "Bushi",
     "wiki": "https://palworld.fandom.com/wiki/Bushi",
     "types": ["fire"],
@@ -5962,22 +6133,27 @@
     "suitability": [
       {
         "type": "kindling",
+        "image": "/public/images/works/kindling.png",
         "level": 2
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 2
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 3
       },
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -6049,7 +6225,7 @@
   {
     "id": 73,
     "key": "073",
-    "image": "/public/images/073.png",
+    "image": "/public/images/paldeck/073.png",
     "name": "Beakon",
     "wiki": "https://palworld.fandom.com/wiki/Beakon",
     "types": ["electric"],
@@ -6057,14 +6233,17 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "generating_electricity",
+        "image": "/public/images/works/generating_electricity.png",
         "level": 2
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 3
       }
     ],
@@ -6136,7 +6315,7 @@
   {
     "id": 74,
     "key": "074",
-    "image": "/public/images/074.png",
+    "image": "/public/images/paldeck/074.png",
     "name": "Ragnahawk",
     "wiki": "https://palworld.fandom.com/wiki/Ragnahawk",
     "types": ["fire"],
@@ -6144,10 +6323,12 @@
     "suitability": [
       {
         "type": "kindling",
+        "image": "/public/images/works/kindling.png",
         "level": 3
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 3
       }
     ],
@@ -6219,7 +6400,7 @@
   {
     "id": 75,
     "key": "075",
-    "image": "/public/images/075.png",
+    "image": "/public/images/paldeck/075.png",
     "name": "Katress",
     "wiki": "https://palworld.fandom.com/wiki/Katress",
     "types": ["dark"],
@@ -6227,14 +6408,17 @@
     "suitability": [
       {
         "type": "medicine_production",
+        "image": "/public/images/works/medicine_production.png",
         "level": 2
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 2
       }
     ],
@@ -6306,7 +6490,7 @@
   {
     "id": 76,
     "key": "076",
-    "image": "/public/images/076.png",
+    "image": "/public/images/paldeck/076.png",
     "name": "Wixen",
     "wiki": "https://palworld.fandom.com/wiki/Wixen",
     "types": ["fire"],
@@ -6314,14 +6498,17 @@
     "suitability": [
       {
         "type": "kindling",
+        "image": "/public/images/works/kindling.png",
         "level": 2
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 3
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 2
       }
     ],
@@ -6393,7 +6580,7 @@
   {
     "id": 77,
     "key": "077",
-    "image": "/public/images/077.png",
+    "image": "/public/images/paldeck/077.png",
     "name": "Verdash",
     "wiki": "https://palworld.fandom.com/wiki/Verdash",
     "types": ["grass"],
@@ -6401,22 +6588,27 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 3
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 2
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 3
       },
       {
         "type": "planting",
+        "image": "/public/images/works/planting.png",
         "level": 2
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 2
       }
     ],
@@ -6488,7 +6680,7 @@
   {
     "id": 78,
     "key": "078",
-    "image": "/public/images/078.png",
+    "image": "/public/images/paldeck/078.png",
     "name": "Vaelet",
     "wiki": "https://palworld.fandom.com/wiki/Vaelet",
     "types": ["grass"],
@@ -6496,22 +6688,27 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 2
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "medicine_production",
+        "image": "/public/images/works/medicine_production.png",
         "level": 3
       },
       {
         "type": "planting",
+        "image": "/public/images/works/planting.png",
         "level": 2
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 1
       }
     ],
@@ -6583,7 +6780,7 @@
   {
     "id": 79,
     "key": "079",
-    "image": "/public/images/079.png",
+    "image": "/public/images/paldeck/079.png",
     "name": "Sibelyx",
     "wiki": "https://palworld.fandom.com/wiki/Sibelyx",
     "types": ["ice"],
@@ -6591,14 +6788,17 @@
     "suitability": [
       {
         "type": "medicine_production",
+        "image": "/public/images/works/medicine_production.png",
         "level": 2
       },
       {
         "type": "cooling",
+        "image": "/public/images/works/cooling.png",
         "level": 2
       },
       {
         "type": "farming",
+        "image": "/public/images/works/farming.png",
         "level": 1
       }
     ],
@@ -6670,7 +6870,7 @@
   {
     "id": 80,
     "key": "080",
-    "image": "/public/images/080.png",
+    "image": "/public/images/paldeck/080.png",
     "name": "Elphidran",
     "wiki": "https://palworld.fandom.com/wiki/Elphidran",
     "types": ["dragon"],
@@ -6678,6 +6878,7 @@
     "suitability": [
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 2
       }
     ],
@@ -6749,7 +6950,7 @@
   {
     "id": 81,
     "key": "081",
-    "image": "/public/images/081.png",
+    "image": "/public/images/paldeck/081.png",
     "name": "Kelpsea",
     "wiki": "https://palworld.fandom.com/wiki/Kelpsea",
     "types": ["water"],
@@ -6757,6 +6958,7 @@
     "suitability": [
       {
         "type": "watering",
+        "image": "/public/images/works/watering.png",
         "level": 1
       }
     ],
@@ -6828,7 +7030,7 @@
   {
     "id": 82,
     "key": "082",
-    "image": "/public/images/082.png",
+    "image": "/public/images/paldeck/082.png",
     "name": "Azurobe",
     "wiki": "https://palworld.fandom.com/wiki/Azurobe",
     "types": ["water", "dragon"],
@@ -6836,6 +7038,7 @@
     "suitability": [
       {
         "type": "watering",
+        "image": "/public/images/works/watering.png",
         "level": 3
       }
     ],
@@ -6907,7 +7110,7 @@
   {
     "id": 83,
     "key": "083",
-    "image": "/public/images/083.png",
+    "image": "/public/images/paldeck/083.png",
     "name": "Cryolinx",
     "wiki": "https://palworld.fandom.com/wiki/Cryolinx",
     "types": ["ice"],
@@ -6915,14 +7118,17 @@
     "suitability": [
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 2
       },
       {
         "type": "cooling",
+        "image": "/public/images/works/cooling.png",
         "level": 3
       }
     ],
@@ -6994,7 +7200,7 @@
   {
     "id": 84,
     "key": "084",
-    "image": "/public/images/084.png",
+    "image": "/public/images/paldeck/084.png",
     "name": "Blazehowl",
     "wiki": "https://palworld.fandom.com/wiki/Blazehowl",
     "types": ["fire"],
@@ -7002,10 +7208,12 @@
     "suitability": [
       {
         "type": "kindling",
+        "image": "/public/images/works/kindling.png",
         "level": 3
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 2
       }
     ],
@@ -7077,7 +7285,7 @@
   {
     "id": 85,
     "key": "085",
-    "image": "/public/images/085.png",
+    "image": "/public/images/paldeck/085.png",
     "name": "Relaxaurus",
     "wiki": "https://palworld.fandom.com/wiki/Relaxaurus",
     "types": ["dragon", "water"],
@@ -7085,10 +7293,12 @@
     "suitability": [
       {
         "type": "watering",
+        "image": "/public/images/works/watering.png",
         "level": 2
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 1
       }
     ],
@@ -7160,7 +7370,7 @@
   {
     "id": 86,
     "key": "086",
-    "image": "/public/images/086.png",
+    "image": "/public/images/paldeck/086.png",
     "name": "Broncherry",
     "wiki": "https://palworld.fandom.com/wiki/Broncherry",
     "types": ["grass"],
@@ -7168,6 +7378,7 @@
     "suitability": [
       {
         "type": "planting",
+        "image": "/public/images/works/planting.png",
         "level": 3
       }
     ],
@@ -7239,7 +7450,7 @@
   {
     "id": 87,
     "key": "087",
-    "image": "/public/images/087.png",
+    "image": "/public/images/paldeck/087.png",
     "name": "Petallia",
     "wiki": "https://palworld.fandom.com/wiki/Petallia",
     "types": ["grass"],
@@ -7247,22 +7458,27 @@
     "suitability": [
       {
         "type": "planting",
+        "image": "/public/images/works/planting.png",
         "level": 3
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 2
       },
       {
         "type": "medicine_production",
+        "image": "/public/images/works/medicine_production.png",
         "level": 2
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 1
       }
     ],
@@ -7334,7 +7550,7 @@
   {
     "id": 88,
     "key": "088",
-    "image": "/public/images/088.png",
+    "image": "/public/images/paldeck/088.png",
     "name": "Reptyro",
     "wiki": "https://palworld.fandom.com/wiki/Reptyro",
     "types": ["fire", "ground"],
@@ -7342,10 +7558,12 @@
     "suitability": [
       {
         "type": "kindling",
+        "image": "/public/images/works/kindling.png",
         "level": 3
       },
       {
         "type": "mining",
+        "image": "/public/images/works/mining.png",
         "level": 3
       }
     ],
@@ -7417,7 +7635,7 @@
   {
     "id": 89,
     "key": "089",
-    "image": "/public/images/089.png",
+    "image": "/public/images/paldeck/089.png",
     "name": "Kingpaca",
     "wiki": "https://palworld.fandom.com/wiki/Kingpaca",
     "types": ["neutral"],
@@ -7425,6 +7643,7 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -7496,7 +7715,7 @@
   {
     "id": 90,
     "key": "090",
-    "image": "/public/images/090.png",
+    "image": "/public/images/paldeck/090.png",
     "name": "Mammorest",
     "wiki": "https://palworld.fandom.com/wiki/Mammorest",
     "types": ["grass"],
@@ -7504,14 +7723,17 @@
     "suitability": [
       {
         "type": "planting",
+        "image": "/public/images/works/planting.png",
         "level": 2
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 2
       },
       {
         "type": "mining",
+        "image": "/public/images/works/mining.png",
         "level": 2
       }
     ],
@@ -7583,7 +7805,7 @@
   {
     "id": 91,
     "key": "091",
-    "image": "/public/images/091.png",
+    "image": "/public/images/paldeck/091.png",
     "name": "Wumpo",
     "wiki": "https://palworld.fandom.com/wiki/Wumpo",
     "types": ["ice"],
@@ -7591,18 +7813,22 @@
     "suitability": [
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 3
       },
       {
         "type": "cooling",
+        "image": "/public/images/works/cooling.png",
         "level": 2
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 4
       }
     ],
@@ -7674,7 +7900,7 @@
   {
     "id": 92,
     "key": "092",
-    "image": "/public/images/092.png",
+    "image": "/public/images/paldeck/092.png",
     "name": "Warsect",
     "wiki": "https://palworld.fandom.com/wiki/Warsect",
     "types": ["grass", "ground"],
@@ -7682,18 +7908,22 @@
     "suitability": [
       {
         "type": "planting",
+        "image": "/public/images/works/planting.png",
         "level": 1
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 3
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 3
       }
     ],
@@ -7765,7 +7995,7 @@
   {
     "id": 93,
     "key": "093",
-    "image": "/public/images/093.png",
+    "image": "/public/images/paldeck/093.png",
     "name": "Fenglope",
     "wiki": "https://palworld.fandom.com/wiki/Fenglope",
     "types": ["neutral"],
@@ -7773,6 +8003,7 @@
     "suitability": [
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 2
       }
     ],
@@ -7844,7 +8075,7 @@
   {
     "id": 94,
     "key": "094",
-    "image": "/public/images/094.png",
+    "image": "/public/images/paldeck/094.png",
     "name": "Felbat",
     "wiki": "https://palworld.fandom.com/wiki/Felbat",
     "types": ["dark"],
@@ -7852,6 +8083,7 @@
     "suitability": [
       {
         "type": "medicine_production",
+        "image": "/public/images/works/medicine_production.png",
         "level": 3
       }
     ],
@@ -7923,7 +8155,7 @@
   {
     "id": 95,
     "key": "095",
-    "image": "/public/images/095.png",
+    "image": "/public/images/paldeck/095.png",
     "name": "Quivern",
     "wiki": "https://palworld.fandom.com/wiki/Quivern",
     "types": ["dragon"],
@@ -7931,18 +8163,22 @@
     "suitability": [
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 3
       },
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 2
       },
       {
         "type": "mining",
+        "image": "/public/images/works/mining.png",
         "level": 2
       }
     ],
@@ -8014,7 +8250,7 @@
   {
     "id": 96,
     "key": "096",
-    "image": "/public/images/096.png",
+    "image": "/public/images/paldeck/096.png",
     "name": "Blazamut",
     "wiki": "https://palworld.fandom.com/wiki/Blazamut",
     "types": ["fire"],
@@ -8022,10 +8258,12 @@
     "suitability": [
       {
         "type": "kindling",
+        "image": "/public/images/works/kindling.png",
         "level": 3
       },
       {
         "type": "mining",
+        "image": "/public/images/works/mining.png",
         "level": 4
       }
     ],
@@ -8097,7 +8335,7 @@
   {
     "id": 97,
     "key": "097",
-    "image": "/public/images/097.png",
+    "image": "/public/images/paldeck/097.png",
     "name": "Helzephyr",
     "wiki": "https://palworld.fandom.com/wiki/Helzephyr",
     "types": ["dark"],
@@ -8105,6 +8343,7 @@
     "suitability": [
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 3
       }
     ],
@@ -8176,7 +8415,7 @@
   {
     "id": 98,
     "key": "098",
-    "image": "/public/images/098.png",
+    "image": "/public/images/paldeck/098.png",
     "name": "Astegon",
     "wiki": "https://palworld.fandom.com/wiki/Astegon",
     "types": ["dragon", "dark"],
@@ -8184,10 +8423,12 @@
     "suitability": [
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "mining",
+        "image": "/public/images/works/mining.png",
         "level": 4
       }
     ],
@@ -8259,7 +8500,7 @@
   {
     "id": 99,
     "key": "099",
-    "image": "/public/images/099.png",
+    "image": "/public/images/paldeck/099.png",
     "name": "Menasting",
     "wiki": "https://palworld.fandom.com/wiki/Menasting",
     "types": ["dark", "ground"],
@@ -8267,10 +8508,12 @@
     "suitability": [
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 2
       },
       {
         "type": "mining",
+        "image": "/public/images/works/mining.png",
         "level": 3
       }
     ],
@@ -8342,7 +8585,7 @@
   {
     "id": 100,
     "key": "100",
-    "image": "/public/images/100.png",
+    "image": "/public/images/paldeck/100.png",
     "name": "Anubis",
     "wiki": "https://palworld.fandom.com/wiki/Anubis",
     "types": ["ground"],
@@ -8350,14 +8593,17 @@
     "suitability": [
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 4
       },
       {
         "type": "mining",
+        "image": "/public/images/works/mining.png",
         "level": 3
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 2
       }
     ],
@@ -8429,7 +8675,7 @@
   {
     "id": 101,
     "key": "101",
-    "image": "/public/images/101.png",
+    "image": "/public/images/paldeck/101.png",
     "name": "Jormuntide",
     "wiki": "https://palworld.fandom.com/wiki/Jormuntide",
     "types": ["dragon", "water"],
@@ -8437,6 +8683,7 @@
     "suitability": [
       {
         "type": "watering",
+        "image": "/public/images/works/watering.png",
         "level": 4
       }
     ],
@@ -8508,7 +8755,7 @@
   {
     "id": 102,
     "key": "102",
-    "image": "/public/images/102.png",
+    "image": "/public/images/paldeck/102.png",
     "name": "Suzaku",
     "wiki": "https://palworld.fandom.com/wiki/Suzaku",
     "types": ["fire"],
@@ -8516,6 +8763,7 @@
     "suitability": [
       {
         "type": "kindling",
+        "image": "/public/images/works/kindling.png",
         "level": 3
       }
     ],
@@ -8587,7 +8835,7 @@
   {
     "id": 103,
     "key": "103",
-    "image": "/public/images/103.png",
+    "image": "/public/images/paldeck/103.png",
     "name": "Grizzbolt",
     "wiki": "https://palworld.fandom.com/wiki/Grizzbolt",
     "types": ["electric"],
@@ -8595,18 +8843,22 @@
     "suitability": [
       {
         "type": "generating_electricity",
+        "image": "/public/images/works/generating_electricity.png",
         "level": 3
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 3
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 2
       }
     ],
@@ -8678,7 +8930,7 @@
   {
     "id": 104,
     "key": "104",
-    "image": "/public/images/104.png",
+    "image": "/public/images/paldeck/104.png",
     "name": "Lyleen",
     "wiki": "https://palworld.fandom.com/wiki/Lyleen",
     "types": ["grass"],
@@ -8686,18 +8938,22 @@
     "suitability": [
       {
         "type": "planting",
+        "image": "/public/images/works/planting.png",
         "level": 4
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 3
       },
       {
         "type": "medicine_production",
+        "image": "/public/images/works/medicine_production.png",
         "level": 3
       },
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 2
       }
     ],
@@ -8773,7 +9029,7 @@
   {
     "id": 105,
     "key": "105",
-    "image": "/public/images/105.png",
+    "image": "/public/images/paldeck/105.png",
     "name": "Faleris",
     "wiki": "https://palworld.fandom.com/wiki/Faleris",
     "types": ["fire"],
@@ -8781,10 +9037,12 @@
     "suitability": [
       {
         "type": "kindling",
+        "image": "/public/images/works/kindling.png",
         "level": 3
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 3
       }
     ],
@@ -8856,7 +9114,7 @@
   {
     "id": 106,
     "key": "106",
-    "image": "/public/images/106.png",
+    "image": "/public/images/paldeck/106.png",
     "name": "Orserk",
     "wiki": "https://palworld.fandom.com/wiki/Orserk",
     "types": ["dragon", "electric"],
@@ -8864,14 +9122,17 @@
     "suitability": [
       {
         "type": "generating_electricity",
+        "image": "/public/images/works/generating_electricity.png",
         "level": 4
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 3
       }
     ],
@@ -8943,7 +9204,7 @@
   {
     "id": 107,
     "key": "107",
-    "image": "/public/images/107.png",
+    "image": "/public/images/paldeck/107.png",
     "name": "Shadowbeak",
     "wiki": "https://palworld.fandom.com/wiki/Shadowbeak",
     "types": ["dark"],
@@ -8951,6 +9212,7 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -9022,7 +9284,7 @@
   {
     "id": 108,
     "key": "108",
-    "image": "/public/images/108.png",
+    "image": "/public/images/paldeck/108.png",
     "name": "Paladius",
     "wiki": "https://palworld.fandom.com/wiki/Paladius",
     "types": ["neutral"],
@@ -9030,10 +9292,12 @@
     "suitability": [
       {
         "type": "mining",
+        "image": "/public/images/works/mining.png",
         "level": 2
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 2
       }
     ],
@@ -9105,7 +9369,7 @@
   {
     "id": 109,
     "key": "109",
-    "image": "/public/images/109.png",
+    "image": "/public/images/paldeck/109.png",
     "name": "Necromus",
     "wiki": "https://palworld.fandom.com/wiki/Necromus",
     "types": ["dark"],
@@ -9113,10 +9377,12 @@
     "suitability": [
       {
         "type": "mining",
+        "image": "/public/images/works/mining.png",
         "level": 2
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 2
       }
     ],
@@ -9188,7 +9454,7 @@
   {
     "id": 110,
     "key": "110",
-    "image": "/public/images/110.png",
+    "image": "/public/images/paldeck/110.png",
     "name": "Frostallion",
     "wiki": "https://palworld.fandom.com/wiki/Frostallion",
     "types": ["ice"],
@@ -9196,6 +9462,7 @@
     "suitability": [
       {
         "type": "cooling",
+        "image": "/public/images/works/cooling.png",
         "level": 4
       }
     ],
@@ -9267,7 +9534,7 @@
   {
     "id": 111,
     "key": "111",
-    "image": "/public/images/111.png",
+    "image": "/public/images/paldeck/111.png",
     "name": "Jetragon",
     "wiki": "https://palworld.fandom.com/wiki/Jetragon",
     "types": ["dragon"],
@@ -9275,6 +9542,7 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 3
       }
     ],
@@ -9346,7 +9614,7 @@
   {
     "id": 112,
     "key": "012B",
-    "image": "/public/images/012B.png",
+    "image": "/public/images/paldeck/012B.png",
     "name": "Jolthog Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Jolthog_Cryst",
     "types": ["ice"],
@@ -9354,6 +9622,7 @@
     "suitability": [
       {
         "type": "cooling",
+        "image": "/public/images/works/cooling.png",
         "level": 1
       }
     ],
@@ -9425,7 +9694,7 @@
   {
     "id": 113,
     "key": "024B",
-    "image": "/public/images/024B.png",
+    "image": "/public/images/paldeck/024B.png",
     "name": "Mau Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Mau_Cryst",
     "types": ["ice"],
@@ -9433,10 +9702,12 @@
     "suitability": [
       {
         "type": "cooling",
+        "image": "/public/images/works/cooling.png",
         "level": 1
       },
       {
         "type": "farming",
+        "image": "/public/images/works/farming.png",
         "level": 1
       }
     ],
@@ -9508,7 +9779,7 @@
   {
     "id": 114,
     "key": "031B",
-    "image": "/public/images/031B.png",
+    "image": "/public/images/paldeck/031B.png",
     "name": "Gobfin Ignis",
     "wiki": "https://palworld.fandom.com/wiki/Gobfin_Ignis",
     "types": ["fire"],
@@ -9516,14 +9787,17 @@
     "suitability": [
       {
         "type": "kindling",
+        "image": "/public/images/works/kindling.png",
         "level": 2
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 1
       }
     ],
@@ -9595,7 +9869,7 @@
   {
     "id": 115,
     "key": "032B",
-    "image": "/public/images/032B.png",
+    "image": "/public/images/paldeck/032B.png",
     "name": "Hangyu Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Hangyu_Cryst",
     "types": ["ice"],
@@ -9603,18 +9877,22 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "cooling",
+        "image": "/public/images/works/cooling.png",
         "level": 1
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 2
       }
     ],
@@ -9686,7 +9964,7 @@
   {
     "id": 116,
     "key": "033B",
-    "image": "/public/images/033B.png",
+    "image": "/public/images/paldeck/033B.png",
     "name": "Mossanda Lux",
     "wiki": "https://palworld.fandom.com/wiki/Mossanda_Lux",
     "types": ["electric"],
@@ -9694,18 +9972,22 @@
     "suitability": [
       {
         "type": "generating_electricity",
+        "image": "/public/images/works/generating_electricity.png",
         "level": 2
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 2
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 3
       }
     ],
@@ -9777,7 +10059,7 @@
   {
     "id": 117,
     "key": "037B",
-    "image": "/public/images/037B.png",
+    "image": "/public/images/paldeck/037B.png",
     "name": "Eikthyrdeer Terra",
     "wiki": "https://palworld.fandom.com/wiki/Eikthyrdeer_Terra",
     "types": ["ground"],
@@ -9785,6 +10067,7 @@
     "suitability": [
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 2
       }
     ],
@@ -9856,7 +10139,7 @@
   {
     "id": 118,
     "key": "040B",
-    "image": "/public/images/040B.png",
+    "image": "/public/images/paldeck/040B.png",
     "name": "Incineram Noct",
     "wiki": "https://palworld.fandom.com/wiki/Incineram_Noct",
     "types": ["dark"],
@@ -9864,14 +10147,17 @@
     "suitability": [
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "mining",
+        "image": "/public/images/works/mining.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 2
       }
     ],
@@ -9943,7 +10229,7 @@
   {
     "id": 119,
     "key": "045B",
-    "image": "/public/images/045B.png",
+    "image": "/public/images/paldeck/045B.png",
     "name": "Leezpunk Ignis",
     "wiki": "https://palworld.fandom.com/wiki/Leezpunk_Ignis",
     "types": ["fire"],
@@ -9951,18 +10237,22 @@
     "suitability": [
       {
         "type": "kindling",
+        "image": "/public/images/works/kindling.png",
         "level": 1
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -10034,7 +10324,7 @@
   {
     "id": 120,
     "key": "048B",
-    "image": "/public/images/048B.png",
+    "image": "/public/images/paldeck/048B.png",
     "name": "Robinquill Terra",
     "wiki": "https://palworld.fandom.com/wiki/Robinquill_Terra",
     "types": ["grass", "ground"],
@@ -10042,22 +10332,27 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 2
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 1
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "medicine_production",
+        "image": "/public/images/works/medicine_production.png",
         "level": 1
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 2
       }
     ],
@@ -10129,7 +10424,7 @@
   {
     "id": 121,
     "key": "058B",
-    "image": "/public/images/058B.png",
+    "image": "/public/images/paldeck/058B.png",
     "name": "Pyrin Noct",
     "wiki": "https://palworld.fandom.com/wiki/Pyrin_Noct",
     "types": ["fire", "dark"],
@@ -10137,10 +10432,12 @@
     "suitability": [
       {
         "type": "kindling",
+        "image": "/public/images/works/kindling.png",
         "level": 2
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 1
       }
     ],
@@ -10212,7 +10509,7 @@
   {
     "id": 122,
     "key": "064B",
-    "image": "/public/images/064B.png",
+    "image": "/public/images/paldeck/064B.png",
     "name": "Dinossom Lux",
     "wiki": "https://palworld.fandom.com/wiki/Dinossom_Lux",
     "types": ["electric", "dragon"],
@@ -10220,10 +10517,12 @@
     "suitability": [
       {
         "type": "generating_electricity",
+        "image": "/public/images/works/generating_electricity.png",
         "level": 2
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 2
       }
     ],
@@ -10295,7 +10594,7 @@
   {
     "id": 123,
     "key": "065B",
-    "image": "/public/images/065B.png",
+    "image": "/public/images/paldeck/065B.png",
     "name": "Surfent Terra",
     "wiki": "https://palworld.fandom.com/wiki/Surfent_Terra",
     "types": ["ground"],
@@ -10303,6 +10602,7 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -10374,7 +10674,7 @@
   {
     "id": 124,
     "key": "071B",
-    "image": "/public/images/071B.png",
+    "image": "/public/images/paldeck/071B.png",
     "name": "Vanwyrm Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Vanwyrm_Cryst",
     "types": ["ice", "dark"],
@@ -10382,10 +10682,12 @@
     "suitability": [
       {
         "type": "cooling",
+        "image": "/public/images/works/cooling.png",
         "level": 2
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 3
       }
     ],
@@ -10457,7 +10759,7 @@
   {
     "id": 125,
     "key": "080B",
-    "image": "/public/images/080B.png",
+    "image": "/public/images/paldeck/080B.png",
     "name": "Elphidran Aqua",
     "wiki": "https://palworld.fandom.com/wiki/Elphidran_Aqua",
     "types": ["dragon", "water"],
@@ -10465,10 +10767,12 @@
     "suitability": [
       {
         "type": "watering",
+        "image": "/public/images/works/watering.png",
         "level": 3
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 2
       }
     ],
@@ -10540,7 +10844,7 @@
   {
     "id": 126,
     "key": "081B",
-    "image": "/public/images/081B.png",
+    "image": "/public/images/paldeck/081B.png",
     "name": "Kelpsea Ignis",
     "wiki": "https://palworld.fandom.com/wiki/Kelpsea_Ignis",
     "types": ["fire"],
@@ -10548,6 +10852,7 @@
     "suitability": [
       {
         "type": "kindling",
+        "image": "/public/images/works/kindling.png",
         "level": 1
       }
     ],
@@ -10619,7 +10924,7 @@
   {
     "id": 127,
     "key": "084B",
-    "image": "/public/images/084B.png",
+    "image": "/public/images/paldeck/084B.png",
     "name": "Blazehowl Noct",
     "wiki": "https://palworld.fandom.com/wiki/Blazehowl_Noct",
     "types": ["fire", "dark"],
@@ -10627,10 +10932,12 @@
     "suitability": [
       {
         "type": "kindling",
+        "image": "/public/images/works/kindling.png",
         "level": 3
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 2
       }
     ],
@@ -10702,7 +11009,7 @@
   {
     "id": 128,
     "key": "085B",
-    "image": "/public/images/085B.png",
+    "image": "/public/images/paldeck/085B.png",
     "name": "Relaxaurus Lux",
     "wiki": "https://palworld.fandom.com/wiki/Relaxaurus_Lux",
     "types": ["dragon", "electric"],
@@ -10710,10 +11017,12 @@
     "suitability": [
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "generating_electricity",
+        "image": "/public/images/works/generating_electricity.png",
         "level": 3
       }
     ],
@@ -10785,7 +11094,7 @@
   {
     "id": 129,
     "key": "086B",
-    "image": "/public/images/086B.png",
+    "image": "/public/images/paldeck/086B.png",
     "name": "Broncherry Aqua",
     "wiki": "https://palworld.fandom.com/wiki/Broncherry_Aqua",
     "types": ["grass", "water"],
@@ -10793,6 +11102,7 @@
     "suitability": [
       {
         "type": "watering",
+        "image": "/public/images/works/watering.png",
         "level": 3
       }
     ],
@@ -10864,7 +11174,7 @@
   {
     "id": 130,
     "key": "088B",
-    "image": "/public/images/088B.png",
+    "image": "/public/images/paldeck/088B.png",
     "name": "Ice Reptyro",
     "wiki": "https://palworld.fandom.com/wiki/Ice_Reptyro",
     "types": ["ice", "ground"],
@@ -10872,10 +11182,12 @@
     "suitability": [
       {
         "type": "mining",
+        "image": "/public/images/works/mining.png",
         "level": 3
       },
       {
         "type": "cooling",
+        "image": "/public/images/works/cooling.png",
         "level": 3
       }
     ],
@@ -10947,7 +11259,7 @@
   {
     "id": 131,
     "key": "089B",
-    "image": "/public/images/089B.png",
+    "image": "/public/images/paldeck/089B.png",
     "name": "Ice Kingpaca",
     "wiki": "https://palworld.fandom.com/wiki/Ice_Kingpaca",
     "types": ["ice"],
@@ -10955,10 +11267,12 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "cooling",
+        "image": "/public/images/works/cooling.png",
         "level": 3
       }
     ],
@@ -11030,7 +11344,7 @@
   {
     "id": 132,
     "key": "090B",
-    "image": "/public/images/090B.png",
+    "image": "/public/images/paldeck/090B.png",
     "name": "Mammorest Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Mammorest_Cryst",
     "types": ["ice"],
@@ -11038,14 +11352,17 @@
     "suitability": [
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 2
       },
       {
         "type": "mining",
+        "image": "/public/images/works/mining.png",
         "level": 2
       },
       {
         "type": "cooling",
+        "image": "/public/images/works/cooling.png",
         "level": 2
       }
     ],
@@ -11117,7 +11434,7 @@
   {
     "id": 133,
     "key": "091B",
-    "image": "/public/images/091B.png",
+    "image": "/public/images/paldeck/091B.png",
     "name": "Wumpo Botan",
     "wiki": "https://palworld.fandom.com/wiki/Wumpo_Botan",
     "types": ["grass"],
@@ -11125,18 +11442,22 @@
     "suitability": [
       {
         "type": "planting",
+        "image": "/public/images/works/planting.png",
         "level": 1
       },
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "lumbering",
+        "image": "/public/images/works/lumbering.png",
         "level": 3
       },
       {
         "type": "transporting",
+        "image": "/public/images/works/transporting.png",
         "level": 4
       }
     ],
@@ -11208,7 +11529,7 @@
   {
     "id": 134,
     "key": "101B",
-    "image": "/public/images/101B.png",
+    "image": "/public/images/paldeck/101B.png",
     "name": "Jormuntide Ignis",
     "wiki": "https://palworld.fandom.com/wiki/Jormuntide_Ignis",
     "types": ["dragon", "fire"],
@@ -11216,6 +11537,7 @@
     "suitability": [
       {
         "type": "kindling",
+        "image": "/public/images/works/kindling.png",
         "level": 4
       }
     ],
@@ -11287,7 +11609,7 @@
   {
     "id": 135,
     "key": "102B",
-    "image": "/public/images/102B.png",
+    "image": "/public/images/paldeck/102B.png",
     "name": "Suzaku Aqua",
     "wiki": "https://palworld.fandom.com/wiki/Suzaku_Aqua",
     "types": ["water"],
@@ -11295,6 +11617,7 @@
     "suitability": [
       {
         "type": "watering",
+        "image": "/public/images/works/watering.png",
         "level": 3
       }
     ],
@@ -11366,7 +11689,7 @@
   {
     "id": 136,
     "key": "104B",
-    "image": "/public/images/104B.png",
+    "image": "/public/images/paldeck/104B.png",
     "name": "Lyleen Noct",
     "wiki": "https://palworld.fandom.com/wiki/Lyleen_Noct",
     "types": ["dark"],
@@ -11374,14 +11697,17 @@
     "suitability": [
       {
         "type": "handiwork",
+        "image": "/public/images/works/handiwork.png",
         "level": 3
       },
       {
         "type": "medicine_production",
+        "image": "/public/images/works/medicine_production.png",
         "level": 3
       },
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 2
       }
     ],
@@ -11457,7 +11783,7 @@
   {
     "id": 137,
     "key": "110B",
-    "image": "/public/images/110B.png",
+    "image": "/public/images/paldeck/110B.png",
     "name": "Frostallion Noct",
     "wiki": "https://palworld.fandom.com/wiki/Frostallion_Noct",
     "types": ["dark"],
@@ -11465,6 +11791,7 @@
     "suitability": [
       {
         "type": "gathering",
+        "image": "/public/images/works/gathering.png",
         "level": 4
       }
     ],
