@@ -282,7 +282,7 @@
         "level": 1
       },
       {
-        "type": "medicine_function toLocaleLowerCase() { [native code] }",
+        "type": "medicine_production",
         "level": 1
       },
       {
@@ -539,7 +539,7 @@
         "level": 1
       },
       {
-        "type": "generating_function toLocaleLowerCase() { [native code] }",
+        "type": "generating_electricity",
         "level": 1
       }
     ],
@@ -978,7 +978,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/52/Jolthog_menu.png/",
     "suitability": [
       {
-        "type": "generating_function toLocaleLowerCase() { [native code] }",
+        "type": "generating_electricity",
         "level": 1
       }
     ],
@@ -2294,7 +2294,7 @@
         "level": 1
       },
       {
-        "type": "medicine_function toLocaleLowerCase() { [native code] }",
+        "type": "medicine_production",
         "level": 1
       },
       {
@@ -2464,7 +2464,7 @@
         "level": 1
       },
       {
-        "type": "medicine_function toLocaleLowerCase() { [native code] }",
+        "type": "medicine_production",
         "level": 2
       },
       {
@@ -3397,7 +3397,7 @@
         "level": 2
       },
       {
-        "type": "medicine_function toLocaleLowerCase() { [native code] }",
+        "type": "medicine_production",
         "level": 1
       }
     ],
@@ -3925,7 +3925,7 @@
         "level": 1
       },
       {
-        "type": "medicine_function toLocaleLowerCase() { [native code] }",
+        "type": "medicine_production",
         "level": 1
       },
       {
@@ -4111,7 +4111,7 @@
         "level": 1
       },
       {
-        "type": "medicine_function toLocaleLowerCase() { [native code] }",
+        "type": "medicine_production",
         "level": 1
       },
       {
@@ -4214,7 +4214,7 @@
         "level": 1
       },
       {
-        "type": "medicine_function toLocaleLowerCase() { [native code] }",
+        "type": "medicine_production",
         "level": 2
       },
       {
@@ -4625,7 +4625,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/0e/Univolt_menu.png/",
     "suitability": [
       {
-        "type": "generating_function toLocaleLowerCase() { [native code] }",
+        "type": "generating_electricity",
         "level": 2
       },
       {
@@ -4953,7 +4953,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/3f/Rayhound_menu.png/",
     "suitability": [
       {
-        "type": "generating_function toLocaleLowerCase() { [native code] }",
+        "type": "generating_electricity",
         "level": 2
       }
     ],
@@ -5111,7 +5111,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/b0/Dazzi_menu.png/",
     "suitability": [
       {
-        "type": "generating_function toLocaleLowerCase() { [native code] }",
+        "type": "generating_electricity",
         "level": 1
       },
       {
@@ -5700,7 +5700,7 @@
         "level": 2
       },
       {
-        "type": "medicine_function toLocaleLowerCase() { [native code] }",
+        "type": "medicine_production",
         "level": 2
       },
       {
@@ -6060,7 +6060,7 @@
         "level": 1
       },
       {
-        "type": "generating_function toLocaleLowerCase() { [native code] }",
+        "type": "generating_electricity",
         "level": 2
       },
       {
@@ -6226,7 +6226,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/9e/Katress_menu.png/",
     "suitability": [
       {
-        "type": "medicine_function toLocaleLowerCase() { [native code] }",
+        "type": "medicine_production",
         "level": 2
       },
       {
@@ -6503,7 +6503,7 @@
         "level": 2
       },
       {
-        "type": "medicine_function toLocaleLowerCase() { [native code] }",
+        "type": "medicine_production",
         "level": 3
       },
       {
@@ -6590,7 +6590,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/66/Sibelyx_menu.png/",
     "suitability": [
       {
-        "type": "medicine_function toLocaleLowerCase() { [native code] }",
+        "type": "medicine_production",
         "level": 2
       },
       {
@@ -7258,7 +7258,7 @@
         "level": 2
       },
       {
-        "type": "medicine_function toLocaleLowerCase() { [native code] }",
+        "type": "medicine_production",
         "level": 2
       },
       {
@@ -7851,7 +7851,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/7d/Felbat_menu.png/",
     "suitability": [
       {
-        "type": "medicine_function toLocaleLowerCase() { [native code] }",
+        "type": "medicine_production",
         "level": 3
       }
     ],
@@ -8594,7 +8594,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/13/Grizzbolt_menu.png/",
     "suitability": [
       {
-        "type": "generating_function toLocaleLowerCase() { [native code] }",
+        "type": "generating_electricity",
         "level": 3
       },
       {
@@ -8693,7 +8693,7 @@
         "level": 3
       },
       {
-        "type": "medicine_function toLocaleLowerCase() { [native code] }",
+        "type": "medicine_production",
         "level": 3
       },
       {
@@ -8863,7 +8863,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/6e/Orserk_menu.png/",
     "suitability": [
       {
-        "type": "generating_function toLocaleLowerCase() { [native code] }",
+        "type": "generating_electricity",
         "level": 4
       },
       {
@@ -8872,7 +8872,7 @@
       },
       {
         "type": "transporting",
-        "level": 4
+        "level": 3
       }
     ],
     "drops": ["electric_organ"],
@@ -9693,7 +9693,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/05/Mossanda_Lux_menu.png",
     "suitability": [
       {
-        "type": "generating_function toLocaleLowerCase() { [native code] }",
+        "type": "generating_electricity",
         "level": 2
       },
       {
@@ -10053,7 +10053,7 @@
         "level": 2
       },
       {
-        "type": "medicine_function toLocaleLowerCase() { [native code] }",
+        "type": "medicine_production",
         "level": 1
       },
       {
@@ -10219,7 +10219,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/c/c7/Dinossom_Lux_menu.png",
     "suitability": [
       {
-        "type": "generating_function toLocaleLowerCase() { [native code] }",
+        "type": "generating_electricity",
         "level": 2
       },
       {
@@ -10713,7 +10713,7 @@
         "level": 1
       },
       {
-        "type": "generating_function toLocaleLowerCase() { [native code] }",
+        "type": "generating_electricity",
         "level": 3
       }
     ],
@@ -11377,7 +11377,7 @@
         "level": 3
       },
       {
-        "type": "medicine_function toLocaleLowerCase() { [native code] }",
+        "type": "medicine_production",
         "level": 3
       },
       {
