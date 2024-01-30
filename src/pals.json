@@ -27,7 +27,8 @@
     "drops": ["wool", "lamball_mutton"],
     "aura": {
       "name": "fluffy_shield",
-      "description": "When activated, equips to the player and becomes a shield.\nSometimes drops Wool when assigned to Ranch."
+      "description": "When activated, equips to the player and becomes a shield.\nSometimes drops Wool when assigned to Ranch.",
+      "tech": null
     },
     "description": "A walk up a hill tends to end with this Pal tumbling back down. This causes it to become dizzy and unable to move, making it easy to capture and kill. As a result, this pal has tumbled down to the very bottom of the food chain itself.",
     "skills": [
@@ -122,7 +123,8 @@
     "drops": ["red_berries"],
     "aura": {
       "name": "cat_helper",
-      "description": "While in team, Cattiva helps carry supplies, increasing the player's max carrying capacity."
+      "description": "While in team, Cattiva helps carry supplies, increasing the player's max carrying capacity.",
+      "tech": null
     },
     "description": "At a glance it appears full of confidence, but it is in fact weak and cowardly.\nBeing toyed with by a Cattiva is in many ways the greatest of disgraces.",
     "skills": [
@@ -207,7 +209,8 @@
     "drops": ["egg", "chikipi_poultry"],
     "aura": {
       "name": "egg_layer",
-      "description": "Sometimes lays an Egg when assigned to Ranch."
+      "description": "Sometimes lays an Egg when assigned to Ranch.",
+      "tech": null
     },
     "description": "Extremely weak and far too delicious. It is one of the weakest Pal alongside Lamball. No matter how many are hunted, they just keep appearing.",
     "skills": [
@@ -307,7 +310,8 @@
     "drops": ["berry_seeds", "low_grade_medical_supplies"],
     "aura": {
       "name": "lifmunk_recoil",
-      "description": "When activated, leaps into the player's head and uses a submachine gun to follows up player attacks."
+      "description": "When activated, leaps into the player's head and uses a submachine gun to follows up player attacks.",
+      "tech": null
     },
     "description": "Intelligent as a five to sever-year-old human child. It makes a wonderful partner, but there have been more than a few cases where they've killed their master after learning to use weapons.",
     "skills": [
@@ -387,7 +391,8 @@
     "drops": ["leather", "flame_organ"],
     "aura": {
       "name": "huggy_fire",
-      "description": "When activated, equips to the player and transforms into a flamethrower."
+      "description": "When activated, equips to the player and transforms into a flamethrower.",
+      "tech": "Foxparks's Harness"
     },
     "description": "It is unskilled at controlling fire from the moment it is born and tends to choke on the flames it breathes unintentionally. Foxparks sneezes are one of the leading causes of forest fires.",
     "skills": [
@@ -477,7 +482,8 @@
     "drops": ["leather", "pal_fluids"],
     "aura": {
       "name": "surfing_slam",
-      "description": "When activated, Fuack body surfs towards an enemy and slams into them."
+      "description": "When activated, Fuack body surfs towards an enemy and slams into them.",
+      "tech": null
     },
     "description": "Using its own body water, this Pal can create waves anywhere. It body surfs when in a hurry, but the resulting speed often ends in a fatal collision.",
     "skills": [
@@ -567,7 +573,8 @@
     "drops": ["electric_organ"],
     "aura": {
       "name": "static_electricity",
-      "description": "While in team, increases attack power of Electric Pals."
+      "description": "While in team, increases attack power of Electric Pals.",
+      "tech": null
     },
     "description": "During the dry season, this Pal is always on the verge of blowing a fuse, Sparks can fly with even the slightest provocation even amongst allies.",
     "skills": [
@@ -667,7 +674,8 @@
     "drops": ["mushroom"],
     "aura": {
       "name": "cheery_rifle",
-      "description": "When activated, Tanzee will mercilessly fire an assault rifle at nearby enemies."
+      "description": "When activated, Tanzee will mercilessly fire an assault rifle at nearby enemies.",
+      "tech": null
     },
     "description": "Long ago, this Pal used long objects like tree branches as weapons. After coming into contact with humans, however, it found something much more effective: guns.",
     "skills": [
@@ -747,7 +755,8 @@
     "drops": ["flame_organ", "leather"],
     "aura": {
       "name": "tiny_spark",
-      "description": "While in team, increases attack power of Fire Pals."
+      "description": "While in team, increases attack power of Fire Pals.",
+      "tech": null
     },
     "description": "Wild Rooby surprisingly never get sick. Eating one piece of charcoal a day, made by burning a branch, is the secret to its eternal health.",
     "skills": [
@@ -842,7 +851,8 @@
     "drops": ["ice_organ", "pal_fluids"],
     "aura": {
       "name": "pengullet_cannon",
-      "description": "When activated, the player equips a Rocket Launcher and fires Pengullet as ammunition. Pengullet explodes on contact and is incapacitated."
+      "description": "When activated, the player equips a Rocket Launcher and fires Pengullet as ammunition. Pengullet explodes on contact and is incapacitated.",
+      "tech": null
     },
     "description": "The feathers of this Pal have all but disappeared, but sadly, its desire to fly has remained as strong as ever. Even now, it tries to fly again in any way it can.",
     "skills": [
@@ -942,7 +952,8 @@
     "drops": ["ice_organ", "penking_plume"],
     "aura": {
       "name": "brave_sailor",
-      "description": "When fighting together, Fire Pals drop more items when defeated."
+      "description": "When fighting together, Fire Pals drop more items when defeated.",
+      "tech": null
     },
     "description": "Surprisingly, it is unrelated to Pengullet. Ever wanting to be the center of attention, this Pal will strut its stuff for any onlookers.",
     "skills": [
@@ -1022,7 +1033,8 @@
     "drops": ["electric_organ"],
     "aura": {
       "name": "jolt_bomb",
-      "description": "When activated, equips Jolthog to the player's hand. When thrown at an enemy, causes an electrical explosion upon impact."
+      "description": "When activated, equips Jolthog to the player's hand. When thrown at an enemy, causes an electrical explosion upon impact.",
+      "tech": null
     },
     "description": "Releases the electricity stored in it's body when under attack, producing a shock that can be over 10 million volts. If thrown, it can even be more lethal than any conventional heavy weaponry.",
     "skills": [
@@ -1102,7 +1114,8 @@
     "drops": ["berry_seeds", "gumoss_leaf"],
     "aura": {
       "name": "logging_assistance",
-      "description": "While in team, improves efficiency of cutting trees."
+      "description": "While in team, improves efficiency of cutting trees.",
+      "tech": null
     },
     "description": "A strange Pal with a body resembling tree sap. It gradually loses strength if it has nothing to cover its body with, eventually rotting away.",
     "skills": [
@@ -1187,7 +1200,8 @@
     "drops": ["leather", "bone"],
     "aura": {
       "name": "dig_here!",
-      "description": "Sometimes digs up items from the ground when assigned to Ranch."
+      "description": "Sometimes digs up items from the ground when assigned to Ranch.",
+      "tech": null
     },
     "description": "The idol of Palpagos Island. If you bully a Vixy, you best be prepared to become enemies with the whole world.",
     "skills": [
@@ -1267,7 +1281,8 @@
     "drops": ["fiber", "high_grade_technical_manual"],
     "aura": {
       "name": "dark_knowledge",
-      "description": "While in team, increases attack power of Dark Pals."
+      "description": "While in team, increases attack power of Dark Pals.",
+      "tech": null
     },
     "description": "Often lost in thought, it sometimes finds it difficult to sleep. \"I think, therefore I am.\"",
     "skills": [
@@ -1347,7 +1362,8 @@
     "drops": ["pal_fluids"],
     "aura": {
       "name": "soothing_shower",
-      "description": "When activated, spouts mysterious water that soothes wounds and restores the player's HP."
+      "description": "When activated, spouts mysterious water that soothes wounds and restores the player's HP.",
+      "tech": null
     },
     "description": "Large amounts of water pour from what is thought to be its nose, though some say that it is, in fact, just snot. This has sparked a fierce debate among Pal scholars.",
     "skills": [
@@ -1437,7 +1453,8 @@
     "drops": ["venom_gland"],
     "aura": {
       "name": "caffeine_inoculation",
-      "description": "When activated, Depresso drinks a massive amount of energy drinks, causing its movement speed to increase."
+      "description": "When activated, Depresso drinks a massive amount of energy drinks, causing its movement speed to increase.",
+      "tech": null
     },
     "description": "It has few friends because of the perpetually grouchy look on its face, but it is in fact kindhearted. Some have seen it feeding Vixy who have strayed from their pack.",
     "skills": [
@@ -1522,7 +1539,8 @@
     "drops": ["wool"],
     "aura": {
       "name": "fluffy_wool",
-      "description": "While in team, increases attack power of Neutral Pals. Sometimes drops Wool when assigned to Ranch."
+      "description": "While in team, increases attack power of Neutral Pals. Sometimes drops Wool when assigned to Ranch.",
+      "tech": null
     },
     "description": "Compared to Lamball, it has finer wool and a temperament more suited for domestication. However, it has historically been kept as a pet. Cuteness is considered a virtue.",
     "skills": [
@@ -1612,7 +1630,8 @@
     "drops": ["venom_gland", "small_pal_soul"],
     "aura": {
       "name": "dream_chaser",
-      "description": "While in team, appears near the player. Follows up player attacks with magic bullets."
+      "description": "While in team, appears near the player. Follows up player attacks with magic bullets.",
+      "tech": null
     },
     "description": "It puts those it is interested in to sleep and shows them an endless stream of happy dreams. Those who fall under its spell are never to wake until death takes them.",
     "skills": [
@@ -1692,7 +1711,8 @@
     "drops": ["rushoar_pork", "leather", "bone"],
     "aura": {
       "name": "hard_head",
-      "description": "Can be ridden. Increases efficiency of destroying boulders while mounted."
+      "description": "Can be ridden. Increases efficiency of destroying boulders while mounted.",
+      "tech": null
     },
     "description": "Being extremely aggressive Pal, it often picks fights before gauging its opponent's strength. Though small, its powerful charge can even send boulders flying.",
     "skills": [
@@ -1772,7 +1792,8 @@
     "drops": ["leather", "small_pal_soul"],
     "aura": {
       "name": "kuudere",
-      "description": "When fighting together, applies Dark damage to the player's attacks."
+      "description": "When fighting together, applies Dark damage to the player's attacks.",
+      "tech": null
     },
     "description": "If you find Nox hair in your bedding, you should leave it where it lays and leave immediately. Picking it up is a one-way-ticket to a never ending night.",
     "skills": [
@@ -1862,7 +1883,8 @@
     "drops": ["leather"],
     "aura": {
       "name": "ore_detector",
-      "description": "When activated, generates subtle vibrations to detect nearby ore."
+      "description": "When activated, generates subtle vibrations to detect nearby ore.",
+      "tech": null
     },
     "description": "Its large claws boast of diamond-like hardness. However, sharpening these claws consumes most of its energy, leading it to sometimes spending entire days doing nothing else.",
     "skills": [
@@ -1947,7 +1969,8 @@
     "drops": ["venom_gland"],
     "aura": {
       "name": "fried_squid",
-      "description": "While in team, can be summoned and used instead of a glider.\nCan float for long periods of time while gliding."
+      "description": "While in team, can be summoned and used instead of a glider.\nCan float for long periods of time while gliding.",
+      "tech": null
     },
     "description": "It wraps itself around an enemy's head, sucking out their insides. Pal mummies are occasionally found, but these are in fact Killamari victims.",
     "skills": [
@@ -2027,7 +2050,8 @@
     "drops": ["gold_coin"],
     "aura": {
       "name": "gold_digger",
-      "description": "Sometimes digs up Gold Coin when assigned to Ranch."
+      "description": "Sometimes digs up Gold Coin when assigned to Ranch.",
+      "tech": null
     },
     "description": "Its hard tail does not deteriorate even when cut off. Some believed these severed tails to be good luck, but for the innumerable Mau who were poached as a result, they were anything but.",
     "skills": [
@@ -2112,7 +2136,8 @@
     "drops": ["pal_fluids"],
     "aura": {
       "name": "zephyr_glider",
-      "description": "While in team, can be summoned and used instead of a glider.\nAllows you to move quickly for long periods of time while gliding with this Pal."
+      "description": "While in team, can be summoned and used instead of a glider.\nAllows you to move quickly for long periods of time while gliding with this Pal.",
+      "tech": null
     },
     "description": "Riding the wind, this Pal travels where it pleases. Should it find a partner along the way, the encounter will mark its journey's end.",
     "skills": [
@@ -2192,7 +2217,8 @@
     "drops": ["leather", "ruby", "gold_coin"],
     "aura": {
       "name": "direhowl_rider",
-      "description": "Can be ridden.\nMoves slightly faster than most mounts."
+      "description": "Can be ridden.\nMoves slightly faster than most mounts.",
+      "tech": null
     },
     "description": "Long ago Direhowl would hunt alongside humans but over the years this bond faded.",
     "skills": [
@@ -2272,7 +2298,8 @@
     "drops": ["gunpowder", "tocotoco_feather"],
     "aura": {
       "name": "eggbomb_launcher",
-      "description": "When activated, equips to the player and transforms into an egg launcher."
+      "description": "When activated, equips to the player and transforms into an egg launcher.",
+      "tech": null
     },
     "description": "A frightening Pal that produces exploding eggs. It often fires these eggs from its rear end as a weapon, but when spent the Pal itself explodes.",
     "skills": [
@@ -2372,7 +2399,8 @@
     "drops": ["low_grade_medical_supplies", "wheat_seeds"],
     "aura": {
       "name": "helper_bunny",
-      "description": "While in team, appears nearby the player. Automatically picks up nearby items."
+      "description": "While in team, appears nearby the player. Automatically picks up nearby items.",
+      "tech": null
     },
     "description": "It prefers places that have an abundance of vegetation, but hay fever has apparently become a problem for Flopie as of late.",
     "skills": [
@@ -2452,7 +2480,8 @@
     "drops": ["mozzarina_meat", "milk"],
     "aura": {
       "name": "milk_maker",
-      "description": "Sometimes produces Milk when assigned to ranch."
+      "description": "Sometimes produces Milk when assigned to ranch.",
+      "tech": null
     },
     "description": "Milk pours from this Pal like water from an open faucet, regardless of its gender. It's truly a mystery of life, although this mystery may be better left unsolved.",
     "skills": [
@@ -2552,7 +2581,8 @@
     "drops": ["wheat_seeds", "lettuce_seeds"],
     "aura": {
       "name": "princess_gaze",
-      "description": "While in team, increases attack power of Grass Pals."
+      "description": "While in team, increases attack power of Grass Pals.",
+      "tech": null
     },
     "description": "This prickly Pal's thorns are highly poisonous. It is friendly with Cinnamoth and only smiles when Cinnamoth is drinking its nectar.",
     "skills": [
@@ -2642,7 +2672,8 @@
     "drops": ["pal_fluids"],
     "aura": {
       "name": "angry_shark",
-      "description": "When activated, attacks targeted enemy with a powerful Aqua Gun. While in team, increases player's attack power."
+      "description": "When activated, attacks targeted enemy with a powerful Aqua Gun. While in team, increases player's attack power.",
+      "tech": null
     },
     "description": "Long ago, it was a large and powerful aquatic Pal.\nAs food became scarce it evolved to live on land.\nSince walking requires much energy, it gradually became smaller and is now a small and puny Pal.",
     "skills": [
@@ -2732,7 +2763,8 @@
     "drops": ["fiber"],
     "aura": {
       "name": "flying_trapeze",
-      "description": "While in team, can be summoned and used instead of a glider. Carries the player up high while gliding."
+      "description": "While in team, can be summoned and used instead of a glider. Carries the player up high while gliding.",
+      "tech": null
     },
     "description": "Its gigantic arms can rip apart even iron.\nAs a particularly cruel form of execution, serious criminals would be strung up in a public square, and a Hangyu would rip off the skin from their bones.",
     "skills": [
@@ -2827,7 +2859,8 @@
     "drops": ["mushroom", "leather", "tomato_seeds"],
     "aura": {
       "name": "grenadier_panda",
-      "description": "Can be ridden. Can rapidly fire a grenade launcher while mounted."
+      "description": "Can be ridden. Can rapidly fire a grenade launcher while mounted.",
+      "tech": null
     },
     "description": "A Pal so powerful it's hard to believe. In one experiment, this Pal tore through 3,000 sheets of paper at once! It's only by some miracle that this Pal isn't a meat-eater.",
     "skills": [
@@ -2907,7 +2940,8 @@
     "drops": ["cotton_candy", "high_quality_pal_oil"],
     "aura": {
       "name": "candy_pop",
-      "description": "Sometimes drops Cotton Candy when assigned to ranch."
+      "description": "Sometimes drops Cotton Candy when assigned to ranch.",
+      "tech": null
     },
     "description": "Its entire body is 18,000 times sweeter than sugar.\nCarnivorous Pals lured by its scent will find themselves overwhelmed by sweetness and even pass out should they take a bite of this Pal.",
     "skills": [
@@ -2992,7 +3026,8 @@
     "drops": ["caprity_meat", "red_berries", "horn"],
     "aura": {
       "name": "berry_picker",
-      "description": "Sometimes drops Red Berries from its back when assigned to Ranch."
+      "description": "Sometimes drops Red Berries from its back when assigned to Ranch.",
+      "tech": null
     },
     "description": "The shrub on this pal's back produces berries as long as it is properly fed. It offers these berries to potential mates, and if the flavor is to their liking, romance blossoms.",
     "skills": [
@@ -3072,7 +3107,8 @@
     "drops": ["wool", "leather"],
     "aura": {
       "name": "pacapaca_wool",
-      "description": "Can be ridden.\nSometimes drops Wool when assigned to Ranch."
+      "description": "Can be ridden.\nSometimes drops Wool when assigned to Ranch.",
+      "tech": null
     },
     "description": "Don't be fooled by its fluffy appearance. A hypersonic kick from one of its long legs may send you flying to the other side of the world.",
     "skills": [
@@ -3152,7 +3188,8 @@
     "drops": ["eikthyrdeer_venison", "leather", "horn"],
     "aura": {
       "name": "guardian_of_the_forest",
-      "description": "Can be ridden.\nCan perform a double jump while mounted.\nIncreases efficiency of cutting trees."
+      "description": "Can be ridden.\nCan perform a double jump while mounted.\nIncreases efficiency of cutting trees.",
+      "tech": null
     },
     "description": "The one who possesses the most impressive antlers becomes the leader of the herd. If their antlers are broken, they become depressed and leave the herd never to be seen again.",
     "skills": [
@@ -3232,7 +3269,8 @@
     "drops": ["leather"],
     "aura": {
       "name": "travel_companion",
-      "description": "Can be ridden as a flying mount."
+      "description": "Can be ridden as a flying mount.",
+      "tech": null
     },
     "description": "It carries newborn Pals to its nest and raises them as a surrogate parent. \nOnce the baby Pal has fattened up, it hunts them.",
     "skills": [
@@ -3322,7 +3360,8 @@
     "drops": ["leather", "beautiful_flower"],
     "aura": {
       "name": "skilled_fingers",
-      "description": "While in team, increases attack power of Neutral Pals.\nWhile at base, increases work efficiency if working at Weapon Workbench."
+      "description": "While in team, increases attack power of Neutral Pals.\nWhile at base, increases work efficiency if working at Weapon Workbench.",
+      "tech": null
     },
     "description": "A Pal who's never without a bright smile. Occasionally, it gets its tentacles tied up in knots by Cattiva's pranks. During those moments, its expression changes into something altogether demonic.",
     "skills": [
@@ -3417,7 +3456,8 @@
     "drops": ["horn", "leather"],
     "aura": {
       "name": "flameclaw_hunter",
-      "description": "When activated, attacks targeted enemy with a powerful Hellfire Claw."
+      "description": "When activated, attacks targeted enemy with a powerful Hellfire Claw.",
+      "tech": null
     },
     "description": "In the dark of night, this Pal snatches prey to bring back ot its territory.\nWhat happens to those poor souls afterwards isn't too hard to imagine.",
     "skills": [
@@ -3502,7 +3542,8 @@
     "drops": ["honey", "lettuce_seeds", "wheat_seeds"],
     "aura": {
       "name": "mysterious_scales",
-      "description": "When activated, attacks target enemy with Poison Fog."
+      "description": "When activated, attacks target enemy with Poison Fog.",
+      "tech": null
     },
     "description": "Sniffing its scales produces a feeling of unparalleled euphoria.\nThere was some effort to further regulate this byproduct, but the Free Pal Alliance have vehemently opposed these measures, putting a stop to them.",
     "skills": [
@@ -3587,7 +3628,8 @@
     "drops": ["horn", "flame_organ"],
     "aura": {
       "name": "warm_body",
-      "description": "Can be ridden. Keeps the rider warm in cold environments."
+      "description": "Can be ridden. Keeps the rider warm in cold environments.",
+      "tech": null
     },
     "description": "In ancient times, carnivorous Pals pursued them relentlessly.\nThe Arsox's irrational rage transformed into a raging inferno, which has been passed on to this day.",
     "skills": [
@@ -3677,7 +3719,8 @@
     "drops": ["raw_dumud", "high_quality_pal_oil"],
     "aura": {
       "name": "soil_improver",
-      "description": "While in team, increases attack power of Ground Pals."
+      "description": "While in team, increases attack power of Ground Pals.",
+      "tech": null
     },
     "description": "When too relaxed, its reaction time drastically declines.\nEven if it were sliced from head to tail, it probably wouldn't even realize that it should be dead until the next morning.",
     "skills": []
@@ -3700,7 +3743,8 @@
     "drops": ["bone", "venom_gland", "small_pal_soul"],
     "aura": {
       "name": "telepeck",
-      "description": "When activated, attacks targeted enemy with a powerful Phantom Peck."
+      "description": "When activated, attacks targeted enemy with a powerful Phantom Peck.",
+      "tech": null
     },
     "description": "Long ago it freely soared the skies. After losing a contest with Galeclaw, it abandoned the skies and now lives a quiet nocturnal life.",
     "skills": [
@@ -3790,7 +3834,8 @@
     "drops": ["copper_key", "silver_key"],
     "aura": {
       "name": "sixth_sense",
-      "description": "When activated, utilizes its sixth sense to detect nearby dungeons."
+      "description": "When activated, utilizes its sixth sense to detect nearby dungeons.",
+      "tech": null
     },
     "description": "A Pal that always takes great care to maintain a stylish stance. Always on the hunt for the coolest poses, if given a mirror it will spend all day posing in front of it.",
     "skills": [
@@ -3870,7 +3915,8 @@
     "drops": ["bone"],
     "aura": {
       "name": "claws_glistening_in_the_dark",
-      "description": "When activated, attacks targeted enemy with a powerful Jumping Claw."
+      "description": "When activated, attacks targeted enemy with a powerful Jumping Claw.",
+      "tech": null
     },
     "description": "The horns on its head grow under the moonlight. It doesn't hate the sun, but its horns itch when sunlight hits them.",
     "skills": [
@@ -3950,7 +3996,8 @@
     "drops": ["galeclaw_poultry", "leather"],
     "aura": {
       "name": "galeclaw_rider",
-      "description": "While in team, can be summoned and used instead of a glider. Allows you to fire a gun while gliding with this Pal."
+      "description": "While in team, can be summoned and used instead of a glider. Allows you to fire a gun while gliding with this Pal.",
+      "tech": null
     },
     "description": "A Pal that can easily take flight even while grasping a human.\n It is, however, prone to letting go when tired, which has led to the sudden demise of more than a few souls.",
     "skills": [
@@ -4055,7 +4102,8 @@
     "drops": ["wheat_seeds", "arrow"],
     "aura": {
       "name": "hawk_eye",
-      "description": "While fighting together, allows you to deal more damage to weak points."
+      "description": "While fighting together, allows you to deal more damage to weak points.",
+      "tech": null
     },
     "description": "A pal that is very similar to humans who hunt and live in the forests. It may prove to be a key for understanding what Pals are and how they diverged from humans so long ago.",
     "skills": [
@@ -4145,7 +4193,8 @@
     "drops": ["leather", "bone"],
     "aura": {
       "name": "full-power_gorilla_mode",
-      "description": "When activated, unleashes a primal fury that increases Gorirat's attack power."
+      "description": "When activated, unleashes a primal fury that increases Gorirat's attack power.",
+      "tech": null
     },
     "description": "It beats the ground rhythmically to communicate with its comrades. The meaning of each rhythm differs by troop, but the distinction between them is still largely unknown.",
     "skills": [
@@ -4255,7 +4304,8 @@
     "drops": ["honey"],
     "aura": {
       "name": "worker_bee",
-      "description": "Sometimes drops Honey when assigned to Ranch.\nWhile in team, Elizabee's stats will be increased."
+      "description": "Sometimes drops Honey when assigned to Ranch.\nWhile in team, Elizabee's stats will be increased.",
+      "tech": null
     },
     "description": "A servant that pledges loyalty to Elizabee.\nAny that cause harm to the queen are immediately expelled from the hive.\nIt will gladly give its life to protect its queen.",
     "skills": [
@@ -4355,7 +4405,8 @@
     "drops": ["honey", "elizabee's_staff"],
     "aura": {
       "name": "queen_bee_command",
-      "description": "While fighting together, stats will increase the more Beegarde are in your team."
+      "description": "While fighting together, stats will increase the more Beegarde are in your team.",
+      "tech": null
     },
     "description": "A chosen queen to rule over Beegardes.\nThere is a never ending stream of servants willing to work themselves to death for the pleasure of serving their queen.",
     "skills": [
@@ -4435,7 +4486,8 @@
     "drops": ["high_quality_pal_oil"],
     "aura": {
       "name": "plump_body",
-      "description": "Can be ridden. Enhances Neutral attacks while mounted."
+      "description": "Can be ridden. Enhances Neutral attacks while mounted.",
+      "tech": null
     },
     "description": "Grintale's eyes light up the moment anyone enters its territory.\nThis is no figure of speech-its eyes literally light up.",
     "skills": [
@@ -4520,7 +4572,8 @@
     "drops": ["wool"],
     "aura": {
       "name": "fluffy",
-      "description": "While in team, Sweepa's stats will be increased."
+      "description": "While in team, Sweepa's stats will be increased.",
+      "tech": null
     },
     "description": "Crawling along the ground, it eats microscopic organic matter.\nAfter a while, it discharges any substances that provide no nutrition.\nBy using it as a mop for cleaning, everyone wins!",
     "skills": [
@@ -4605,7 +4658,8 @@
     "drops": ["wool"],
     "aura": {
       "name": "king_of_fluff",
-      "description": "While fighting together, stats will increase the more Swee are in your team."
+      "description": "While fighting together, stats will increase the more Swee are in your team.",
+      "tech": null
     },
     "description": "While hibernating, a large number of Swee hide within its voluminous body hair.\nThe most ever recorded is 101.",
     "skills": [
@@ -4690,7 +4744,8 @@
     "drops": ["leather"],
     "aura": {
       "name": "wriggling_weasel",
-      "description": "Can be ridden.\nApplies Dragon Dragon damage to the player's attacks while mounted."
+      "description": "Can be ridden.\nApplies Dragon Dragon damage to the player's attacks while mounted.",
+      "tech": null
     },
     "description": "It can curl up its body and roll around at extremely high speeds.\nLong ago, people would tie bags of milk to domesticated Chillet as they grazed to produce butter using this spinning force.",
     "skills": [
@@ -4775,7 +4830,8 @@
     "drops": ["leather", "electric_organ", "horn"],
     "aura": {
       "name": "swift_deity",
-      "description": "Can be ridden. Applies Electric damage to the player's attacks while mounted."
+      "description": "Can be ridden. Applies Electric damage to the player's attacks while mounted.",
+      "tech": null
     },
     "description": "It used to be considered an emissary of the Thunder God, and thus was not hunted by people.\nHowever, after witnesses osberved one die from a lightning strike, its reverence faded, and it quite literally fell into the role of a workhorse.",
     "skills": [
@@ -4855,7 +4911,8 @@
     "drops": ["leather", "ice_organ"],
     "aura": {
       "name": "aurora_guide",
-      "description": "While in a team, increases attack power of Ice pals."
+      "description": "While in a team, increases attack power of Ice pals.",
+      "tech": null
     },
     "description": "On nights when the aurora is visible, it looks up towards the sky and begins to howl a beautiful song. This does, however, leave it vulnerable to attacks from enemies.",
     "skills": [
@@ -4940,7 +4997,8 @@
     "drops": ["flame_organ", "leather"],
     "aura": {
       "name": "red_hare",
-      "description": "Can be ridden. Applies Fire damage to the player's attacks while mounted."
+      "description": "Can be ridden. Applies Fire damage to the player's attacks while mounted.",
+      "tech": null
     },
     "description": "It's entire body has evolved into a highly efficient radiator, gifting it with astounding stamina.\nWhen someone has mounted it, this Pal takes caution not to burn them.",
     "skills": [
@@ -5025,7 +5083,8 @@
     "drops": ["reindrix_venison", "leather", "horn", "ice_organ"],
     "aura": {
       "name": "cool_body",
-      "description": "Can be ridden.\nKeeps the rider cool in hot environments."
+      "description": "Can be ridden.\nKeeps the rider cool in hot environments.",
+      "tech": null
     },
     "description": "Its transparent cerulean antlers glow with the cold of absolute zero. Any who touch them with their bare hands are instantly frozen over and smashed into pieces.",
     "skills": [
@@ -5105,7 +5164,8 @@
     "drops": ["electric_organ"],
     "aura": {
       "name": "jumping_force",
-      "description": "Can be ridden. Can double jump while mounted."
+      "description": "Can be ridden. Can double jump while mounted.",
+      "tech": null
     },
     "description": "At full speed, it could be mistaken for a bolt of lightning. If two Rayhounds collide, the sound is like that of a powerful thunderclap.",
     "skills": [
@@ -5185,7 +5245,8 @@
     "drops": ["flame_organ", "leather"],
     "aura": {
       "name": "clear_mind",
-      "description": "Can be ridden. Unaffected by the cold or heat while riding this Pal."
+      "description": "Can be ridden. Unaffected by the cold or heat while riding this Pal.",
+      "tech": null
     },
     "description": "Despite its appearance, Kitsun is extremely sensitive and will flee into a cave when spooked. Long ago, it was considered and ill omen if one were found nearby.",
     "skills": [
@@ -5275,7 +5336,8 @@
     "drops": ["electric_organ"],
     "aura": {
       "name": "lady_of_lightning",
-      "description": "While in team, appears near the player. Follows up player attacks with lightning bolts."
+      "description": "While in team, appears near the player. Follows up player attacks with lightning bolts.",
+      "tech": null
     },
     "description": "Often kind to lonely pals.\nHowever, the moment a Pal mistakes this for actual companionship, it seizes the opportunity to blast them with a thunderbolt.",
     "skills": [
@@ -5365,7 +5427,8 @@
     "drops": ["paldium_fragment"],
     "aura": {
       "name": "antigravity",
-      "description": "While in team, Lunaris manipulates gravity, increasing the player's max carrying capacity."
+      "description": "While in team, Lunaris manipulates gravity, increasing the player's max carrying capacity.",
+      "tech": null
     },
     "description": "It can control those who carelessly stare into its eyes. Those seen with a Lunaris are in its mind, simply under its control.",
     "skills": [
@@ -5450,7 +5513,8 @@
     "drops": ["wheat_seeds"],
     "aura": {
       "name": "fragrant_dragon",
-      "description": "Can be ridden.\nEnchances Grass attacks while mounted."
+      "description": "Can be ridden.\nEnchances Grass attacks while mounted.",
+      "tech": null
     },
     "description": "A Pal who once angered cannot be pacified. It rages on and on like an inferno. The prahse \"step on a Dinossom's tail\" has come to mean enraging someone.",
     "skills": [
@@ -5530,7 +5594,8 @@
     "drops": ["pal_fluids"],
     "aura": {
       "name": "swift_swimmer",
-      "description": "Can be ridden to travel on water.\nWhile mounted, prevents stamina depletion while moving over water."
+      "description": "Can be ridden to travel on water.\nWhile mounted, prevents stamina depletion while moving over water.",
+      "tech": null
     },
     "description": "Its hydrodynamic form is well suited to life in water.\nPoachers often catch them and use them in place of surfboards.",
     "skills": [
@@ -5615,7 +5680,8 @@
     "drops": ["bone", "small_pal_soul"],
     "aura": {
       "name": "messenger_of_death",
-      "description": "Can be ridden.\nApplies Dark damage to the player's attacks while mounted."
+      "description": "Can be ridden.\nApplies Dark damage to the player's attacks while mounted.",
+      "tech": null
     },
     "description": "It relishes the peculiar scent living things give off when they are near death. If a Mariath has taken a liking to you. It is safe to assume that is why.",
     "skills": [
@@ -5695,7 +5761,8 @@
     "drops": ["ore", "high_quality_pal_oil"],
     "aura": {
       "name": "drill_crusher",
-      "description": "When activated, performs Shell Spin, follows the player while spinning, and mines ores efficiently."
+      "description": "When activated, performs Shell Spin, follows the player while spinning, and mines ores efficiently.",
+      "tech": null
     },
     "description": "A walking contradiction, possessing the strongest shell and the only drill capable of piercing it. \"Digtoise's Fable\" is a popular children's tale.",
     "skills": [
@@ -5785,7 +5852,8 @@
     "drops": ["leather", "small_pal_soul"],
     "aura": {
       "name": "ultrasonic_sensor",
-      "description": "When activated, uses ultrasonic waves to detect the location of nearby Pals."
+      "description": "When activated, uses ultrasonic waves to detect the location of nearby Pals.",
+      "tech": null
     },
     "description": "Often appears out of the blue to flaunt its prized wings in front of other Pals.\nAlthough it seems to be an intimidation tactic, the Pal seems to derive some kind of pleasure from the display.",
     "skills": [
@@ -5880,7 +5948,8 @@
     "drops": ["mushroom", "cake", "suspicious_juice", "strange_juice"],
     "aura": {
       "name": "heart_drain",
-      "description": "While fighting together, grants the player and Lovander the life steal effect which absorbs some of the received damage and restores HP."
+      "description": "While fighting together, grants the player and Lovander the life steal effect which absorbs some of the received damage and restores HP.",
+      "tech": null
     },
     "description": "Seeking a night of love, it is always chasing someone around. At first, it only showed interest in other Pals, but in recent years even humans have become the target of its debauchery.",
     "skills": [
@@ -5975,7 +6044,8 @@
     "drops": ["flame_organ", "high_quality_pal_oil"],
     "aura": {
       "name": "magma_tears",
-      "description": "Sometimes produces Flame Organ when assigned to Ranch."
+      "description": "Sometimes produces Flame Organ when assigned to Ranch.",
+      "tech": null
     },
     "description": "When it starts crying, this Pal produces magma in place of tears. The magma that pours out is absorbed back into its body, causing it to get hotter and hotter. The more it cries, the stronger it becomes.",
     "skills": [
@@ -6060,7 +6130,8 @@
     "drops": ["bone", "ruby", "gold_coin"],
     "aura": {
       "name": "aerial_marauder",
-      "description": "Can be ridden as a flying mount. Increases damage player deals to enemy weak points while mounted."
+      "description": "Can be ridden as a flying mount. Increases damage player deals to enemy weak points while mounted.",
+      "tech": null
     },
     "description": "The melodies of a flute made from the exoskeleton of a Vanwyrm are said to cross the whole mountain ranges.\nIn ages past, such flutes were used to signal an attack.",
     "skills": [
@@ -6160,7 +6231,8 @@
     "drops": ["bone", "ingot"],
     "aura": {
       "name": "brandish_blade",
-      "description": "When activated, attacks targeted enemy with a powerful Iaigiri."
+      "description": "When activated, attacks targeted enemy with a powerful Iaigiri.",
+      "tech": null
     },
     "description": "Its body becomes a blade upon death, to be taken up by the next generation. If someone other than a Bushi wields this blade, the soul within torments them until they are driven mad.",
     "skills": [
@@ -6250,7 +6322,8 @@
     "drops": ["electric_organ"],
     "aura": {
       "name": "thunderous",
-      "description": "Can be ridden as a flying mount. Applies Electric damage to the player's attacks while mounted."
+      "description": "Can be ridden as a flying mount. Applies Electric damage to the player's attacks while mounted.",
+      "tech": null
     },
     "description": "Some think it is a related species to Ragnahawk, but there is in fact no connection. Using its sharp beak, it descends on its prey in a quick motion that resembles a bolt of lightning.",
     "skills": [
@@ -6335,7 +6408,8 @@
     "drops": ["flame_organ"],
     "aura": {
       "name": "flame_wing",
-      "description": "Can be ridden as a flying mount. Applies Fire damage to the player's attacks while mounted."
+      "description": "Can be ridden as a flying mount. Applies Fire damage to the player's attacks while mounted.",
+      "tech": null
     },
     "description": "Some think it is a related species to Beakon, but there is in fact no connection. It mainly eats rocks, and after many long years its beak and head have hardened to accommodate this diet.",
     "skills": [
@@ -6425,7 +6499,8 @@
     "drops": ["leather", "katress_hair", "high_grade_technical_manual"],
     "aura": {
       "name": "grimoire_collector",
-      "description": "While fighting together, Neutral Pals drop more items when defeated."
+      "description": "While fighting together, Neutral Pals drop more items when defeated.",
+      "tech": null
     },
     "description": "With the power of shadows it produces arcane phenomena. It prefers to eat food raw and is particularly hostile towards Wixen",
     "skills": [
@@ -6515,7 +6590,8 @@
     "drops": ["flame_organ", "high_grade_technical_manual"],
     "aura": {
       "name": "lord_fox",
-      "description": "When fighting together, applies Fire damage to the player's attacks."
+      "description": "When fighting together, applies Fire damage to the player's attacks.",
+      "tech": null
     },
     "description": "With the power of light, it produces arcane phenomena. It prefers to eat food well-done and is particularly hostile towards Katress.",
     "skills": [
@@ -6615,7 +6691,8 @@
     "drops": ["leather", "bone"],
     "aura": {
       "name": "grassland_speedster",
-      "description": "When fighting together, increases player's movement speed and applies Grass damage to the player's attacks."
+      "description": "When fighting together, increases player's movement speed and applies Grass damage to the player's attacks.",
+      "tech": null
     },
     "description": "Land that Verdash has run across becomes extremely fertile, with thick vegetation growing there soon after. It will not run anywhere that herbicide has been used.",
     "skills": [
@@ -6715,7 +6792,8 @@
     "drops": ["low_grade_medical_supplies", "tomato_seeds"],
     "aura": {
       "name": "purification_of_gaia",
-      "description": "While fighting together, Ground Pals drop more items when defeated."
+      "description": "While fighting together, Ground Pals drop more items when defeated.",
+      "tech": null
     },
     "description": "The castle was filled with the king's favorite flowers. A great battle ensued, and flames approached the castle. Amidst the chaos, the spirit of a flower appeared.\n- From the fairy tale, The King's Flower.",
     "skills": [
@@ -6805,7 +6883,8 @@
     "drops": ["high_quality_cloth", "ice_organ"],
     "aura": {
       "name": "silk_maker",
-      "description": "When activated, attacks targeted enemy with a powerful Blizzard Spike. Sometimes produces High Quality Cloth when assigned to Ranch."
+      "description": "When activated, attacks targeted enemy with a powerful Blizzard Spike. Sometimes produces High Quality Cloth when assigned to Ranch.",
+      "tech": null
     },
     "description": "A Pal that likes the rain,and will often bask in rain showers until the weather clears up. On rainy days, Foxparks can often be found taking shelter beneath it.",
     "skills": [
@@ -6885,7 +6964,8 @@
     "drops": ["high_quality_pal_oil"],
     "aura": {
       "name": "amicable_holy_dragon",
-      "description": "Can be ridden as a flying mount.\n While fighting together, Dark Pals drop more items when defeated."
+      "description": "Can be ridden as a flying mount.\n While fighting together, Dark Pals drop more items when defeated.",
+      "tech": null
     },
     "description": "It possesses a demeanor as pure as its appearance suggests. Perhaps because of this, it is sometimes unable to discern good from evil, often allowing wrongdoers to take advantage of it.",
     "skills": [
@@ -6965,7 +7045,8 @@
     "drops": ["raw_kelpsea", "pal_fluids"],
     "aura": {
       "name": "aqua_spout",
-      "description": "While in team, increases attack power of Water Pals."
+      "description": "While in team, increases attack power of Water Pals.",
+      "tech": null
     },
     "description": "Its personality changes depending on the quality of the water it was born into. Kelpsea born into polluted waters are generally ill-tempered and quickly become delinquents.",
     "skills": [
@@ -7045,7 +7126,8 @@
     "drops": ["cloth", "precious_dragon_stone"],
     "aura": {
       "name": "waterwing_dance",
-      "description": "Can be ridden to travel on water. Applies Water damage to the player's attacks while mounted."
+      "description": "Can be ridden to travel on water. Applies Water damage to the player's attacks while mounted.",
+      "tech": null
     },
     "description": "This Pal's white ribbon turns black if doused with impure water. Given its usefulness in detecting poison, this Pal was once overhunted. This past has left them bitter towards humanity.",
     "skills": [
@@ -7135,7 +7217,8 @@
     "drops": ["ice_organ"],
     "aura": {
       "name": "dragon_hunter",
-      "description": "While fighting together, Dragon Pals drop more items when defeated."
+      "description": "While fighting together, Dragon Pals drop more items when defeated.",
+      "tech": null
     },
     "description": "It can easily climb steep mountains with its hard claws. However, its short legs make it difficult to descend, often leaving it stranded in high places.",
     "skills": [
@@ -7220,7 +7303,8 @@
     "drops": ["flame_organ"],
     "aura": {
       "name": "hellflame_lion",
-      "description": "Can be ridden. While fighting together, Grass Pals drop more items when defeated."
+      "description": "Can be ridden. While fighting together, Grass Pals drop more items when defeated.",
+      "tech": null
     },
     "description": "While it prefers raw meat, it always ends up eating well-done meat. This is due to its blistering claws, which it uses as its weapon—it simply doesn't realize its prey gets burned to a crisp.",
     "skills": [
@@ -7305,7 +7389,8 @@
     "drops": ["high_quality_pal_oil", "ruby"],
     "aura": {
       "name": "hungry_missile",
-      "description": "Can be ridden. Can rapidly fire a missile launcher while mounted."
+      "description": "Can be ridden. Can rapidly fire a missile launcher while mounted.",
+      "tech": null
     },
     "description": "Contrary to its blasé appearance, it's quite ferocious.\nIt perceives everything in its sight as prey and will stop at nothing to devour it.",
     "skills": [
@@ -7385,7 +7470,8 @@
     "drops": ["broncherry_meat", "tomato_seeds"],
     "aura": {
       "name": "overaffectionate",
-      "description": "Can be ridden. While in team, Broncherry helps carry supplies, increasing the player's max carrying capacity."
+      "description": "Can be ridden. While in team, Broncherry helps carry supplies, increasing the player's max carrying capacity.",
+      "tech": null
     },
     "description": "Its scent drastically changes before and after pairing.\nIt exudes a pleasing aroma after finding a partner, which is called the \"fragrance of first love.\"",
     "skills": [
@@ -7485,7 +7571,8 @@
     "drops": ["beautiful_flower"],
     "aura": {
       "name": "blessing_of_the_flower_spirit",
-      "description": "When activated, uses medicinal flowers to restore the player's HP."
+      "description": "When activated, uses medicinal flowers to restore the player's HP.",
+      "tech": null
     },
     "description": "A pal that transforms into a massive plant when at the end of its life. Once every ten years, a beautiful flower blooms and a new Petallia is born.",
     "skills": [
@@ -7570,7 +7657,8 @@
     "drops": ["flame_organ"],
     "aura": {
       "name": "ore-loving_beast",
-      "description": "Can be ridden. Improves efficiency of mining ores while mounted."
+      "description": "Can be ridden. Improves efficiency of mining ores while mounted.",
+      "tech": null
     },
     "description": "Magma-like blood runs throughout its body. If a large amount of water is thrown on it, this water rapidly heats, causing an immense vapor explosion.",
     "skills": [
@@ -7650,7 +7738,8 @@
     "drops": ["wool"],
     "aura": {
       "name": "king_of_muscles",
-      "description": "Can be ridden. While in team, Kingpaca helps carry supplies, increasing the player's max carrying capacity."
+      "description": "Can be ridden. While in team, Kingpaca helps carry supplies, increasing the player's max carrying capacity.",
+      "tech": null
     },
     "description": "Melpaca serve this Pal.\nContests between Kingpaca offer up their vassals as a wager. Those seen alone are losers of such contests.",
     "skills": [
@@ -7740,7 +7829,8 @@
     "drops": ["high_quality_pal_oil", "leather", "mammorest_meat"],
     "aura": {
       "name": "gaia_crusher",
-      "description": "Can be ridden. Improves efficiency of cutting trees and mining ores while mounted."
+      "description": "Can be ridden. Improves efficiency of cutting trees and mining ores while mounted.",
+      "tech": null
     },
     "description": "The vegetation on its back varies between individuals. There is a long history of appreciating this veritable garden of a Pal, and there are even Mammorest pruning specialists.",
     "skills": [
@@ -7835,7 +7925,8 @@
     "drops": ["ice_organ", "beautiful_flower"],
     "aura": {
       "name": "guardian_of_the_snowy_mountain",
-      "description": "Can be ridden. While in team, Wumpo helps carry supplies, increasing the player's max carrying capacity."
+      "description": "Can be ridden. While in team, Wumpo helps carry supplies, increasing the player's max carrying capacity.",
+      "tech": null
     },
     "description": "Researchers once tried to shave off its hair to reveal its true form. In the end, only hair was left, as if that was all there was to begin with.",
     "skills": [
@@ -7930,7 +8021,8 @@
     "drops": ["honey"],
     "aura": {
       "name": "hard_armor",
-      "description": "When fighting together, increases player's defense and applies Fire damage to the player's attacks."
+      "description": "When fighting together, increases player's defense and applies Fire damage to the player's attacks.",
+      "tech": null
     },
     "description": "The ultra-hard armor surrounding its body is extremely strong and heat resistant.\nEven a napalm blast would hardly leave a scratch.",
     "skills": [
@@ -8010,7 +8102,8 @@
     "drops": ["leather", "horn"],
     "aura": {
       "name": "wind_and_clouds",
-      "description": "Can be ridden. Can double jump while mounted."
+      "description": "Can be ridden. Can double jump while mounted.",
+      "tech": null
     },
     "description": "In ancient times, it was a familiar subject for painting because of its beautiful and majestic appearance. Fenglope is an endangered species, the \"Fenglope\" whose beautiful fur and horns are much sought after by poachers!",
     "skills": [
@@ -8090,7 +8183,8 @@
     "drops": ["cloth", "small_pal_soul"],
     "aura": {
       "name": "life_steal",
-      "description": "While fighting together, grants the player and Felbat the life steal effect which absorbs some of the received damage and restores HP."
+      "description": "While fighting together, grants the player and Felbat the life steal effect which absorbs some of the received damage and restores HP.",
+      "tech": null
     },
     "description": "Attacking from the shadows, this Pal traps its prey within its cloak-like wings. It's probably best not to know what happens within them, or why the inside of its wings are stained red.",
     "skills": [
@@ -8185,7 +8279,8 @@
     "drops": ["high_quality_pal_oil"],
     "aura": {
       "name": "sky_dragon's_affection",
-      "description": "Can be ridden as a flying mount. Enhances Dragon attacks while mounted."
+      "description": "Can be ridden as a flying mount. Enhances Dragon attacks while mounted.",
+      "tech": null
     },
     "description": "Sleeping while cuddling a Quivern is said to be a heavenly experience, but there are some who have been crushed and sent to heaven by ones that toss and turn in their sleep.",
     "skills": [
@@ -8270,7 +8365,8 @@
     "drops": ["coal", "flame_organ"],
     "aura": {
       "name": "magma_kaiser",
-      "description": "Can be ridden. Enchances Fire attacks while mounted."
+      "description": "Can be ridden. Enchances Fire attacks while mounted.",
+      "tech": null
     },
     "description": "Legends say it was born during a volcanic eruption. A strange group even claims that this continent is laid upon the back of a giant Blazamut.",
     "skills": [
@@ -8350,7 +8446,8 @@
     "drops": ["venom_gland", "medium_pal_soul"],
     "aura": {
       "name": "wings_of_death",
-      "description": "Can be ridden as a flying mount. Applies Dark damage to the player's attacks while mounted."
+      "description": "Can be ridden as a flying mount. Applies Dark damage to the player's attacks while mounted.",
+      "tech": null
     },
     "description": "It calls forth lightning from the depths of hell. One who dies from Helzephyr's inferno is sure to be sent to the underworld.",
     "skills": [
@@ -8435,7 +8532,8 @@
     "drops": ["pal_metal_ingot", "pure_quartz"],
     "aura": {
       "name": "black_anklyosaur",
-      "description": "Can be ridden a flying mount. Increases damage dealt to ore while mounted."
+      "description": "Can be ridden a flying mount. Increases damage dealt to ore while mounted.",
+      "tech": null
     },
     "description": "A savage beast born of the abyss. Thou shall not stand before the beast. Thou shall not heed the beast.",
     "skills": [
@@ -8520,7 +8618,8 @@
     "drops": ["coal", "venom_gland"],
     "aura": {
       "name": "steel_scorpion",
-      "description": "When fighting together, increases the player's defense and Electric Pals drop more items when defeated."
+      "description": "When fighting together, increases the player's defense and Electric Pals drop more items when defeated.",
+      "tech": null
     },
     "description": "Being made of pure energy, its insides are completely hollow. This Pal crams still-living prey into its hollow body, where it absorbs them. Hellish screams of pain can often be heard coming from inside this Pal.",
     "skills": [
@@ -8610,7 +8709,8 @@
     "drops": ["bone", "large_pal_soul", "innovative_technical_manual"],
     "aura": {
       "name": "guardian_of_the_desert",
-      "description": "When fighting together, applies Ground damage to the player's attacks. Sometimes dodges attacks with a high speed sidestep while in a battle."
+      "description": "When fighting together, applies Ground damage to the player's attacks. Sometimes dodges attacks with a high speed sidestep while in a battle.",
+      "tech": null
     },
     "description": "Once seen as a symbol of nobility, and an idol for those who shunned wealth and power. Yet over time, this Pal became a token of death.",
     "skills": [
@@ -8690,7 +8790,8 @@
     "drops": ["pal_fluids"],
     "aura": {
       "name": "stormbringer_sea_dragon",
-      "description": "Can be ridden to travel on water. While mounted, prevents stamina depletion while moving over water."
+      "description": "Can be ridden to travel on water. While mounted, prevents stamina depletion while moving over water.",
+      "tech": null
     },
     "description": "Legends says the Jormuntide was once a wise man, who after being wrongly convicted and cast into a whirlpool, returned as this Pal to destroy those who wronged him.",
     "skills": [
@@ -8770,7 +8871,8 @@
     "drops": ["flame_organ"],
     "aura": {
       "name": "wings_of_flame",
-      "description": "Can be ridden as a flying mount. Enhances Fire attacks while mounted."
+      "description": "Can be ridden as a flying mount. Enhances Fire attacks while mounted.",
+      "tech": null
     },
     "description": "It was once believed to usher in the dry season. Whenever there was a drought in the previous year, people would relentlessly seek to cull it's numbers, hoping to bring a plentiful harvest in the next year.",
     "skills": [
@@ -8865,7 +8967,8 @@
     "drops": ["electric_organ", "leather"],
     "aura": {
       "name": "yellow_tank",
-      "description": "Can be ridden. Can rapidly fire a minigun while mounted."
+      "description": "Can be ridden. Can rapidly fire a minigun while mounted.",
+      "tech": null
     },
     "description": "With a friendly smile and a hardy physique, it is docile towards one it recognizes as a partner. For reasons unexplained, its personality undergoes a drastic change when wielding a minigun.",
     "skills": [
@@ -8964,7 +9067,8 @@
     ],
     "aura": {
       "name": "harvest_goddess",
-      "description": "When activated, the queen's soothing graces greatly restore the player's HP."
+      "description": "When activated, the queen's soothing graces greatly restore the player's HP.",
+      "tech": null
     },
     "description": "A docile Pal full of love.\nIt watches over small Pals who have lost their parents. It uses a full-power Solar Blast to discipline naughty Pals.",
     "skills": [
@@ -9049,7 +9153,8 @@
     "drops": ["flame_organ"],
     "aura": {
       "name": "scorching_predator",
-      "description": "Can be ridden as a flying mount. While fighting together, Ice Pals drop more items when defeated."
+      "description": "Can be ridden as a flying mount. While fighting together, Ice Pals drop more items when defeated.",
+      "tech": null
     },
     "description": "When it finds its prey it unleashes a whirlwind of flames, burning the entire area to ash. Faleris breath is known for its pleasing scent.",
     "skills": [
@@ -9139,7 +9244,8 @@
     "drops": ["electric_organ"],
     "aura": {
       "name": "ferocious_thunder_dragon",
-      "description": "While fighting together, Water Pals drop more items when defeated."
+      "description": "While fighting together, Water Pals drop more items when defeated.",
+      "tech": null
     },
     "description": "It sends electricity into its foes' wounds, roasting them from the inside out. Fights between Orserk end in the blink of an eye.",
     "skills": [
@@ -9219,7 +9325,8 @@
     "drops": ["pal_metal_ingot", "carbon_fiber", "innovative_technical_manual"],
     "aura": {
       "name": "modified_dna",
-      "description": "Can be ridden as a flying mount. Enhances Dark attacks while mounted."
+      "description": "Can be ridden as a flying mount. Enhances Dark attacks while mounted.",
+      "tech": null
     },
     "description": "Forbidden existence born of madness.\nAs he lost his genetic relationship with the other Pals, he may no longer be considered one of them.",
     "skills": [
@@ -9304,7 +9411,8 @@
     "drops": ["pal_metal_ingot", "diamond"],
     "aura": {
       "name": "holy_knight_of_the_firmament",
-      "description": "Can be ridden. Can triple jump while mounted."
+      "description": "Can be ridden. Can triple jump while mounted.",
+      "tech": null
     },
     "description": "In the past, he and Necromus were a single species.\nThey say that they are an existence that has freed themselves from all negative feelings, but the depths of their eyes harbor traces of resentment.",
     "skills": [
@@ -9389,7 +9497,8 @@
     "drops": ["pal_metal_ingot", "large_pal_soul"],
     "aura": {
       "name": "dark_knight_of_the_abyss",
-      "description": "Can be ridden. Can double jump while mounted."
+      "description": "Can be ridden. Can double jump while mounted.",
+      "tech": null
     },
     "description": "Once he and Paladius were a single species.\nThey say it is the manifestation of negative feelings, but the depths of their eyes contain traces of compassion.",
     "skills": [
@@ -9469,7 +9578,8 @@
     "drops": ["ice_organ", "diamond"],
     "aura": {
       "name": "ice_steed",
-      "description": "Can be ridden as a flying mount. Changes the player's attack type to Ice and enhances Ice attacks while mounted."
+      "description": "Can be ridden as a flying mount. Changes the player's attack type to Ice and enhances Ice attacks while mounted.",
+      "tech": null
     },
     "description": "Guardian deity of Palpagos Island, known as the Winter Caller. In the past, when a calamity struck the land, it soared into the sky and sealed away the threat by casting the island into an eternal winter.",
     "skills": [
@@ -9549,9 +9659,10 @@
     "drops": ["pure_quartz", "polymer", "carbon_fiber", "diamond"],
     "aura": {
       "name": "aerial_missile",
-      "description": "Can be ridden as a flying mount. Can rapidly fire a missile launcher while mounted."
+      "description": "Can be ridden as a flying mount. Can rapidly fire a missile launcher while mounted.",
+      "tech": null
     },
-    "description": "Look over the island of Palpagos from the ends of the sky.\nWhen the calamity awakens again, splitting the earth and setting the heavens on fire, he will destroy it with a glare of complete obliteration.",
+    "description": "Looks over the island of Palpagos from the ends of the sky.\nWhen the calamity awakens again, splitting the earth and setting the heavens on fire, he will destroy it with a glare of complete obliteration.",
     "skills": [
       {
         "level": 1,
@@ -9629,7 +9740,8 @@
     "drops": ["ice_organ"],
     "aura": {
       "name": "cold_bomb",
-      "description": "When activated, equips Jolthog Cryst to the player's hand. When thrown at an enemy, causes an icy explosion upon impact."
+      "description": "When activated, equips Jolthog Cryst to the player's hand. When thrown at an enemy, causes an icy explosion upon impact.",
+      "tech": null
     },
     "description": "It releases cold air stored in its body when under attack. The frigid blast it radiates is cold enough to freeze the surrounding air and easily pierces through any attacker's body.",
     "skills": [
@@ -9714,7 +9826,8 @@
     "drops": ["ice_organ", "sapphire"],
     "aura": {
       "name": "gold_digger",
-      "description": "Sometimes digs up Gold Coin when assigned to Ranch."
+      "description": "Sometimes digs up Gold Coin when assigned to Ranch.",
+      "tech": null
     },
     "description": "Its crystalline tail is beautiful, but shatters when this Pal dies. Some believe it is good luck to raise one, so Mau Cryst in captivity are treated with great care.",
     "skills": [
@@ -9804,7 +9917,8 @@
     "drops": ["flame_organ"],
     "aura": {
       "name": "angry_shark",
-      "description": "When activated, attacks targeted enemy with a powerful Spirit Fire. While in team, increases player's attack power."
+      "description": "When activated, attacks targeted enemy with a powerful Spirit Fire. While in team, increases player's attack power.",
+      "tech": null
     },
     "description": "Once upon a time, it was a giant and powerful aquatic Pal. However, with the dwindling availability of food, it ventured onto land. As a consequence of burning many calories to walk, it astonishingly awakened its power to control fire!",
     "skills": [
@@ -9899,7 +10013,8 @@
     "drops": ["fiber", "ice_organ"],
     "aura": {
       "name": "winter_trapeze",
-      "description": "While in team, can be summoned and used instead of a glider. Carries the player up high while gliding."
+      "description": "While in team, can be summoned and used instead of a glider. Carries the player up high while gliding.",
+      "tech": null
     },
     "description": "Its gigantic arms can tear through blocks of ice. There were times when great sinners were tied in the town square and had their hair torn out by as a brutal form of public humiliation.",
     "skills": [
@@ -9994,7 +10109,8 @@
     "drops": ["mushroom", "electric_organ", "leather"],
     "aura": {
       "name": "grenadier_panda",
-      "description": "Can be ridden. Can rapidly fire a grenade launcher while mounted."
+      "description": "Can be ridden. Can rapidly fire a grenade launcher while mounted.",
+      "tech": null
     },
     "description": "A Pal whose power is truly shocking. By altering the electrical currents in its body, this Pal's been able to overload its own strength. When it comes to sheer power, this Pal may be top of the list.",
     "skills": [
@@ -10074,7 +10190,8 @@
     "drops": ["eikthyrdeer_venison", "leather", "horn"],
     "aura": {
       "name": "guardian_of_the_golden_forest",
-      "description": "Can be ridden. Can perform a double jump while mounted. Increases efficiency of cutting trees."
+      "description": "Can be ridden. Can perform a double jump while mounted. Increases efficiency of cutting trees.",
+      "tech": null
     },
     "description": "The individual with the hardest horns becomes the leader. Once the horns are lost, so too is the leadership status. It leaves the herd admist farewell glances and quietly returns to the earth.",
     "skills": [
@@ -10164,7 +10281,8 @@
     "drops": ["horn", "leather"],
     "aura": {
       "name": "darkclaw_hunter",
-      "description": "When activated, attacks targeted enemy with a powerful Hellfire Claw."
+      "description": "When activated, attacks targeted enemy with a powerful Hellfire Claw.",
+      "tech": null
     },
     "description": "It specifically targets baby pals, taking them back to its territory. One can only imagine the profound despair of the parent Pal, whose child has been taken away.",
     "skills": [
@@ -10259,7 +10377,8 @@
     "drops": ["flame_organ", "silver_key"],
     "aura": {
       "name": "sixth_sense",
-      "description": "When activated, utilizes its sixth sense to detect nearby dungeons."
+      "description": "When activated, utilizes its sixth sense to detect nearby dungeons.",
+      "tech": null
     },
     "description": "A Pal that has an unusual obsession with their standing posture.\nAlways in search of the hottest pose, this Pal's owner is constantly presented with fervent stances.",
     "skills": [
@@ -10359,7 +10478,8 @@
     "drops": ["wheat_seeds", "arrow"],
     "aura": {
       "name": "hawk_eye",
-      "description": "While fighting together, allows you to deal more damage to weak points."
+      "description": "While fighting together, allows you to deal more damage to weak points.",
+      "tech": null
     },
     "description": "A Pal that lives a hunting life in rocky areas and is very close to humans. When bones are found in ruins, there are always human bones found nearby as well.",
     "skills": [
@@ -10444,7 +10564,8 @@
     "drops": ["flame_organ", "leather"],
     "aura": {
       "name": "black_hare",
-      "description": "Can be ridden. Applies Dark damage to the player's attacks while mounted."
+      "description": "Can be ridden. Applies Dark damage to the player's attacks while mounted.",
+      "tech": null
     },
     "description": "It burns mysterious dark matter as energy and expels the remaining particles from its body.\nIf someone rides it, they should take care so as not to gallop down the path of darkness.",
     "skills": [
@@ -10529,7 +10650,8 @@
     "drops": ["tomato_seeds"],
     "aura": {
       "name": "thunder_dragon",
-      "description": "Can be ridden. Enhances Electric attacks while mounted."
+      "description": "Can be ridden. Enhances Electric attacks while mounted.",
+      "tech": null
     },
     "description": "Though struck by lightning, it lives on. The phrase \"struck by a Dinossom Lux's bolt\" has come to mean narrowly escaping death.",
     "skills": [
@@ -10609,7 +10731,8 @@
     "drops": ["pal_fluids"],
     "aura": {
       "name": "sand_swimmer",
-      "description": "Can be ridden."
+      "description": "Can be ridden.",
+      "tech": null
     },
     "description": "Its aerodynamic form is well suited to life on the sand. Poachers often catch them and use them in place of surfboards",
     "skills": [
@@ -10694,7 +10817,8 @@
     "drops": ["bone", "ice_organ", "sapphire"],
     "aura": {
       "name": "aerial_marauder",
-      "description": "Can be ridden as a flying mount. Increases damage player deals to enemy weak points while mounted."
+      "description": "Can be ridden as a flying mount. Increases damage player deals to enemy weak points while mounted.",
+      "tech": null
     },
     "description": "The Melodies of a flute made from the exoskeleton of a Vanwyrm Cryst are said to cross whole mountain ranges. In ages past, such flutes were used to signal victory in a battle.",
     "skills": [
@@ -10779,7 +10903,8 @@
     "drops": ["high_quality_pal_oil"],
     "aura": {
       "name": "amicable_water_dragon",
-      "description": "Can be ridden as a flying mount.\nWhile fighting together, Fire Pals drop more items when defeated."
+      "description": "Can be ridden as a flying mount.\nWhile fighting together, Fire Pals drop more items when defeated.",
+      "tech": null
     },
     "description": "It possesses a demeanor as pure as its appearance suggests. Perhaps because of this, it harbors no ill will in any of its actions and is indifferent even after killing someone.",
     "skills": [
@@ -10859,7 +10984,8 @@
     "drops": ["raw_kelpsea", "flame_organ"],
     "aura": {
       "name": "lava_spout",
-      "description": "While in team, increases attack power of Fire Pals."
+      "description": "While in team, increases attack power of Fire Pals.",
+      "tech": null
     },
     "description": "Their personalities change depending on the temperature of the water where they were born. Kelpsea born in warm waters generally have a passionate, motivated personality.",
     "skills": [
@@ -10944,7 +11070,8 @@
     "drops": ["flame_organ"],
     "aura": {
       "name": "darkflame_lion",
-      "description": "Can be ridden. While fighting together, Neutral Pals drop more items when defeated."
+      "description": "Can be ridden. While fighting together, Neutral Pals drop more items when defeated.",
+      "tech": null
     },
     "description": "While it prefers raw meat, it always ends up eating tainted meat. This is due to its dark claws, which it uses as its weapon—it simply doesn't realize its prey got cursed.",
     "skills": [
@@ -11029,7 +11156,8 @@
     "drops": ["high_quality_pal_oil", "electric_organ", "sapphire"],
     "aura": {
       "name": "missile_party",
-      "description": "Can be ridden. Can rapidly fire a missile launcher while mounted."
+      "description": "Can be ridden. Can rapidly fire a missile launcher while mounted.",
+      "tech": null
     },
     "description": "One day, Relaxaurus had an idea. Maybe it was about time for a change. Just then, an electric shock raced through its body!",
     "skills": [
@@ -11109,7 +11237,8 @@
     "drops": ["broncherry_meat", "lettuce_seeds"],
     "aura": {
       "name": "overaffectionate",
-      "description": "Can be ridden. While in team, Broncherry helps carry supplies, increasing the player's max carrying capacity."
+      "description": "Can be ridden. While in team, Broncherry helps carry supplies, increasing the player's max carrying capacity.",
+      "tech": null
     },
     "description": "Its scent drastically changes before and after pairing. It exudes a pleasing aroma before finding a partner, which is called the \"perfume of purity.\"",
     "skills": [
@@ -11194,7 +11323,8 @@
     "drops": ["ice_organ"],
     "aura": {
       "name": "ice-loving_beast",
-      "description": "Can be ridden. Improves efficiency of mining ores while mounted."
+      "description": "Can be ridden. Improves efficiency of mining ores while mounted.",
+      "tech": null
     },
     "description": "Ice cold blood runs throughout its body. If heated rapidly, its blood evaporates, causing an immense vapor explosion.",
     "skills": [
@@ -11279,7 +11409,8 @@
     "drops": ["wool", "ice_organ"],
     "aura": {
       "name": "king_of_muscles",
-      "description": "Can be ridden. While in team, Kingpaca helps carry supplies, increasing the player's max carrying capacity."
+      "description": "Can be ridden. While in team, Kingpaca helps carry supplies, increasing the player's max carrying capacity.",
+      "tech": null
     },
     "description": "With a heart of ice, this Pal is terrible at expressing its emotions. A solitary individual is pitiable, seen as too clumsy in the eyes of Melpaca.",
     "skills": [
@@ -11369,7 +11500,8 @@
     "drops": ["high_quality_pal_oil", "leather", "mammorest_meat"],
     "aura": {
       "name": "ice_crusher",
-      "description": "Can be ridden. Improves efficiency of cutting trees and mining ores while mounted."
+      "description": "Can be ridden. Improves efficiency of cutting trees and mining ores while mounted.",
+      "tech": null
     },
     "description": "The vegetation on its back varies from individual to individual. There was a time when seeds of presumed extinct plants were found still frozen on the back of a Mammorest Cryst.",
     "skills": [
@@ -11464,7 +11596,8 @@
     "drops": ["lettuce_seeds", "tomato_seeds", "beautiful_flower"],
     "aura": {
       "name": "guardian_of_the_grassy_fields",
-      "description": "Can be ridden. While in team, Wumpo Botan helps carry supplies, increasing the player's max carrying capacity."
+      "description": "Can be ridden. While in team, Wumpo Botan helps carry supplies, increasing the player's max carrying capacity.",
+      "tech": null
     },
     "description": "researchers once tried to cut the grass off its body to reveal its true form. In the end, only grass was left, as if that was all there was to begin with.",
     "skills": [
@@ -11544,7 +11677,8 @@
     "drops": ["high_quality_pal_oil", "flame_organ"],
     "aura": {
       "name": "stormbringer_lava_dragon",
-      "description": "Can be ridden. Enhances Fire attacks while mounted."
+      "description": "Can be ridden. Enhances Fire attacks while mounted.",
+      "tech": null
     },
     "description": "Legend says the Jormuntide Ignis was once a warrior who, after being wrongly convicted and cast into a volcano, returned as this Pal to destroy those who wronged him.",
     "skills": [
@@ -11624,7 +11758,8 @@
     "drops": ["pal_fluids"],
     "aura": {
       "name": "wings_of_water",
-      "description": "Can be ridden as a flying mount. Enhances Water attacks while mounted."
+      "description": "Can be ridden as a flying mount. Enhances Water attacks while mounted.",
+      "tech": null
     },
     "description": "It was once believed to usher in the rainy season. If there was a flood the previous year, people would relentlessly seek to cull its numbers, hoping to avert disaster in the coming year.",
     "skills": [
@@ -11718,7 +11853,8 @@
     ],
     "aura": {
       "name": "goddess_of_the_tranquil_light",
-      "description": "When activated, the queen's soothing graces greatly restore the player's HP."
+      "description": "When activated, the queen's soothing graces greatly restore the player's HP.",
+      "tech": null
     },
     "description": "An elegant Pal full of grace. It admonishes any who are disrespectful with a painful slap. Some Pals actively seek out this punishment.",
     "skills": [
@@ -11798,7 +11934,8 @@
     "drops": ["pure_quartz", "large_pal_soul"],
     "aura": {
       "name": "black_steed",
-      "description": "Can be ridden as a flying mount. Changes the player's attack type to Dark and enhances Dark attacks while mounted."
+      "description": "Can be ridden as a flying mount. Changes the player's attack type to Dark and enhances Dark attacks while mounted.",
+      "tech": null
     },
     "description": "Guardian deity of Palpagos Island known as the Night Caller. In the past, when a calamity struck the land, it soared into the sky and sealed away the threat by casting the island into eternal darkness.",
     "skills": [
