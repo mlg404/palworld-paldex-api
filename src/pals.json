@@ -852,7 +852,7 @@
     "aura": {
       "name": "pengullet_cannon",
       "description": "When activated, the player equips a Rocket Launcher and fires Pengullet as ammunition. Pengullet explodes on contact and is incapacitated.",
-      "tech": null
+      "tech": "Pengullet's Rocket Launcher"
     },
     "description": "The feathers of this Pal have all but disappeared, but sadly, its desire to fly has remained as strong as ever. Even now, it tries to fly again in any way it can.",
     "skills": [
@@ -1034,7 +1034,7 @@
     "aura": {
       "name": "jolt_bomb",
       "description": "When activated, equips Jolthog to the player's hand. When thrown at an enemy, causes an electrical explosion upon impact.",
-      "tech": null
+      "tech": "Jolthog's Gloves"
     },
     "description": "Releases the electricity stored in it's body when under attack, producing a shock that can be over 10 million volts. If thrown, it can even be more lethal than any conventional heavy weaponry.",
     "skills": [
@@ -1631,7 +1631,7 @@
     "aura": {
       "name": "dream_chaser",
       "description": "While in team, appears near the player. Follows up player attacks with magic bullets.",
-      "tech": null
+      "tech": "Daedream's Necklace"
     },
     "description": "It puts those it is interested in to sleep and shows them an endless stream of happy dreams. Those who fall under its spell are never to wake until death takes them.",
     "skills": [
@@ -1712,7 +1712,7 @@
     "aura": {
       "name": "hard_head",
       "description": "Can be ridden. Increases efficiency of destroying boulders while mounted.",
-      "tech": null
+      "tech": "Rushoar's Saddle"
     },
     "description": "Being extremely aggressive Pal, it often picks fights before gauging its opponent's strength. Though small, its powerful charge can even send boulders flying.",
     "skills": [
@@ -1970,7 +1970,7 @@
     "aura": {
       "name": "fried_squid",
       "description": "While in team, can be summoned and used instead of a glider.\nCan float for long periods of time while gliding.",
-      "tech": null
+      "tech": "Killamari's Gloves"
     },
     "description": "It wraps itself around an enemy's head, sucking out their insides. Pal mummies are occasionally found, but these are in fact Killamari victims.",
     "skills": [
@@ -2137,7 +2137,7 @@
     "aura": {
       "name": "zephyr_glider",
       "description": "While in team, can be summoned and used instead of a glider.\nAllows you to move quickly for long periods of time while gliding with this Pal.",
-      "tech": null
+      "tech": "Celaray's Gloves"
     },
     "description": "Riding the wind, this Pal travels where it pleases. Should it find a partner along the way, the encounter will mark its journey's end.",
     "skills": [
@@ -2218,7 +2218,7 @@
     "aura": {
       "name": "direhowl_rider",
       "description": "Can be ridden.\nMoves slightly faster than most mounts.",
-      "tech": null
+      "tech": "Direhowl's Saddled Harness"
     },
     "description": "Long ago Direhowl would hunt alongside humans but over the years this bond faded.",
     "skills": [
@@ -2299,7 +2299,7 @@
     "aura": {
       "name": "eggbomb_launcher",
       "description": "When activated, equips to the player and transforms into an egg launcher.",
-      "tech": null
+      "tech": "Tocotoco's Gloves"
     },
     "description": "A frightening Pal that produces exploding eggs. It often fires these eggs from its rear end as a weapon, but when spent the Pal itself explodes.",
     "skills": [
@@ -5595,7 +5595,7 @@
     "aura": {
       "name": "swift_swimmer",
       "description": "Can be ridden to travel on water.\nWhile mounted, prevents stamina depletion while moving over water.",
-      "tech": null
+      "tech": "Surfent Saddle"
     },
     "description": "Its hydrodynamic form is well suited to life in water.\nPoachers often catch them and use them in place of surfboards.",
     "skills": [
@@ -8533,7 +8533,7 @@
     "aura": {
       "name": "black_anklyosaur",
       "description": "Can be ridden a flying mount. Increases damage dealt to ore while mounted.",
-      "tech": null
+      "tech": "Astegon Saddle"
     },
     "description": "A savage beast born of the abyss. Thou shall not stand before the beast. Thou shall not heed the beast.",
     "skills": [
@@ -9326,7 +9326,7 @@
     "aura": {
       "name": "modified_dna",
       "description": "Can be ridden as a flying mount. Enhances Dark attacks while mounted.",
-      "tech": null
+      "tech": "Shadowbeak Saddle"
     },
     "description": "Forbidden existence born of madness.\nAs he lost his genetic relationship with the other Pals, he may no longer be considered one of them.",
     "skills": [
@@ -9412,7 +9412,7 @@
     "aura": {
       "name": "holy_knight_of_the_firmament",
       "description": "Can be ridden. Can triple jump while mounted.",
-      "tech": null
+      "tech": "Paladius Saddle"
     },
     "description": "In the past, he and Necromus were a single species.\nThey say that they are an existence that has freed themselves from all negative feelings, but the depths of their eyes harbor traces of resentment.",
     "skills": [
@@ -9498,7 +9498,7 @@
     "aura": {
       "name": "dark_knight_of_the_abyss",
       "description": "Can be ridden. Can double jump while mounted.",
-      "tech": null
+      "tech": "Necromus Saddle"
     },
     "description": "Once he and Paladius were a single species.\nThey say it is the manifestation of negative feelings, but the depths of their eyes contain traces of compassion.",
     "skills": [
@@ -9579,7 +9579,7 @@
     "aura": {
       "name": "ice_steed",
       "description": "Can be ridden as a flying mount. Changes the player's attack type to Ice and enhances Ice attacks while mounted.",
-      "tech": null
+      "tech": "Frostallion Saddle"
     },
     "description": "Guardian deity of Palpagos Island, known as the Winter Caller. In the past, when a calamity struck the land, it soared into the sky and sealed away the threat by casting the island into an eternal winter.",
     "skills": [
@@ -9660,7 +9660,7 @@
     "aura": {
       "name": "aerial_missile",
       "description": "Can be ridden as a flying mount. Can rapidly fire a missile launcher while mounted.",
-      "tech": null
+      "tech": "Jetragon's Missile Launcher"
     },
     "description": "Looks over the island of Palpagos from the ends of the sky.\nWhen the calamity awakens again, splitting the earth and setting the heavens on fire, he will destroy it with a glare of complete obliteration.",
     "skills": [
@@ -9741,7 +9741,7 @@
     "aura": {
       "name": "cold_bomb",
       "description": "When activated, equips Jolthog Cryst to the player's hand. When thrown at an enemy, causes an icy explosion upon impact.",
-      "tech": null
+      "tech": "Jolthog Cryst's Gloves"
     },
     "description": "It releases cold air stored in its body when under attack. The frigid blast it radiates is cold enough to freeze the surrounding air and easily pierces through any attacker's body.",
     "skills": [
@@ -11157,7 +11157,7 @@
     "aura": {
       "name": "missile_party",
       "description": "Can be ridden. Can rapidly fire a missile launcher while mounted.",
-      "tech": null
+      "tech": "Relaxaurus Lux's Missile Launcher"
     },
     "description": "One day, Relaxaurus had an idea. Maybe it was about time for a change. Just then, an electric shock raced through its body!",
     "skills": [
@@ -11935,7 +11935,7 @@
     "aura": {
       "name": "black_steed",
       "description": "Can be ridden as a flying mount. Changes the player's attack type to Dark and enhances Dark attacks while mounted.",
-      "tech": null
+      "tech": "Frostallion Noct Saddle"
     },
     "description": "Guardian deity of Palpagos Island known as the Night Caller. In the past, when a calamity struck the land, it soared into the sky and sealed away the threat by casting the island into eternal darkness.",
     "skills": [
