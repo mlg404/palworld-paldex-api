@@ -88,7 +88,27 @@
         "power": 150,
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 70,
+        "ranged": 70
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 40
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "SheepBall",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1000,
+    "size": "xs"
   },
   {
     "id": 2,
@@ -184,7 +204,27 @@
         "power": 150,
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 70,
+        "ranged": 70
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 60
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "PinkCat",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1000,
+    "size": "xs"
   },
   {
     "id": 3,
@@ -270,7 +310,27 @@
         "power": 80,
         "description": "Generates two flaming tornadoes on either side before launching them at an enemy.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": {
+        "melee": 70,
+        "ranged": 60
+      },
+      "defense": 60,
+      "speed": {
+        "ride": 550,
+        "run": 375,
+        "walk": 50
+      },
+      "stamina": 100,
+      "support": 70
+    },
+    "asset": "ChickenPal",
+    "genus": "bird",
+    "rarity": 1,
+    "price": 1000,
+    "size": "xs"
   },
   {
     "id": 4,
@@ -371,7 +431,27 @@
         "power": 150,
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": {
+        "melee": 70,
+        "ranged": 70
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 40
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Carbunclo",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1010,
+    "size": "xs"
   },
   {
     "id": 5,
@@ -452,7 +532,27 @@
         "power": 150,
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": {
+        "melee": 70,
+        "ranged": 75
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 80
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Kitsunebi",
+    "genus": "fourlegged",
+    "rarity": 1,
+    "price": 1040,
+    "size": "xs"
   },
   {
     "id": 6,
@@ -543,7 +643,27 @@
         "power": 150,
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": {
+        "melee": 80,
+        "ranged": 80
+      },
+      "defense": 60,
+      "speed": {
+        "ride": 400,
+        "run": 300,
+        "walk": 105
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "BluePlatypus",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1120,
+    "size": "xs"
   },
   {
     "id": 7,
@@ -634,7 +754,27 @@
         "power": 150,
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": {
+        "melee": 60,
+        "ranged": 75
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 500,
+        "run": 350,
+        "walk": 80
+      },
+      "stamina": 100,
+      "support": 80
+    },
+    "asset": "ElecCat",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1030,
+    "size": "xs"
   },
   {
     "id": 8,
@@ -735,7 +875,27 @@
         "power": 150,
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 100,
+        "ranged": 70
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 400,
+        "run": 300,
+        "walk": 48
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Monkey",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1280,
+    "size": "xs"
   },
   {
     "id": 9,
@@ -816,7 +976,27 @@
         "power": 150,
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": {
+        "melee": 100,
+        "ranged": 70
+      },
+      "defense": 75,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "FlameBambi",
+    "genus": "fourlegged",
+    "rarity": 2,
+    "price": 2950,
+    "size": "s"
   },
   {
     "id": 10,
@@ -912,7 +1092,27 @@
         "power": 150,
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 70,
+        "ranged": 75
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 650,
+        "run": 500,
+        "walk": 60
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Penguin",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1080,
+    "size": "xs"
   },
   {
     "id": 11,
@@ -1013,7 +1213,27 @@
         "power": 150,
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": {
+        "melee": 70,
+        "ranged": 95
+      },
+      "defense": 95,
+      "speed": {
+        "ride": 600,
+        "run": 450,
+        "walk": 110
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "CaptainPenguin",
+    "genus": "humanoid",
+    "rarity": 6,
+    "price": 5410,
+    "size": "l"
   },
   {
     "id": 12,
@@ -1094,7 +1314,27 @@
         "power": 150,
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 70,
+        "ranged": 75
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 60
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Hedgehog",
+    "genus": "fourlegged",
+    "rarity": 1,
+    "price": 1060,
+    "size": "xs"
   },
   {
     "id": 13,
@@ -1175,7 +1415,27 @@
         "power": 150,
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 100,
+        "ranged": 70
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 400,
+        "run": 300,
+        "walk": 50
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "PlantSlime",
+    "genus": "other",
+    "rarity": 1,
+    "price": 1310,
+    "size": "xs"
   },
   {
     "id": 14,
@@ -1261,7 +1521,27 @@
         "power": 150,
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 70,
+        "ranged": 70
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 450,
+        "run": 350,
+        "walk": 60
+      },
+      "stamina": 100,
+      "support": 140
+    },
+    "asset": "CuteFox",
+    "genus": "fourlegged",
+    "rarity": 2,
+    "price": 1000,
+    "size": "xs"
   },
   {
     "id": 15,
@@ -1342,7 +1622,27 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 70,
+        "ranged": 70
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 550,
+        "run": 380,
+        "walk": 70
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "WizardOwl",
+    "genus": "bird",
+    "rarity": 1,
+    "price": 1050,
+    "size": "xs"
   },
   {
     "id": 16,
@@ -1423,7 +1723,27 @@
         "power": 150,
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 70,
+        "ranged": 60
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 400,
+        "run": 300,
+        "walk": 60
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Ganesha",
+    "genus": "fourlegged",
+    "rarity": 1,
+    "price": 1000,
+    "size": "m"
   },
   {
     "id": 17,
@@ -1514,7 +1834,27 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 70,
+        "ranged": 70
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 400,
+        "run": 300,
+        "walk": 10
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "NegativeKoala",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1050,
+    "size": "xs"
   },
   {
     "id": 18,
@@ -1600,7 +1940,27 @@
         "power": 150,
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 100,
+        "ranged": 70
+      },
+      "defense": 75,
+      "speed": {
+        "ride": 450,
+        "run": 300,
+        "walk": 40
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "WoolFox",
+    "genus": "fourlegged",
+    "rarity": 1,
+    "price": 1420,
+    "size": "xs"
   },
   {
     "id": 19,
@@ -1691,7 +2051,27 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 100,
+        "ranged": 75
+      },
+      "defense": 60,
+      "speed": {
+        "ride": 550,
+        "run": 300,
+        "walk": 140
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "DreamDemon",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1330,
+    "size": "xs"
   },
   {
     "id": 20,
@@ -1772,7 +2152,27 @@
         "power": 150,
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 100,
+        "ranged": 70
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 700,
+        "run": 450,
+        "walk": 150
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Boar",
+    "genus": "fourlegged",
+    "rarity": 1,
+    "price": 1680,
+    "size": "s"
   },
   {
     "id": 21,
@@ -1853,7 +2253,27 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": {
+        "melee": 70,
+        "ranged": 85
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 500,
+        "run": 300,
+        "walk": 60
+      },
+      "stamina": 100,
+      "support": 140
+    },
+    "asset": "NightFox",
+    "genus": "fourlegged",
+    "rarity": 6,
+    "price": 1480,
+    "size": "xs"
   },
   {
     "id": 22,
@@ -1944,7 +2364,27 @@
         "power": 150,
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": {
+        "melee": 100,
+        "ranged": 80
+      },
+      "defense": 50,
+      "speed": {
+        "ride": 550,
+        "run": 300,
+        "walk": 60
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "CuteMole",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1360,
+    "size": "xs"
   },
   {
     "id": 23,
@@ -2030,7 +2470,27 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": {
+        "melee": 100,
+        "ranged": 60
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 120
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "NegativeOctopus",
+    "genus": "other",
+    "rarity": 1,
+    "price": 1200,
+    "size": "xs"
   },
   {
     "id": 24,
@@ -2111,7 +2571,27 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 70,
+        "ranged": 60
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 475,
+        "walk": 105
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Bastet",
+    "genus": "fourlegged",
+    "rarity": 1,
+    "price": 1000,
+    "size": "xs"
   },
   {
     "id": 25,
@@ -2197,7 +2677,27 @@
         "power": 150,
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 100,
+        "ranged": 70
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 700,
+        "run": 550,
+        "walk": 150
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "FlyingManta",
+    "genus": "other",
+    "rarity": 3,
+    "price": 2860,
+    "size": "m"
   },
   {
     "id": 26,
@@ -2278,7 +2778,27 @@
         "power": 150,
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 110,
+        "ranged": 90
+      },
+      "defense": 75,
+      "speed": {
+        "ride": 1050,
+        "run": 800,
+        "walk": 180
+      },
+      "stamina": 70,
+      "support": 100
+    },
+    "asset": "Garm",
+    "genus": "fourlegged",
+    "rarity": 2,
+    "price": 1920,
+    "size": "s"
   },
   {
     "id": 27,
@@ -2359,7 +2879,27 @@
         "power": 150,
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": {
+        "melee": 80,
+        "ranged": 75
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 300,
+        "walk": 60
+      },
+      "stamina": 100,
+      "support": 70
+    },
+    "asset": "ColorfulBird",
+    "genus": "bird",
+    "rarity": 1,
+    "price": 1090,
+    "size": "s"
   },
   {
     "id": 28,
@@ -2460,7 +3000,27 @@
         "power": 150,
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": {
+        "melee": 100,
+        "ranged": 65
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "FlowerRabbit",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1220,
+    "size": "xs"
   },
   {
     "id": 29,
@@ -2541,7 +3101,27 @@
         "power": 150,
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 100,
+        "ranged": 50
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 700,
+        "run": 580,
+        "walk": 55
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "CowPal",
+    "genus": "fourlegged",
+    "rarity": 2,
+    "price": 2620,
+    "size": "s"
   },
   {
     "id": 30,
@@ -2642,7 +3222,27 @@
         "power": 150,
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 80,
+        "ranged": 80
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "LittleBriarRose",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1140,
+    "size": "s"
   },
   {
     "id": 31,
@@ -2733,7 +3333,27 @@
         "power": 150,
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 90,
+        "ranged": 90
+      },
+      "defense": 75,
+      "speed": {
+        "ride": 500,
+        "run": 400,
+        "walk": 80
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "SharkKid",
+    "genus": "humanoid",
+    "rarity": 2,
+    "price": 1840,
+    "size": "s"
   },
   {
     "id": 32,
@@ -2824,7 +3444,27 @@
         "power": 150,
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 70,
+        "ranged": 70
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "WindChimes",
+    "genus": "other",
+    "rarity": 1,
+    "price": 1020,
+    "size": "xs"
   },
   {
     "id": 33,
@@ -2920,7 +3560,27 @@
         "power": 150,
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 90
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 700,
+        "run": 500,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "GrassPanda",
+    "genus": "humanoid",
+    "rarity": 6,
+    "price": 6200,
+    "size": "l"
   },
   {
     "id": 34,
@@ -3001,7 +3661,27 @@
         "power": 150,
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 70,
+        "ranged": 70
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 400,
+        "run": 300,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "SweetsSheep",
+    "genus": "fourlegged",
+    "rarity": 3,
+    "price": 1450,
+    "size": "s"
   },
   {
     "id": 35,
@@ -3087,7 +3767,27 @@
         "power": 150,
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 70,
+        "ranged": 70
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 70
+      },
+      "stamina": 100,
+      "support": 120
+    },
+    "asset": "BerryGoat",
+    "genus": "fourlegged",
+    "rarity": 3,
+    "price": 2510,
+    "size": "s"
   },
   {
     "id": 36,
@@ -3168,7 +3868,27 @@
         "power": 150,
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 90,
+        "ranged": 75
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 800,
+        "run": 460,
+        "walk": 62
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Alpaca",
+    "genus": "fourlegged",
+    "rarity": 3,
+    "price": 2740,
+    "size": "m"
   },
   {
     "id": 37,
@@ -3249,7 +3969,27 @@
         "power": 150,
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": {
+        "melee": 70,
+        "ranged": 80
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 900,
+        "run": 700,
+        "walk": 120
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Deer",
+    "genus": "fourlegged",
+    "rarity": 4,
+    "price": 2620,
+    "size": "l"
   },
   {
     "id": 38,
@@ -3330,7 +4070,27 @@
         "power": 150,
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 95
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 750,
+        "run": 600,
+        "walk": 150
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "HawkBird",
+    "genus": "bird",
+    "rarity": 3,
+    "price": 6300,
+    "size": "l"
   },
   {
     "id": 39,
@@ -3421,7 +4181,27 @@
         "power": 150,
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": {
+        "melee": 100,
+        "ranged": 65
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 350,
+        "run": 245,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "PinkRabbit",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1160,
+    "size": "xs"
   },
   {
     "id": 40,
@@ -3517,7 +4297,27 @@
         "power": 120,
         "description": "Energizes the surrounding ground, causing it to explode after a set amount of time.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": {
+        "melee": 150,
+        "ranged": 100
+      },
+      "defense": 85,
+      "speed": {
+        "ride": 960,
+        "run": 700,
+        "walk": 160
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Baphomet",
+    "genus": "humanoid",
+    "rarity": 4,
+    "price": 4780,
+    "size": "m"
   },
   {
     "id": 41,
@@ -3603,7 +4403,27 @@
         "power": 150,
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 100,
+        "ranged": 80
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 700,
+        "run": 550,
+        "walk": 150
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "CuteButterfly",
+    "genus": "bird",
+    "rarity": 4,
+    "price": 5700,
+    "size": "m"
   },
   {
     "id": 42,
@@ -3689,7 +4509,27 @@
         "power": 150,
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": {
+        "melee": 100,
+        "ranged": 95
+      },
+      "defense": 95,
+      "speed": {
+        "ride": 800,
+        "run": 600,
+        "walk": 87
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "FlameBuffalo",
+    "genus": "fourlegged",
+    "rarity": 4,
+    "price": 3520,
+    "size": "m"
   },
   {
     "id": 43,
@@ -3723,7 +4563,27 @@
       "tech": null
     },
     "description": "When too relaxed, its reaction time drastically declines.\nEven if it were sliced from head to tail, it probably wouldn't even realize that it should be dead until the next morning.",
-    "skills": []
+    "skills": [],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 70
+      },
+      "defense": 95,
+      "speed": {
+        "ride": 600,
+        "run": 450,
+        "walk": 150
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "LazyCatfish",
+    "genus": "fish",
+    "rarity": 4,
+    "price": 4690,
+    "size": "m"
   },
   {
     "id": 44,
@@ -3804,7 +4664,27 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": {
+        "melee": 80,
+        "ranged": 95
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 1200,
+        "run": 920,
+        "walk": 170
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "DarkCrow",
+    "genus": "bird",
+    "rarity": 3,
+    "price": 1840,
+    "size": "m"
   },
   {
     "id": 45,
@@ -3895,7 +4775,27 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 90,
+        "ranged": 80
+      },
+      "defense": 50,
+      "speed": {
+        "ride": 800,
+        "run": 600,
+        "walk": 140
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "LizardMan",
+    "genus": "humanoid",
+    "rarity": 2,
+    "price": 1720,
+    "size": "s"
   },
   {
     "id": 46,
@@ -3976,7 +4876,27 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 130,
+        "ranged": 100
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 800,
+        "run": 600,
+        "walk": 150
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Werewolf",
+    "genus": "humanoid",
+    "rarity": 3,
+    "price": 2400,
+    "size": "m"
   },
   {
     "id": 47,
@@ -4057,7 +4977,27 @@
         "power": 150,
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": {
+        "melee": 120,
+        "ranged": 85
+      },
+      "defense": 60,
+      "speed": {
+        "ride": 700,
+        "run": 600,
+        "walk": 200
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Eagle",
+    "genus": "bird",
+    "rarity": 2,
+    "price": 2010,
+    "size": "m"
   },
   {
     "id": 48,
@@ -4163,7 +5103,27 @@
         "power": 150,
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 100,
+        "ranged": 105
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 750,
+        "run": 600,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "RobinHood",
+    "genus": "humanoid",
+    "rarity": 5,
+    "price": 2050,
+    "size": "m"
   },
   {
     "id": 49,
@@ -4254,7 +5214,27 @@
         "power": 150,
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 110,
+        "ranged": 95
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 720,
+        "run": 550,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Gorilla",
+    "genus": "humanoid",
+    "rarity": 5,
+    "price": 2010,
+    "size": "s"
   },
   {
     "id": 50,
@@ -4365,7 +5345,27 @@
         "power": 150,
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 100,
+        "ranged": 90
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 550,
+        "run": 450,
+        "walk": 250
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "SoldierBee",
+    "genus": "humanoid",
+    "rarity": 4,
+    "price": 1880,
+    "size": "m"
   },
   {
     "id": 51,
@@ -4466,7 +5466,27 @@
         "power": 150,
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 100,
+        "ranged": 105
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 550,
+        "run": 450,
+        "walk": 250
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "QueenBee",
+    "genus": "humanoid",
+    "rarity": 8,
+    "price": 6830,
+    "size": "l"
   },
   {
     "id": 52,
@@ -4547,7 +5567,27 @@
         "power": 150,
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 100,
+        "ranged": 80
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 800,
+        "run": 600,
+        "walk": 64
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "NaughtyCat",
+    "genus": "fourlegged",
+    "rarity": 6,
+    "price": 5510,
+    "size": "l"
   },
   {
     "id": 53,
@@ -4633,7 +5673,27 @@
         "power": 130,
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": {
+        "melee": 100,
+        "ranged": 60
+      },
+      "defense": 60,
+      "speed": {
+        "ride": 400,
+        "run": 250,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "MopBaby",
+    "genus": "other",
+    "rarity": 1,
+    "price": 1180,
+    "size": "xs"
   },
   {
     "id": 54,
@@ -4719,7 +5779,27 @@
         "power": 130,
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 90
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 500,
+        "run": 300,
+        "walk": 120
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "MopKing",
+    "genus": "other",
+    "rarity": 6,
+    "price": 6400,
+    "size": "l"
   },
   {
     "id": 55,
@@ -4805,7 +5885,27 @@
         "power": 150,
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 100,
+        "ranged": 80
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 800,
+        "run": 600,
+        "walk": 180
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "WeaselDragon",
+    "genus": "fourlegged",
+    "rarity": 4,
+    "price": 3450,
+    "size": "m"
   },
   {
     "id": 56,
@@ -4891,7 +5991,27 @@
         "power": 150,
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 110,
+        "ranged": 105
+      },
+      "defense": 105,
+      "speed": {
+        "ride": 1100,
+        "run": 720,
+        "walk": 130
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Kirin",
+    "genus": "fourlegged",
+    "rarity": 5,
+    "price": 4280,
+    "size": "m"
   },
   {
     "id": 57,
@@ -4972,7 +6092,27 @@
         "power": 130,
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 100,
+        "ranged": 95
+      },
+      "defense": 105,
+      "speed": {
+        "ride": 750,
+        "run": 600,
+        "walk": 130
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "IceFox",
+    "genus": "fourlegged",
+    "rarity": 5,
+    "price": 3730,
+    "size": "s"
   },
   {
     "id": 58,
@@ -5058,7 +6198,27 @@
         "power": 150,
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 110,
+        "ranged": 95
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 1300,
+        "run": 850,
+        "walk": 150
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "FireKirin",
+    "genus": "fourlegged",
+    "rarity": 6,
+    "price": 6720,
+    "size": "l"
   },
   {
     "id": 59,
@@ -5144,7 +6304,27 @@
         "power": 130,
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 80,
+        "ranged": 85
+      },
+      "defense": 110,
+      "speed": {
+        "ride": 700,
+        "run": 550,
+        "walk": 70
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "IceDeer",
+    "genus": "fourlegged",
+    "rarity": 4,
+    "price": 2800,
+    "size": "m"
   },
   {
     "id": 60,
@@ -5225,7 +6405,27 @@
         "power": 150,
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 100,
+        "ranged": 100
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 1150,
+        "run": 700,
+        "walk": 210
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "ThunderDog",
+    "genus": "fourlegged",
+    "rarity": 5,
+    "price": 3880,
+    "size": "m"
   },
   {
     "id": 61,
@@ -5306,7 +6506,27 @@
         "power": 150,
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 70,
+        "ranged": 115
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 900,
+        "run": 700,
+        "walk": 130
+      },
+      "stamina": 100,
+      "support": 110
+    },
+    "asset": "AmaterasuWolf",
+    "genus": "fourlegged",
+    "rarity": 6,
+    "price": 3170,
+    "size": "m"
   },
   {
     "id": 62,
@@ -5397,7 +6617,27 @@
         "power": 150,
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 110,
+        "ranged": 80
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 200
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "RaijinDaughter",
+    "genus": "humanoid",
+    "rarity": 2,
+    "price": 1390,
+    "size": "xs"
   },
   {
     "id": 63,
@@ -5488,7 +6728,27 @@
         "power": 150,
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 80,
+        "ranged": 100
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 650,
+        "run": 500,
+        "walk": 130
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Mutant",
+    "genus": "humanoid",
+    "rarity": 6,
+    "price": 1760,
+    "size": "m"
   },
   {
     "id": 64,
@@ -5574,7 +6834,27 @@
         "power": 150,
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 90,
+        "ranged": 85
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 700,
+        "run": 550,
+        "walk": 120
+      },
+      "stamina": 100,
+      "support": 150
+    },
+    "asset": "FlowerDinosaur",
+    "genus": "humanoid",
+    "rarity": 6,
+    "price": 3240,
+    "size": "l"
   },
   {
     "id": 65,
@@ -5595,7 +6875,7 @@
     "aura": {
       "name": "swift_swimmer",
       "description": "Can be ridden to travel on water.\nWhile mounted, prevents stamina depletion while moving over water.",
-      "tech": "Surfent Saddle"
+      "tech": null
     },
     "description": "Its hydrodynamic form is well suited to life in water.\nPoachers often catch them and use them in place of surfboards.",
     "skills": [
@@ -5655,7 +6935,27 @@
         "power": 150,
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 70,
+        "ranged": 90
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 650,
+        "run": 500,
+        "walk": 200
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Serpent",
+    "genus": "fish",
+    "rarity": 4,
+    "price": 5050,
+    "size": "m"
   },
   {
     "id": 66,
@@ -5741,7 +7041,27 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": {
+        "melee": 50,
+        "ranged": 105
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 800,
+        "run": 600,
+        "walk": 160
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "GhostBeast",
+    "genus": "fourlegged",
+    "rarity": 6,
+    "price": 1570,
+    "size": "m"
   },
   {
     "id": 67,
@@ -5822,7 +7142,27 @@
         "power": 150,
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 80,
+        "ranged": 95
+      },
+      "defense": 120,
+      "speed": {
+        "ride": 420,
+        "run": 300,
+        "walk": 120
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "DrillGame",
+    "genus": "fourlegged",
+    "rarity": 5,
+    "price": 2980,
+    "size": "m"
   },
   {
     "id": 68,
@@ -5913,7 +7253,27 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": {
+        "melee": 100,
+        "ranged": 95
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 140
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "CatBat",
+    "genus": "humanoid",
+    "rarity": 5,
+    "price": 3810,
+    "size": "m"
   },
   {
     "id": 69,
@@ -6009,7 +7369,27 @@
         "power": 150,
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": {
+        "melee": 70,
+        "ranged": 70
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 850,
+        "run": 750,
+        "walk": 170
+      },
+      "stamina": 100,
+      "support": 140
+    },
+    "asset": "PinkLizard",
+    "genus": "humanoid",
+    "rarity": 5,
+    "price": 2450,
+    "size": "l"
   },
   {
     "id": 70,
@@ -6105,7 +7485,27 @@
         "power": 150,
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": {
+        "melee": 100,
+        "ranged": 70
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 375,
+        "run": 250,
+        "walk": 98
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "LavaGirl",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 2500,
+    "size": "xs"
   },
   {
     "id": 71,
@@ -6191,7 +7591,27 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 100,
+        "ranged": 115
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 850,
+        "run": 700,
+        "walk": 350
+      },
+      "stamina": 150,
+      "support": 100
+    },
+    "asset": "BirdDragon",
+    "genus": "bird",
+    "rarity": 4,
+    "price": 4360,
+    "size": "l"
   },
   {
     "id": 72,
@@ -6292,7 +7712,27 @@
         "power": 120,
         "description": "Energizes the surrounding ground, causing it to explode after a set amount of time.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 100,
+        "ranged": 125
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 900,
+        "run": 600,
+        "walk": 160
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Ronin",
+    "genus": "humanoid",
+    "rarity": 7,
+    "price": 4520,
+    "size": "m"
   },
   {
     "id": 73,
@@ -6383,7 +7823,27 @@
         "power": 150,
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": {
+        "melee": 100,
+        "ranged": 115
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 1200,
+        "run": 750,
+        "walk": 200
+      },
+      "stamina": 160,
+      "support": 100
+    },
+    "asset": "ThunderBird",
+    "genus": "bird",
+    "rarity": 6,
+    "price": 7490,
+    "size": "l"
   },
   {
     "id": 74,
@@ -6469,7 +7929,27 @@
         "power": 150,
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": {
+        "melee": 100,
+        "ranged": 105
+      },
+      "defense": 120,
+      "speed": {
+        "ride": 1300,
+        "run": 800,
+        "walk": 200
+      },
+      "stamina": 150,
+      "support": 100
+    },
+    "asset": "RedArmorBird",
+    "genus": "bird",
+    "rarity": 7,
+    "price": 6720,
+    "size": "l"
   },
   {
     "id": 75,
@@ -6560,7 +8040,27 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 100,
+        "ranged": 105
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 620,
+        "run": 440,
+        "walk": 145
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "CatMage",
+    "genus": "humanoid",
+    "rarity": 6,
+    "price": 4120,
+    "size": "m"
   },
   {
     "id": 76,
@@ -6651,7 +8151,27 @@
         "power": 150,
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 50,
+        "ranged": 110
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 620,
+        "run": 440,
+        "walk": 145
+      },
+      "stamina": 100,
+      "support": 120
+    },
+    "asset": "FoxMage",
+    "genus": "humanoid",
+    "rarity": 6,
+    "price": 1540,
+    "size": "m"
   },
   {
     "id": 77,
@@ -6752,7 +8272,27 @@
         "power": 150,
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 100,
+        "ranged": 115
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 700,
+        "run": 500,
+        "walk": 195
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "GrassRabbitMan",
+    "genus": "humanoid",
+    "rarity": 8,
+    "price": 2200,
+    "size": "m"
   },
   {
     "id": 78,
@@ -6853,7 +8393,27 @@
         "power": 150,
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 100
+      },
+      "defense": 120,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 150
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "VioletFairy",
+    "genus": "humanoid",
+    "rarity": 8,
+    "price": 1960,
+    "size": "m"
   },
   {
     "id": 79,
@@ -6944,7 +8504,27 @@
         "power": 130,
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 90,
+        "ranged": 90
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 90
+    },
+    "asset": "WhiteMoth",
+    "genus": "humanoid",
+    "rarity": 7,
+    "price": 5900,
+    "size": "l"
   },
   {
     "id": 80,
@@ -7025,7 +8605,27 @@
         "power": 150,
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 80,
+        "ranged": 80
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 800,
+        "run": 630,
+        "walk": 83
+      },
+      "stamina": 130,
+      "support": 100
+    },
+    "asset": "FairyDragon",
+    "genus": "humanoid",
+    "rarity": 7,
+    "price": 5230,
+    "size": "l"
   },
   {
     "id": 81,
@@ -7106,7 +8706,27 @@
         "power": 150,
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 100,
+        "ranged": 70
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 900,
+        "run": 700,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Kelpie",
+    "genus": "dragon",
+    "rarity": 1,
+    "price": 1260,
+    "size": "xs"
   },
   {
     "id": 82,
@@ -7187,7 +8807,27 @@
         "power": 150,
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 70,
+        "ranged": 100
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 800,
+        "run": 600,
+        "walk": 150
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "BlueDragon",
+    "genus": "fish",
+    "rarity": 7,
+    "price": 5600,
+    "size": "l"
   },
   {
     "id": 83,
@@ -7278,7 +8918,27 @@
         "power": 130,
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 140,
+        "ranged": 100
+      },
+      "defense": 110,
+      "speed": {
+        "ride": 900,
+        "run": 720,
+        "walk": 280
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "WhiteTiger",
+    "genus": "humanoid",
+    "rarity": 7,
+    "price": 8440,
+    "size": "l"
   },
   {
     "id": 84,
@@ -7364,7 +9024,27 @@
         "power": 150,
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": {
+        "melee": 100,
+        "ranged": 110
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 900,
+        "run": 750,
+        "walk": 180
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Manticore",
+    "genus": "fourlegged",
+    "rarity": 7,
+    "price": 4040,
+    "size": "l"
   },
   {
     "id": 85,
@@ -7450,7 +9130,27 @@
         "power": 150,
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 110,
+        "ranged": 100
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 800,
+        "run": 650,
+        "walk": 60
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "LazyDragon",
+    "genus": "monster",
+    "rarity": 8,
+    "price": 10240,
+    "size": "xl"
   },
   {
     "id": 86,
@@ -7531,7 +9231,27 @@
         "power": 150,
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": {
+        "melee": 80,
+        "ranged": 90
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 500,
+        "run": 350,
+        "walk": 75
+      },
+      "stamina": 100,
+      "support": 120
+    },
+    "asset": "SakuraSaurus",
+    "genus": "fourlegged",
+    "rarity": 7,
+    "price": 2920,
+    "size": "xl"
   },
   {
     "id": 87,
@@ -7632,7 +9352,27 @@
         "power": 150,
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 95
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 700,
+        "run": 550,
+        "walk": 150
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "FlowerDoll",
+    "genus": "humanoid",
+    "rarity": 8,
+    "price": 3590,
+    "size": "m"
   },
   {
     "id": 88,
@@ -7718,7 +9458,27 @@
         "power": 150,
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 100,
+        "ranged": 105
+      },
+      "defense": 120,
+      "speed": {
+        "ride": 550,
+        "run": 390,
+        "walk": 80
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "VolcanicMonster",
+    "genus": "fourlegged",
+    "rarity": 6,
+    "price": 6940,
+    "size": "l"
   },
   {
     "id": 89,
@@ -7799,7 +9559,27 @@
         "power": 150,
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": {
+        "melee": 100,
+        "ranged": 85
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 700,
+        "run": 500,
+        "walk": 80
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "KingAlpaca",
+    "genus": "fourlegged",
+    "rarity": 8,
+    "price": 5800,
+    "size": "xl"
   },
   {
     "id": 90,
@@ -7890,7 +9670,27 @@
         "power": 150,
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 150,
+      "attack": {
+        "melee": 100,
+        "ranged": 85
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 600,
+        "run": 430,
+        "walk": 135
+      },
+      "stamina": 100,
+      "support": 30
+    },
+    "asset": "GrassMammoth",
+    "genus": "fourlegged",
+    "rarity": 8,
+    "price": 9450,
+    "size": "xl"
   },
   {
     "id": 91,
@@ -7986,7 +9786,27 @@
         "power": 150,
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 140,
+      "attack": {
+        "melee": 100,
+        "ranged": 80
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 550,
+        "run": 365,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Yeti",
+    "genus": "humanoid",
+    "rarity": 7,
+    "price": 5900,
+    "size": "l"
   },
   {
     "id": 92,
@@ -8082,7 +9902,27 @@
         "power": 150,
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": {
+        "melee": 100,
+        "ranged": 100
+      },
+      "defense": 120,
+      "speed": {
+        "ride": 600,
+        "run": 500,
+        "walk": 110
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "HerculesBeetle",
+    "genus": "humanoid",
+    "rarity": 8,
+    "price": 6830,
+    "size": "l"
   },
   {
     "id": 93,
@@ -8163,7 +10003,27 @@
         "power": 150,
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 110,
+        "ranged": 110
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 1050,
+        "run": 750,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "FengyunDeeper",
+    "genus": "fourlegged",
+    "rarity": 3,
+    "price": 2250,
+    "size": "s"
   },
   {
     "id": 94,
@@ -8244,7 +10104,27 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 105
+      },
+      "defense": 110,
+      "speed": {
+        "ride": 700,
+        "run": 550,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 110
+    },
+    "asset": "CatVampire",
+    "genus": "humanoid",
+    "rarity": 6,
+    "price": 2100,
+    "size": "m"
   },
   {
     "id": 95,
@@ -8340,7 +10220,27 @@
         "power": 150,
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": {
+        "melee": 100,
+        "ranged": 100
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 950,
+        "run": 800,
+        "walk": 240
+      },
+      "stamina": 220,
+      "support": 100
+    },
+    "asset": "SkyDragon",
+    "genus": "dragon",
+    "rarity": 7,
+    "price": 6830,
+    "size": "l"
   },
   {
     "id": 96,
@@ -8426,7 +10326,27 @@
         "power": 150,
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 150,
+        "ranged": 125
+      },
+      "defense": 120,
+      "speed": {
+        "ride": 900,
+        "run": 700,
+        "walk": 400
+      },
+      "stamina": 100,
+      "support": 50
+    },
+    "asset": "KingBahamut",
+    "genus": "fourlegged",
+    "rarity": 9,
+    "price": 10520,
+    "size": "xl"
   },
   {
     "id": 97,
@@ -8507,7 +10427,27 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 125
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 1100,
+        "run": 700,
+        "walk": 100
+      },
+      "stamina": 170,
+      "support": 100
+    },
+    "asset": "HadesBird",
+    "genus": "bird",
+    "rarity": 7,
+    "price": 7840,
+    "size": "l"
   },
   {
     "id": 98,
@@ -8593,7 +10533,27 @@
         "power": 150,
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 125
+      },
+      "defense": 125,
+      "speed": {
+        "ride": 800,
+        "run": 600,
+        "walk": 150
+      },
+      "stamina": 300,
+      "support": 100
+    },
+    "asset": "BlackMetalDragon",
+    "genus": "monster",
+    "rarity": 9,
+    "price": 8200,
+    "size": "xl"
   },
   {
     "id": 99,
@@ -8679,7 +10639,27 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 100
+      },
+      "defense": 130,
+      "speed": {
+        "ride": 1200,
+        "run": 1000,
+        "walk": 200
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "DarkScorpion",
+    "genus": "other",
+    "rarity": 9,
+    "price": 7050,
+    "size": "l"
   },
   {
     "id": 100,
@@ -8770,7 +10750,27 @@
         "power": 150,
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": {
+        "melee": 130,
+        "ranged": 130
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 1000,
+        "run": 800,
+        "walk": 160
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Anubis",
+    "genus": "humanoid",
+    "rarity": 10,
+    "price": 4960,
+    "size": "m"
   },
   {
     "id": 101,
@@ -8851,7 +10851,27 @@
         "power": 150,
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 130,
+      "attack": {
+        "melee": 150,
+        "ranged": 120
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 700,
+        "run": 525,
+        "walk": 175
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Umihebi",
+    "genus": "fish",
+    "rarity": 8,
+    "price": 9320,
+    "size": "xl"
   },
   {
     "id": 102,
@@ -8932,7 +10952,27 @@
         "power": 150,
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": {
+        "melee": 100,
+        "ranged": 105
+      },
+      "defense": 105,
+      "speed": {
+        "ride": 1100,
+        "run": 850,
+        "walk": 200
+      },
+      "stamina": 350,
+      "support": 100
+    },
+    "asset": "Suzaku",
+    "genus": "bird",
+    "rarity": 8,
+    "price": 9840,
+    "size": "xl"
   },
   {
     "id": 103,
@@ -9028,7 +11068,27 @@
         "power": 150,
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": {
+        "melee": 120,
+        "ranged": 100
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 550,
+        "run": 470,
+        "walk": 140
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "ElecPanda",
+    "genus": "humanoid",
+    "rarity": 8,
+    "price": 7720,
+    "size": "l"
   },
   {
     "id": 104,
@@ -9128,7 +11188,27 @@
         "power": 150,
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 100,
+        "ranged": 110
+      },
+      "defense": 105,
+      "speed": {
+        "ride": 550,
+        "run": 450,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "LilyQueen",
+    "genus": "humanoid",
+    "rarity": 9,
+    "price": 7160,
+    "size": "l"
   },
   {
     "id": 105,
@@ -9214,7 +11294,27 @@
         "power": 150,
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 105
+      },
+      "defense": 110,
+      "speed": {
+        "ride": 1400,
+        "run": 1000,
+        "walk": 200
+      },
+      "stamina": 230,
+      "support": 90
+    },
+    "asset": "Horus",
+    "genus": "bird",
+    "rarity": 9,
+    "price": 6720,
+    "size": "l"
   },
   {
     "id": 106,
@@ -9305,7 +11405,27 @@
         "power": 150,
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 130
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 1200,
+        "run": 900,
+        "walk": 185
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "ThunderDragonMan",
+    "genus": "humanoid",
+    "rarity": 9,
+    "price": 8320,
+    "size": "l"
   },
   {
     "id": 107,
@@ -9386,7 +11506,27 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": {
+        "melee": 130,
+        "ranged": 120
+      },
+      "defense": 140,
+      "speed": {
+        "ride": 1200,
+        "run": 850,
+        "walk": 80
+      },
+      "stamina": 250,
+      "support": 90
+    },
+    "asset": "BlackGriffon",
+    "genus": "fourlegged",
+    "rarity": 10,
+    "price": 9060,
+    "size": "l"
   },
   {
     "id": 108,
@@ -9472,7 +11612,27 @@
         "power": 150,
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 130,
+      "attack": {
+        "melee": 110,
+        "ranged": 120
+      },
+      "defense": 145,
+      "speed": {
+        "ride": 1400,
+        "run": 800,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "SaintCentaur",
+    "genus": "fourlegged",
+    "rarity": 20,
+    "price": 8810,
+    "size": "l"
   },
   {
     "id": 109,
@@ -9558,7 +11718,27 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 130,
+      "attack": {
+        "melee": 100,
+        "ranged": 145
+      },
+      "defense": 120,
+      "speed": {
+        "ride": 1600,
+        "run": 900,
+        "walk": 350
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "BlackCentaur",
+    "genus": "fourlegged",
+    "rarity": 20,
+    "price": 8930,
+    "size": "l"
   },
   {
     "id": 110,
@@ -9639,7 +11819,27 @@
         "power": 130,
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 140,
+      "attack": {
+        "melee": 100,
+        "ranged": 140
+      },
+      "defense": 120,
+      "speed": {
+        "ride": 1500,
+        "run": 1000,
+        "walk": 120
+      },
+      "stamina": 300,
+      "support": 70
+    },
+    "asset": "IceHorse",
+    "genus": "fourlegged",
+    "rarity": 20,
+    "price": 8440,
+    "size": "l"
   },
   {
     "id": 111,
@@ -9720,7 +11920,27 @@
         "power": 150,
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 100,
+        "ranged": 140
+      },
+      "defense": 110,
+      "speed": {
+        "ride": 3300,
+        "run": 1700,
+        "walk": 800
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "JetDragon",
+    "genus": "dragon",
+    "rarity": 20,
+    "price": 8680,
+    "size": "xl"
   },
   {
     "id": 112,
@@ -9801,7 +12021,27 @@
         "power": 130,
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 70,
+        "ranged": 75
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 60
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Hedgehog_Ice",
+    "genus": "fourlegged",
+    "rarity": 2,
+    "price": 1070,
+    "size": "xs"
   },
   {
     "id": 113,
@@ -9887,7 +12127,27 @@
         "power": 130,
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 70,
+        "ranged": 65
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 475,
+        "walk": 105
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Bastet_Ice",
+    "genus": "fourlegged",
+    "rarity": 2,
+    "price": 1010,
+    "size": "xs"
   },
   {
     "id": 114,
@@ -9978,7 +12238,27 @@
         "power": 120,
         "description": "Energizes the surrounding ground, causing it to explode after a set amount of time.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 90,
+        "ranged": 90
+      },
+      "defense": 75,
+      "speed": {
+        "ride": 500,
+        "run": 400,
+        "walk": 80
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "SharkKid_Fire",
+    "genus": "humanoid",
+    "rarity": 3,
+    "price": 1800,
+    "size": "s"
   },
   {
     "id": 115,
@@ -10074,7 +12354,27 @@
         "power": 130,
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 70,
+        "ranged": 80
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "WindChimes_Ice",
+    "genus": "other",
+    "rarity": 2,
+    "price": 1020,
+    "size": "xs"
   },
   {
     "id": 116,
@@ -10108,7 +12408,7 @@
     ],
     "drops": ["mushroom", "electric_organ", "leather"],
     "aura": {
-      "name": "grenadier_panda",
+      "name": "plane_partner",
       "description": "Can be ridden. Can rapidly fire a grenade launcher while mounted.",
       "tech": null
     },
@@ -10170,7 +12470,27 @@
         "power": 150,
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 100
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 700,
+        "run": 500,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "GrassPanda_Electric",
+    "genus": "humanoid",
+    "rarity": 7,
+    "price": 6610,
+    "size": "l"
   },
   {
     "id": 117,
@@ -10251,7 +12571,27 @@
         "power": 150,
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": {
+        "melee": 70,
+        "ranged": 80
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 900,
+        "run": 700,
+        "walk": 120
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Deer_Ground",
+    "genus": "fourlegged",
+    "rarity": 6,
+    "price": 2680,
+    "size": "l"
   },
   {
     "id": 118,
@@ -10342,7 +12682,27 @@
         "power": 120,
         "description": "Energizes the surrounding ground, causing it to explode after a set amount of time.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": {
+        "melee": 150,
+        "ranged": 105
+      },
+      "defense": 85,
+      "speed": {
+        "ride": 960,
+        "run": 700,
+        "walk": 160
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Baphomet_Dark",
+    "genus": "humanoid",
+    "rarity": 5,
+    "price": 4870,
+    "size": "m"
   },
   {
     "id": 119,
@@ -10438,7 +12798,27 @@
         "power": 150,
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 90,
+        "ranged": 80
+      },
+      "defense": 50,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 140
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "LizardMan_Fire",
+    "genus": "humanoid",
+    "rarity": 3,
+    "price": 1640,
+    "size": "s"
   },
   {
     "id": 120,
@@ -10539,7 +12919,27 @@
         "power": 150,
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 100,
+        "ranged": 105
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 750,
+        "run": 600,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "RobinHood_Ground",
+    "genus": "humanoid",
+    "rarity": 6,
+    "price": 2150,
+    "size": "m"
   },
   {
     "id": 121,
@@ -10625,7 +13025,27 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 110,
+        "ranged": 95
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 1300,
+        "run": 850,
+        "walk": 150
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "FireKirin_Dark",
+    "genus": "fourlegged",
+    "rarity": 7,
+    "price": 7270,
+    "size": "l"
   },
   {
     "id": 122,
@@ -10711,7 +13131,27 @@
         "power": 150,
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 90,
+        "ranged": 90
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 700,
+        "run": 550,
+        "walk": 120
+      },
+      "stamina": 100,
+      "support": 150
+    },
+    "asset": "FlowerDinosaur_Electric",
+    "genus": "humanoid",
+    "rarity": 7,
+    "price": 3380,
+    "size": "l"
   },
   {
     "id": 123,
@@ -10792,7 +13232,27 @@
         "power": 150,
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 70,
+        "ranged": 90
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 650,
+        "run": 500,
+        "walk": 200
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Serpent_Ground",
+    "genus": "fish",
+    "rarity": 5,
+    "price": 5140,
+    "size": "m"
   },
   {
     "id": 124,
@@ -10878,7 +13338,27 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 100,
+        "ranged": 120
+      },
+      "defense": 95,
+      "speed": {
+        "ride": 850,
+        "run": 700,
+        "walk": 350
+      },
+      "stamina": 150,
+      "support": 100
+    },
+    "asset": "BirdDragon_Ice",
+    "genus": "bird",
+    "rarity": 5,
+    "price": 4610,
+    "size": "l"
   },
   {
     "id": 125,
@@ -10964,7 +13444,27 @@
         "power": 150,
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 115,
+      "attack": {
+        "melee": 80,
+        "ranged": 80
+      },
+      "defense": 95,
+      "speed": {
+        "ride": 800,
+        "run": 630,
+        "walk": 83
+      },
+      "stamina": 130,
+      "support": 100
+    },
+    "asset": "FairyDragon_Water",
+    "genus": "humanoid",
+    "rarity": 8,
+    "price": 5320,
+    "size": "l"
   },
   {
     "id": 126,
@@ -11045,7 +13545,27 @@
         "power": 150,
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 100,
+        "ranged": 70
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 900,
+        "run": 700,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Kelpie_Fire",
+    "genus": "dragon",
+    "rarity": 2,
+    "price": 1240,
+    "size": "xs"
   },
   {
     "id": 127,
@@ -11131,7 +13651,27 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": {
+        "melee": 100,
+        "ranged": 115
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 900,
+        "run": 750,
+        "walk": 90
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Manticore_Dark",
+    "genus": "fourlegged",
+    "rarity": 8,
+    "price": 4360,
+    "size": "l"
   },
   {
     "id": 128,
@@ -11217,7 +13757,27 @@
         "power": 150,
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 110,
+        "ranged": 110
+      },
+      "defense": 75,
+      "speed": {
+        "ride": 800,
+        "run": 650,
+        "walk": 60
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "LazyDragon_Electric",
+    "genus": "monster",
+    "rarity": 9,
+    "price": 10380,
+    "size": "xl"
   },
   {
     "id": 129,
@@ -11298,7 +13858,27 @@
         "power": 150,
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": {
+        "melee": 80,
+        "ranged": 95
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 500,
+        "run": 350,
+        "walk": 75
+      },
+      "stamina": 100,
+      "support": 120
+    },
+    "asset": "SakuraSaurus_Water",
+    "genus": "fourlegged",
+    "rarity": 8,
+    "price": 3110,
+    "size": "xl"
   },
   {
     "id": 130,
@@ -11384,7 +13964,27 @@
         "power": 150,
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 100,
+        "ranged": 105
+      },
+      "defense": 130,
+      "speed": {
+        "ride": 550,
+        "run": 390,
+        "walk": 80
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "VolcanicMonster_Ice",
+    "genus": "fourlegged",
+    "rarity": 7,
+    "price": 7380,
+    "size": "l"
   },
   {
     "id": 131,
@@ -11470,7 +14070,27 @@
         "power": 130,
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": {
+        "melee": 100,
+        "ranged": 85
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 700,
+        "run": 500,
+        "walk": 80
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "KingAlpaca_Ice",
+    "genus": "fourlegged",
+    "rarity": 9,
+    "price": 6100,
+    "size": "xl"
   },
   {
     "id": 132,
@@ -11561,7 +14181,27 @@
         "power": 130,
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 150,
+      "attack": {
+        "melee": 100,
+        "ranged": 85
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 600,
+        "run": 430,
+        "walk": 135
+      },
+      "stamina": 100,
+      "support": 30
+    },
+    "asset": "GrassMammoth_Ice",
+    "genus": "fourlegged",
+    "rarity": 9,
+    "price": 9580,
+    "size": "xl"
   },
   {
     "id": 133,
@@ -11657,7 +14297,27 @@
         "power": 150,
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 140,
+      "attack": {
+        "melee": 100,
+        "ranged": 80
+      },
+      "defense": 110,
+      "speed": {
+        "ride": 550,
+        "run": 365,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Yeti_Grass",
+    "genus": "humanoid",
+    "rarity": 8,
+    "price": 5700,
+    "size": "l"
   },
   {
     "id": 134,
@@ -11738,7 +14398,27 @@
         "power": 150,
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 130,
+      "attack": {
+        "melee": 150,
+        "ranged": 130
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 700,
+        "run": 525,
+        "walk": 175
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "Umihebi_Fire",
+    "genus": "fish",
+    "rarity": 9,
+    "price": 9500,
+    "size": "xl"
   },
   {
     "id": 135,
@@ -11819,7 +14499,27 @@
         "power": 150,
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 125,
+      "attack": {
+        "melee": 100,
+        "ranged": 105
+      },
+      "defense": 105,
+      "speed": {
+        "ride": 1100,
+        "run": 850,
+        "walk": 200
+      },
+      "stamina": 350,
+      "support": 100
+    },
+    "asset": "Suzaku_Water",
+    "genus": "bird",
+    "rarity": 9,
+    "price": 10110,
+    "size": "xl"
   },
   {
     "id": 136,
@@ -11914,7 +14614,27 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 100,
+        "ranged": 110
+      },
+      "defense": 115,
+      "speed": {
+        "ride": 550,
+        "run": 450,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100
+    },
+    "asset": "LilyQueen_Dark",
+    "genus": "humanoid",
+    "rarity": 10,
+    "price": 7610,
+    "size": "l"
   },
   {
     "id": 137,
@@ -11995,6 +14715,26 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ]
+    ],
+    "stats": {
+      "hp": 140,
+      "attack": {
+        "melee": 100,
+        "ranged": 140
+      },
+      "defense": 135,
+      "speed": {
+        "ride": 1500,
+        "run": 1000,
+        "walk": 120
+      },
+      "stamina": 300,
+      "support": 70
+    },
+    "asset": "IceHorse_Dark",
+    "genus": "fourlegged",
+    "rarity": 20,
+    "price": 8560,
+    "size": "l"
   }
 ]
