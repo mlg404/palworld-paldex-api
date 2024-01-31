@@ -3,7 +3,7 @@ import { Elysia } from "elysia";
 import { queryIndexPals } from "./schemas";
 import { IndexPalsUseCase } from "./useCases";
 
-export const app = new Elysia()
+const app = new Elysia()
   .use(staticPlugin())
   .get(
     "/",
