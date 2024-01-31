@@ -47,7 +47,7 @@ This is the first Palworld API, it's a simple API to get all Palworld Paldex dat
     {
       "id": 85,
       "key": "085",
-      "image": "/public/images/085.png",
+      "image": "/public/images/paldeck/085.png",
       "name": "Relaxaurus",
       "wiki": "https://palworld.fandom.com/wiki/Relaxaurus",
       "types": ["dragon", "water"],
@@ -55,17 +55,20 @@ This is the first Palworld API, it's a simple API to get all Palworld Paldex dat
       "suitability": [
         {
           "type": "watering",
+          "image": "/public/images/works/watering.png",
           "level": 2
         },
         {
           "type": "transporting",
+          "image": "/public/images/works/transporting.png",
           "level": 1
         }
       ],
       "drops": ["high_quality_pal_oil", "ruby"],
       "aura": {
         "name": "hungry_missile",
-        "description": "Can be ridden. Can rapidly fire a missile launcher while mounted."
+        "description": "Can be ridden. Can rapidly fire a missile launcher while mounted.",
+        "tech": null
       },
       "description": "Contrary to its blasé appearance, it's quite ferocious.\nIt perceives everything in its sight as prey and will stop at nothing to devour it.",
       "skills": [
@@ -125,7 +128,27 @@ This is the first Palworld API, it's a simple API to get all Palworld Paldex dat
           "power": 150,
           "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
         }
-      ]
+      ],
+      "stats": {
+        "hp": 110,
+        "attack": {
+          "melee": 110,
+          "ranged": 100
+        },
+        "defense": 70,
+        "speed": {
+          "ride": 800,
+          "run": 650,
+          "walk": 60
+        },
+        "stamina": 100,
+        "support": 100
+      },
+      "asset": "LazyDragon",
+      "genus": "monster",
+      "rarity": 8,
+      "price": 10240,
+      "size": "xl"
     }
   ],
   "page": 1,
@@ -238,4 +261,4 @@ This project was created using `bun init` in bun v1.0.25. [Bun](https://bun.sh) 
 ## Contributions
 
 - [Discord Bot Using this API](https://github.com/nibalizer/palbot-rs/)
-- [Mobile APP 0 PalPad](https://github.com/Juanvic/PalPad)
+- [Mobile APP - PalPad](https://github.com/Juanvic/PalPad)
