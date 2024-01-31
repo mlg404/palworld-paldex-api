@@ -238,3 +238,4 @@ This project was created using `bun init` in bun v1.0.25. [Bun](https://bun.sh) 
 ## Contributions
 
 - [Discord Bot Using this API](https://github.com/nibalizer/palbot-rs/)
+- [Mobile APP 0 PalPad](https://github.com/Juanvic/PalPad)
