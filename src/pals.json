@@ -102,7 +102,8 @@
         "walk": 40
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 2
     },
     "asset": "SheepBall",
     "genus": "humanoid",
@@ -218,7 +219,8 @@
         "walk": 60
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 2
     },
     "asset": "PinkCat",
     "genus": "humanoid",
@@ -324,7 +326,8 @@
         "walk": 50
       },
       "stamina": 100,
-      "support": 70
+      "support": 70,
+      "food": 1
     },
     "asset": "ChickenPal",
     "genus": "bird",
@@ -445,7 +448,8 @@
         "walk": 40
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 1
     },
     "asset": "Carbunclo",
     "genus": "humanoid",
@@ -546,7 +550,8 @@
         "walk": 80
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 2
     },
     "asset": "Kitsunebi",
     "genus": "fourlegged",
@@ -657,7 +662,8 @@
         "walk": 105
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 2
     },
     "asset": "BluePlatypus",
     "genus": "humanoid",
@@ -768,7 +774,8 @@
         "walk": 80
       },
       "stamina": 100,
-      "support": 80
+      "support": 80,
+      "food": 2
     },
     "asset": "ElecCat",
     "genus": "humanoid",
@@ -889,7 +896,8 @@
         "walk": 48
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 2
     },
     "asset": "Monkey",
     "genus": "humanoid",
@@ -990,7 +998,8 @@
         "walk": 100
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 2
     },
     "asset": "FlameBambi",
     "genus": "fourlegged",
@@ -1106,7 +1115,8 @@
         "walk": 60
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 2
     },
     "asset": "Penguin",
     "genus": "humanoid",
@@ -1227,7 +1237,8 @@
         "walk": 110
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 8
     },
     "asset": "CaptainPenguin",
     "genus": "humanoid",
@@ -1328,7 +1339,8 @@
         "walk": 60
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 2
     },
     "asset": "Hedgehog",
     "genus": "fourlegged",
@@ -1429,7 +1441,8 @@
         "walk": 50
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 1
     },
     "asset": "PlantSlime",
     "genus": "other",
@@ -1535,7 +1548,8 @@
         "walk": 60
       },
       "stamina": 100,
-      "support": 140
+      "support": 140,
+      "food": 1
     },
     "asset": "CuteFox",
     "genus": "fourlegged",
@@ -1636,7 +1650,8 @@
         "walk": 70
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 3
     },
     "asset": "WizardOwl",
     "genus": "bird",
@@ -1737,7 +1752,8 @@
         "walk": 60
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 2
     },
     "asset": "Ganesha",
     "genus": "fourlegged",
@@ -1848,7 +1864,8 @@
         "walk": 10
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 2
     },
     "asset": "NegativeKoala",
     "genus": "humanoid",
@@ -1954,7 +1971,8 @@
         "walk": 40
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 2
     },
     "asset": "WoolFox",
     "genus": "fourlegged",
@@ -2065,7 +2083,8 @@
         "walk": 140
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 3
     },
     "asset": "DreamDemon",
     "genus": "humanoid",
@@ -2166,7 +2185,8 @@
         "walk": 150
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 3
     },
     "asset": "Boar",
     "genus": "fourlegged",
@@ -2267,7 +2287,8 @@
         "walk": 60
       },
       "stamina": 100,
-      "support": 140
+      "support": 140,
+      "food": 2
     },
     "asset": "NightFox",
     "genus": "fourlegged",
@@ -2378,7 +2399,8 @@
         "walk": 60
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 2
     },
     "asset": "CuteMole",
     "genus": "humanoid",
@@ -2484,7 +2506,8 @@
         "walk": 120
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 3
     },
     "asset": "NegativeOctopus",
     "genus": "other",
@@ -2585,7 +2608,8 @@
         "walk": 105
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 1
     },
     "asset": "Bastet",
     "genus": "fourlegged",
@@ -2691,7 +2715,8 @@
         "walk": 150
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 3
     },
     "asset": "FlyingManta",
     "genus": "other",
@@ -2792,7 +2817,8 @@
         "walk": 180
       },
       "stamina": 70,
-      "support": 100
+      "support": 100,
+      "food": 3
     },
     "asset": "Garm",
     "genus": "fourlegged",
@@ -2893,7 +2919,8 @@
         "walk": 60
       },
       "stamina": 100,
-      "support": 70
+      "support": 70,
+      "food": 2
     },
     "asset": "ColorfulBird",
     "genus": "bird",
@@ -3014,7 +3041,8 @@
         "walk": 100
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 3
     },
     "asset": "FlowerRabbit",
     "genus": "humanoid",
@@ -3115,7 +3143,8 @@
         "walk": 55
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 3
     },
     "asset": "CowPal",
     "genus": "fourlegged",
@@ -3236,7 +3265,8 @@
         "walk": 100
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 5
     },
     "asset": "LittleBriarRose",
     "genus": "humanoid",
@@ -3347,7 +3377,8 @@
         "walk": 80
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 3
     },
     "asset": "SharkKid",
     "genus": "humanoid",
@@ -3458,7 +3489,8 @@
         "walk": 100
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 2
     },
     "asset": "WindChimes",
     "genus": "other",
@@ -3574,7 +3606,8 @@
         "walk": 100
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 5
     },
     "asset": "GrassPanda",
     "genus": "humanoid",
@@ -3675,7 +3708,8 @@
         "walk": 100
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 2
     },
     "asset": "SweetsSheep",
     "genus": "fourlegged",
@@ -3781,7 +3815,8 @@
         "walk": 70
       },
       "stamina": 100,
-      "support": 120
+      "support": 120,
+      "food": 4
     },
     "asset": "BerryGoat",
     "genus": "fourlegged",
@@ -3882,7 +3917,8 @@
         "walk": 62
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 3
     },
     "asset": "Alpaca",
     "genus": "fourlegged",
@@ -3983,7 +4019,8 @@
         "walk": 120
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 5
     },
     "asset": "Deer",
     "genus": "fourlegged",
@@ -4084,7 +4121,8 @@
         "walk": 150
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 7
     },
     "asset": "HawkBird",
     "genus": "bird",
@@ -4195,7 +4233,8 @@
         "walk": 100
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 2
     },
     "asset": "PinkRabbit",
     "genus": "humanoid",
@@ -4311,7 +4350,8 @@
         "walk": 160
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 4
     },
     "asset": "Baphomet",
     "genus": "humanoid",
@@ -4417,7 +4457,8 @@
         "walk": 150
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 3
     },
     "asset": "CuteButterfly",
     "genus": "bird",
@@ -4523,7 +4564,8 @@
         "walk": 87
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 5
     },
     "asset": "FlameBuffalo",
     "genus": "fourlegged",
@@ -4577,7 +4619,8 @@
         "walk": 150
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 4
     },
     "asset": "LazyCatfish",
     "genus": "fish",
@@ -4678,7 +4721,8 @@
         "walk": 170
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 5
     },
     "asset": "DarkCrow",
     "genus": "bird",
@@ -4789,7 +4833,8 @@
         "walk": 140
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 3
     },
     "asset": "LizardMan",
     "genus": "humanoid",
@@ -4890,7 +4935,8 @@
         "walk": 150
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 5
     },
     "asset": "Werewolf",
     "genus": "humanoid",
@@ -4991,7 +5037,8 @@
         "walk": 200
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 4
     },
     "asset": "Eagle",
     "genus": "bird",
@@ -5117,7 +5164,8 @@
         "walk": 100
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 3
     },
     "asset": "RobinHood",
     "genus": "humanoid",
@@ -5228,7 +5276,8 @@
         "walk": 100
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 3
     },
     "asset": "Gorilla",
     "genus": "humanoid",
@@ -5359,7 +5408,8 @@
         "walk": 250
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 3
     },
     "asset": "SoldierBee",
     "genus": "humanoid",
@@ -5480,7 +5530,8 @@
         "walk": 250
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 7
     },
     "asset": "QueenBee",
     "genus": "humanoid",
@@ -5581,7 +5632,8 @@
         "walk": 64
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 4
     },
     "asset": "NaughtyCat",
     "genus": "fourlegged",
@@ -5687,7 +5739,8 @@
         "walk": 100
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 2
     },
     "asset": "MopBaby",
     "genus": "other",
@@ -5793,7 +5846,8 @@
         "walk": 120
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 3
     },
     "asset": "MopKing",
     "genus": "other",
@@ -5899,7 +5953,8 @@
         "walk": 180
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 3
     },
     "asset": "WeaselDragon",
     "genus": "fourlegged",
@@ -6005,7 +6060,8 @@
         "walk": 130
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 5
     },
     "asset": "Kirin",
     "genus": "fourlegged",
@@ -6106,7 +6162,8 @@
         "walk": 130
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 3
     },
     "asset": "IceFox",
     "genus": "fourlegged",
@@ -6212,7 +6269,8 @@
         "walk": 150
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 5
     },
     "asset": "FireKirin",
     "genus": "fourlegged",
@@ -6318,7 +6376,8 @@
         "walk": 70
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 7
     },
     "asset": "IceDeer",
     "genus": "fourlegged",
@@ -6419,7 +6478,8 @@
         "walk": 210
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 5
     },
     "asset": "ThunderDog",
     "genus": "fourlegged",
@@ -6520,7 +6580,8 @@
         "walk": 130
       },
       "stamina": 100,
-      "support": 110
+      "support": 110,
+      "food": 4
     },
     "asset": "AmaterasuWolf",
     "genus": "fourlegged",
@@ -6631,7 +6692,8 @@
         "walk": 200
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 2
     },
     "asset": "RaijinDaughter",
     "genus": "humanoid",
@@ -6742,7 +6804,8 @@
         "walk": 130
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 2
     },
     "asset": "Mutant",
     "genus": "humanoid",
@@ -6848,7 +6911,8 @@
         "walk": 120
       },
       "stamina": 100,
-      "support": 150
+      "support": 150,
+      "food": 6
     },
     "asset": "FlowerDinosaur",
     "genus": "humanoid",
@@ -6949,7 +7013,8 @@
         "walk": 200
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 5
     },
     "asset": "Serpent",
     "genus": "fish",
@@ -7055,7 +7120,8 @@
         "walk": 160
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 3
     },
     "asset": "GhostBeast",
     "genus": "fourlegged",
@@ -7156,7 +7222,8 @@
         "walk": 120
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 5
     },
     "asset": "DrillGame",
     "genus": "fourlegged",
@@ -7267,7 +7334,8 @@
         "walk": 140
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 5
     },
     "asset": "CatBat",
     "genus": "humanoid",
@@ -7383,7 +7451,8 @@
         "walk": 170
       },
       "stamina": 100,
-      "support": 140
+      "support": 140,
+      "food": 5
     },
     "asset": "PinkLizard",
     "genus": "humanoid",
@@ -7499,7 +7568,8 @@
         "walk": 98
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 2
     },
     "asset": "LavaGirl",
     "genus": "humanoid",
@@ -7605,7 +7675,8 @@
         "walk": 350
       },
       "stamina": 150,
-      "support": 100
+      "support": 100,
+      "food": 6
     },
     "asset": "BirdDragon",
     "genus": "bird",
@@ -7726,7 +7797,8 @@
         "walk": 160
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 4
     },
     "asset": "Ronin",
     "genus": "humanoid",
@@ -7837,7 +7909,8 @@
         "walk": 200
       },
       "stamina": 160,
-      "support": 100
+      "support": 100,
+      "food": 7
     },
     "asset": "ThunderBird",
     "genus": "bird",
@@ -7943,7 +8016,8 @@
         "walk": 200
       },
       "stamina": 150,
-      "support": 100
+      "support": 100,
+      "food": 7
     },
     "asset": "RedArmorBird",
     "genus": "bird",
@@ -8054,7 +8128,8 @@
         "walk": 145
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 5
     },
     "asset": "CatMage",
     "genus": "humanoid",
@@ -8165,7 +8240,8 @@
         "walk": 145
       },
       "stamina": 100,
-      "support": 120
+      "support": 120,
+      "food": 5
     },
     "asset": "FoxMage",
     "genus": "humanoid",
@@ -8286,7 +8362,8 @@
         "walk": 195
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 3
     },
     "asset": "GrassRabbitMan",
     "genus": "humanoid",
@@ -8407,7 +8484,8 @@
         "walk": 150
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 3
     },
     "asset": "VioletFairy",
     "genus": "humanoid",
@@ -8518,7 +8596,8 @@
         "walk": 100
       },
       "stamina": 100,
-      "support": 90
+      "support": 90,
+      "food": 5
     },
     "asset": "WhiteMoth",
     "genus": "humanoid",
@@ -8619,7 +8698,8 @@
         "walk": 83
       },
       "stamina": 130,
-      "support": 100
+      "support": 100,
+      "food": 6
     },
     "asset": "FairyDragon",
     "genus": "humanoid",
@@ -8720,7 +8800,8 @@
         "walk": 100
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 1
     },
     "asset": "Kelpie",
     "genus": "dragon",
@@ -8821,7 +8902,8 @@
         "walk": 150
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 6
     },
     "asset": "BlueDragon",
     "genus": "fish",
@@ -8932,7 +9014,8 @@
         "walk": 280
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 7
     },
     "asset": "WhiteTiger",
     "genus": "humanoid",
@@ -9038,7 +9121,8 @@
         "walk": 180
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 7
     },
     "asset": "Manticore",
     "genus": "fourlegged",
@@ -9144,7 +9228,8 @@
         "walk": 60
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 7
     },
     "asset": "LazyDragon",
     "genus": "monster",
@@ -9245,7 +9330,8 @@
         "walk": 75
       },
       "stamina": 100,
-      "support": 120
+      "support": 120,
+      "food": 7
     },
     "asset": "SakuraSaurus",
     "genus": "fourlegged",
@@ -9366,7 +9452,8 @@
         "walk": 150
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 3
     },
     "asset": "FlowerDoll",
     "genus": "humanoid",
@@ -9472,7 +9559,8 @@
         "walk": 80
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 5
     },
     "asset": "VolcanicMonster",
     "genus": "fourlegged",
@@ -9573,7 +9661,8 @@
         "walk": 80
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 7
     },
     "asset": "KingAlpaca",
     "genus": "fourlegged",
@@ -9684,7 +9773,8 @@
         "walk": 135
       },
       "stamina": 100,
-      "support": 30
+      "support": 30,
+      "food": 8
     },
     "asset": "GrassMammoth",
     "genus": "fourlegged",
@@ -9800,7 +9890,8 @@
         "walk": 100
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 8
     },
     "asset": "Yeti",
     "genus": "humanoid",
@@ -9916,7 +10007,8 @@
         "walk": 110
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 6
     },
     "asset": "HerculesBeetle",
     "genus": "humanoid",
@@ -10017,7 +10109,8 @@
         "walk": 100
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 6
     },
     "asset": "FengyunDeeper",
     "genus": "fourlegged",
@@ -10118,7 +10211,8 @@
         "walk": 100
       },
       "stamina": 100,
-      "support": 110
+      "support": 110,
+      "food": 5
     },
     "asset": "CatVampire",
     "genus": "humanoid",
@@ -10234,7 +10328,8 @@
         "walk": 240
       },
       "stamina": 220,
-      "support": 100
+      "support": 100,
+      "food": 4
     },
     "asset": "SkyDragon",
     "genus": "dragon",
@@ -10340,7 +10435,8 @@
         "walk": 400
       },
       "stamina": 100,
-      "support": 50
+      "support": 50,
+      "food": 8
     },
     "asset": "KingBahamut",
     "genus": "fourlegged",
@@ -10441,7 +10537,8 @@
         "walk": 100
       },
       "stamina": 170,
-      "support": 100
+      "support": 100,
+      "food": 8
     },
     "asset": "HadesBird",
     "genus": "bird",
@@ -10547,7 +10644,8 @@
         "walk": 150
       },
       "stamina": 300,
-      "support": 100
+      "support": 100,
+      "food": 9
     },
     "asset": "BlackMetalDragon",
     "genus": "monster",
@@ -10653,7 +10751,8 @@
         "walk": 200
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 7
     },
     "asset": "DarkScorpion",
     "genus": "other",
@@ -10764,7 +10863,8 @@
         "walk": 160
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 6
     },
     "asset": "Anubis",
     "genus": "humanoid",
@@ -10865,7 +10965,8 @@
         "walk": 175
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 7
     },
     "asset": "Umihebi",
     "genus": "fish",
@@ -10966,7 +11067,8 @@
         "walk": 200
       },
       "stamina": 350,
-      "support": 100
+      "support": 100,
+      "food": 8
     },
     "asset": "Suzaku",
     "genus": "bird",
@@ -11082,7 +11184,8 @@
         "walk": 140
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 7
     },
     "asset": "ElecPanda",
     "genus": "humanoid",
@@ -11202,7 +11305,8 @@
         "walk": 100
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 6
     },
     "asset": "LilyQueen",
     "genus": "humanoid",
@@ -11308,7 +11412,8 @@
         "walk": 200
       },
       "stamina": 230,
-      "support": 90
+      "support": 90,
+      "food": 8
     },
     "asset": "Horus",
     "genus": "bird",
@@ -11419,7 +11524,8 @@
         "walk": 185
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 7
     },
     "asset": "ThunderDragonMan",
     "genus": "humanoid",
@@ -11520,7 +11626,8 @@
         "walk": 80
       },
       "stamina": 250,
-      "support": 90
+      "support": 90,
+      "food": 8
     },
     "asset": "BlackGriffon",
     "genus": "fourlegged",
@@ -11626,7 +11733,8 @@
         "walk": 100
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 9
     },
     "asset": "SaintCentaur",
     "genus": "fourlegged",
@@ -11732,7 +11840,8 @@
         "walk": 350
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 9
     },
     "asset": "BlackCentaur",
     "genus": "fourlegged",
@@ -11833,7 +11942,8 @@
         "walk": 120
       },
       "stamina": 300,
-      "support": 70
+      "support": 70,
+      "food": 7
     },
     "asset": "IceHorse",
     "genus": "fourlegged",
@@ -11934,7 +12044,8 @@
         "walk": 800
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 9
     },
     "asset": "JetDragon",
     "genus": "dragon",
@@ -12035,7 +12146,8 @@
         "walk": 60
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 2
     },
     "asset": "Hedgehog_Ice",
     "genus": "fourlegged",
@@ -12141,7 +12253,8 @@
         "walk": 105
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 1
     },
     "asset": "Bastet_Ice",
     "genus": "fourlegged",
@@ -12252,7 +12365,8 @@
         "walk": 80
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 3
     },
     "asset": "SharkKid_Fire",
     "genus": "humanoid",
@@ -12368,7 +12482,8 @@
         "walk": 100
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 2
     },
     "asset": "WindChimes_Ice",
     "genus": "other",
@@ -12484,7 +12599,8 @@
         "walk": 100
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 5
     },
     "asset": "GrassPanda_Electric",
     "genus": "humanoid",
@@ -12585,7 +12701,8 @@
         "walk": 120
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 5
     },
     "asset": "Deer_Ground",
     "genus": "fourlegged",
@@ -12696,7 +12813,8 @@
         "walk": 160
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 4
     },
     "asset": "Baphomet_Dark",
     "genus": "humanoid",
@@ -12812,7 +12930,8 @@
         "walk": 140
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 3
     },
     "asset": "LizardMan_Fire",
     "genus": "humanoid",
@@ -12933,7 +13052,8 @@
         "walk": 100
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 3
     },
     "asset": "RobinHood_Ground",
     "genus": "humanoid",
@@ -13039,7 +13159,8 @@
         "walk": 150
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 5
     },
     "asset": "FireKirin_Dark",
     "genus": "fourlegged",
@@ -13145,7 +13266,8 @@
         "walk": 120
       },
       "stamina": 100,
-      "support": 150
+      "support": 150,
+      "food": 6
     },
     "asset": "FlowerDinosaur_Electric",
     "genus": "humanoid",
@@ -13246,7 +13368,8 @@
         "walk": 200
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 5
     },
     "asset": "Serpent_Ground",
     "genus": "fish",
@@ -13352,7 +13475,8 @@
         "walk": 350
       },
       "stamina": 150,
-      "support": 100
+      "support": 100,
+      "food": 6
     },
     "asset": "BirdDragon_Ice",
     "genus": "bird",
@@ -13458,7 +13582,8 @@
         "walk": 83
       },
       "stamina": 130,
-      "support": 100
+      "support": 100,
+      "food": 6
     },
     "asset": "FairyDragon_Water",
     "genus": "humanoid",
@@ -13559,7 +13684,8 @@
         "walk": 100
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 1
     },
     "asset": "Kelpie_Fire",
     "genus": "dragon",
@@ -13665,7 +13791,8 @@
         "walk": 90
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 7
     },
     "asset": "Manticore_Dark",
     "genus": "fourlegged",
@@ -13771,7 +13898,8 @@
         "walk": 60
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 7
     },
     "asset": "LazyDragon_Electric",
     "genus": "monster",
@@ -13872,7 +14000,8 @@
         "walk": 75
       },
       "stamina": 100,
-      "support": 120
+      "support": 120,
+      "food": 7
     },
     "asset": "SakuraSaurus_Water",
     "genus": "fourlegged",
@@ -13978,7 +14107,8 @@
         "walk": 80
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 5
     },
     "asset": "VolcanicMonster_Ice",
     "genus": "fourlegged",
@@ -14084,7 +14214,8 @@
         "walk": 80
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 7
     },
     "asset": "KingAlpaca_Ice",
     "genus": "fourlegged",
@@ -14195,7 +14326,8 @@
         "walk": 135
       },
       "stamina": 100,
-      "support": 30
+      "support": 30,
+      "food": 8
     },
     "asset": "GrassMammoth_Ice",
     "genus": "fourlegged",
@@ -14311,7 +14443,8 @@
         "walk": 100
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 8
     },
     "asset": "Yeti_Grass",
     "genus": "humanoid",
@@ -14412,7 +14545,8 @@
         "walk": 175
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 7
     },
     "asset": "Umihebi_Fire",
     "genus": "fish",
@@ -14513,7 +14647,8 @@
         "walk": 200
       },
       "stamina": 350,
-      "support": 100
+      "support": 100,
+      "food": 8
     },
     "asset": "Suzaku_Water",
     "genus": "bird",
@@ -14628,7 +14763,8 @@
         "walk": 100
       },
       "stamina": 100,
-      "support": 100
+      "support": 100,
+      "food": 6
     },
     "asset": "LilyQueen_Dark",
     "genus": "humanoid",
@@ -14729,7 +14865,8 @@
         "walk": 120
       },
       "stamina": 300,
-      "support": 70
+      "support": 70,
+      "food": 7
     },
     "asset": "IceHorse_Dark",
     "genus": "fourlegged",
