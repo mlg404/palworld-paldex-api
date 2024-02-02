@@ -14120,10 +14120,10 @@
     "id": 131,
     "key": "089B",
     "image": "/public/images/paldeck/089B.png",
-    "name": "Ice Kingpaca",
-    "wiki": "https://palworld.fandom.com/wiki/Ice_Kingpaca",
+    "name": "Kingpaca Cryst",
+    "wiki": "https://palworld.fandom.com/wiki/Kingpaca_Cryst",
     "types": ["ice"],
-    "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5a/Ice_Kingpaca_menu.png",
+    "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/49/Kingpaca_Cryst_menu.png",
     "suitability": [
       {
         "type": "gathering",
