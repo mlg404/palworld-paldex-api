@@ -109,7 +109,11 @@
     "genus": "humanoid",
     "rarity": 1,
     "price": 1000,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/001-day.png",
+      "night": "/public/images/maps/001-night.png"
+    }
   },
   {
     "id": 2,
@@ -226,7 +230,11 @@
     "genus": "humanoid",
     "rarity": 1,
     "price": 1000,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/002-day.png",
+      "night": "/public/images/maps/002-night.png"
+    }
   },
   {
     "id": 3,
@@ -333,7 +341,11 @@
     "genus": "bird",
     "rarity": 1,
     "price": 1000,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/003-day.png",
+      "night": "/public/images/maps/003-night.png"
+    }
   },
   {
     "id": 4,
@@ -455,7 +467,11 @@
     "genus": "humanoid",
     "rarity": 1,
     "price": 1010,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/004-day.png",
+      "night": "/public/images/maps/004-night.png"
+    }
   },
   {
     "id": 5,
@@ -557,7 +573,11 @@
     "genus": "fourlegged",
     "rarity": 1,
     "price": 1040,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/005-day.png",
+      "night": "/public/images/maps/005-night.png"
+    }
   },
   {
     "id": 6,
@@ -669,7 +689,11 @@
     "genus": "humanoid",
     "rarity": 1,
     "price": 1120,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/006-day.png",
+      "night": "/public/images/maps/006-night.png"
+    }
   },
   {
     "id": 7,
@@ -781,7 +805,11 @@
     "genus": "humanoid",
     "rarity": 1,
     "price": 1030,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/007-day.png",
+      "night": "/public/images/maps/007-night.png"
+    }
   },
   {
     "id": 8,
@@ -903,7 +931,11 @@
     "genus": "humanoid",
     "rarity": 1,
     "price": 1280,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/008-day.png",
+      "night": "/public/images/maps/008-night.png"
+    }
   },
   {
     "id": 9,
@@ -1005,7 +1037,11 @@
     "genus": "fourlegged",
     "rarity": 2,
     "price": 2950,
-    "size": "s"
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/009-day.png",
+      "night": "/public/images/maps/009-night.png"
+    }
   },
   {
     "id": 10,
@@ -1122,7 +1158,11 @@
     "genus": "humanoid",
     "rarity": 1,
     "price": 1080,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/010-day.png",
+      "night": "/public/images/maps/010-night.png"
+    }
   },
   {
     "id": 11,
@@ -1244,7 +1284,11 @@
     "genus": "humanoid",
     "rarity": 6,
     "price": 5410,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/011-day.png",
+      "night": "/public/images/maps/011-night.png"
+    }
   },
   {
     "id": 12,
@@ -1346,7 +1390,11 @@
     "genus": "fourlegged",
     "rarity": 1,
     "price": 1060,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/012-day.png",
+      "night": "/public/images/maps/012-night.png"
+    }
   },
   {
     "id": 13,
@@ -1448,7 +1496,11 @@
     "genus": "other",
     "rarity": 1,
     "price": 1310,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/013-day.png",
+      "night": "/public/images/maps/013-night.png"
+    }
   },
   {
     "id": 14,
@@ -1555,7 +1607,11 @@
     "genus": "fourlegged",
     "rarity": 2,
     "price": 1000,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/014-day.png",
+      "night": "/public/images/maps/014-night.png"
+    }
   },
   {
     "id": 15,
@@ -1657,7 +1713,10 @@
     "genus": "bird",
     "rarity": 1,
     "price": 1050,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "night": "/public/images/maps/015-night.png"
+    }
   },
   {
     "id": 16,
@@ -1759,7 +1818,11 @@
     "genus": "fourlegged",
     "rarity": 1,
     "price": 1000,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/016-day.png",
+      "night": "/public/images/maps/016-night.png"
+    }
   },
   {
     "id": 17,
@@ -1871,7 +1934,10 @@
     "genus": "humanoid",
     "rarity": 1,
     "price": 1050,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "night": "/public/images/maps/017-night.png"
+    }
   },
   {
     "id": 18,
@@ -1978,7 +2044,10 @@
     "genus": "fourlegged",
     "rarity": 1,
     "price": 1420,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/018-day.png"
+    }
   },
   {
     "id": 19,
@@ -2090,7 +2159,10 @@
     "genus": "humanoid",
     "rarity": 1,
     "price": 1330,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "night": "/public/images/maps/019-night.png"
+    }
   },
   {
     "id": 20,
@@ -2192,7 +2264,11 @@
     "genus": "fourlegged",
     "rarity": 1,
     "price": 1680,
-    "size": "s"
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/020-day.png",
+      "night": "/public/images/maps/020-night.png"
+    }
   },
   {
     "id": 21,
@@ -2294,7 +2370,10 @@
     "genus": "fourlegged",
     "rarity": 6,
     "price": 1480,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "night": "/public/images/maps/021-night.png"
+    }
   },
   {
     "id": 22,
@@ -2406,7 +2485,11 @@
     "genus": "humanoid",
     "rarity": 1,
     "price": 1360,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/022-day.png",
+      "night": "/public/images/maps/022-night.png"
+    }
   },
   {
     "id": 23,
@@ -2513,7 +2596,8 @@
     "genus": "other",
     "rarity": 1,
     "price": 1200,
-    "size": "xs"
+    "size": "xs",
+    "maps": {}
   },
   {
     "id": 24,
@@ -2615,7 +2699,8 @@
     "genus": "fourlegged",
     "rarity": 1,
     "price": 1000,
-    "size": "xs"
+    "size": "xs",
+    "maps": {}
   },
   {
     "id": 25,
@@ -2722,7 +2807,11 @@
     "genus": "other",
     "rarity": 3,
     "price": 2860,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/025-day.png",
+      "night": "/public/images/maps/025-night.png"
+    }
   },
   {
     "id": 26,
@@ -2824,7 +2913,11 @@
     "genus": "fourlegged",
     "rarity": 2,
     "price": 1920,
-    "size": "s"
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/026-day.png",
+      "night": "/public/images/maps/026-night.png"
+    }
   },
   {
     "id": 27,
@@ -2926,7 +3019,11 @@
     "genus": "bird",
     "rarity": 1,
     "price": 1090,
-    "size": "s"
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/027-day.png",
+      "night": "/public/images/maps/027-night.png"
+    }
   },
   {
     "id": 28,
@@ -3048,7 +3145,11 @@
     "genus": "humanoid",
     "rarity": 1,
     "price": 1220,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/028-day.png",
+      "night": "/public/images/maps/028-night.png"
+    }
   },
   {
     "id": 29,
@@ -3150,7 +3251,11 @@
     "genus": "fourlegged",
     "rarity": 2,
     "price": 2620,
-    "size": "s"
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/029-day.png",
+      "night": "/public/images/maps/029-night.png"
+    }
   },
   {
     "id": 30,
@@ -3272,7 +3377,11 @@
     "genus": "humanoid",
     "rarity": 1,
     "price": 1140,
-    "size": "s"
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/030-day.png",
+      "night": "/public/images/maps/030-night.png"
+    }
   },
   {
     "id": 31,
@@ -3384,7 +3493,11 @@
     "genus": "humanoid",
     "rarity": 2,
     "price": 1840,
-    "size": "s"
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/031-day.png",
+      "night": "/public/images/maps/031-night.png"
+    }
   },
   {
     "id": 32,
@@ -3496,7 +3609,11 @@
     "genus": "other",
     "rarity": 1,
     "price": 1020,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/032-day.png",
+      "night": "/public/images/maps/032-night.png"
+    }
   },
   {
     "id": 33,
@@ -3613,7 +3730,11 @@
     "genus": "humanoid",
     "rarity": 6,
     "price": 6200,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/033-day.png",
+      "night": "/public/images/maps/033-night.png"
+    }
   },
   {
     "id": 34,
@@ -3715,7 +3836,11 @@
     "genus": "fourlegged",
     "rarity": 3,
     "price": 1450,
-    "size": "s"
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/034-day.png",
+      "night": "/public/images/maps/034-night.png"
+    }
   },
   {
     "id": 35,
@@ -3822,7 +3947,11 @@
     "genus": "fourlegged",
     "rarity": 3,
     "price": 2510,
-    "size": "s"
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/035-day.png",
+      "night": "/public/images/maps/035-night.png"
+    }
   },
   {
     "id": 36,
@@ -3924,7 +4053,11 @@
     "genus": "fourlegged",
     "rarity": 3,
     "price": 2740,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/036-day.png",
+      "night": "/public/images/maps/036-night.png"
+    }
   },
   {
     "id": 37,
@@ -4026,7 +4159,11 @@
     "genus": "fourlegged",
     "rarity": 4,
     "price": 2620,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/037-day.png",
+      "night": "/public/images/maps/037-night.png"
+    }
   },
   {
     "id": 38,
@@ -4128,7 +4265,11 @@
     "genus": "bird",
     "rarity": 3,
     "price": 6300,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/038-day.png",
+      "night": "/public/images/maps/038-night.png"
+    }
   },
   {
     "id": 39,
@@ -4240,7 +4381,11 @@
     "genus": "humanoid",
     "rarity": 1,
     "price": 1160,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/039-day.png",
+      "night": "/public/images/maps/039-night.png"
+    }
   },
   {
     "id": 40,
@@ -4357,7 +4502,11 @@
     "genus": "humanoid",
     "rarity": 4,
     "price": 4780,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/040-day.png",
+      "night": "/public/images/maps/040-night.png"
+    }
   },
   {
     "id": 41,
@@ -4464,7 +4613,11 @@
     "genus": "bird",
     "rarity": 4,
     "price": 5700,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/041-day.png",
+      "night": "/public/images/maps/041-night.png"
+    }
   },
   {
     "id": 42,
@@ -4571,7 +4724,11 @@
     "genus": "fourlegged",
     "rarity": 4,
     "price": 3520,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/042-day.png",
+      "night": "/public/images/maps/042-night.png"
+    }
   },
   {
     "id": 43,
@@ -4626,7 +4783,11 @@
     "genus": "fish",
     "rarity": 4,
     "price": 4690,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/043-day.png",
+      "night": "/public/images/maps/043-night.png"
+    }
   },
   {
     "id": 44,
@@ -4728,7 +4889,10 @@
     "genus": "bird",
     "rarity": 3,
     "price": 1840,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "night": "/public/images/maps/044-night.png"
+    }
   },
   {
     "id": 45,
@@ -4840,7 +5004,11 @@
     "genus": "humanoid",
     "rarity": 2,
     "price": 1720,
-    "size": "s"
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/045-day.png",
+      "night": "/public/images/maps/045-night.png"
+    }
   },
   {
     "id": 46,
@@ -4942,7 +5110,10 @@
     "genus": "humanoid",
     "rarity": 3,
     "price": 2400,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "night": "/public/images/maps/046-night.png"
+    }
   },
   {
     "id": 47,
@@ -5044,7 +5215,11 @@
     "genus": "bird",
     "rarity": 2,
     "price": 2010,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/047-day.png",
+      "night": "/public/images/maps/047-night.png"
+    }
   },
   {
     "id": 48,
@@ -5171,7 +5346,11 @@
     "genus": "humanoid",
     "rarity": 5,
     "price": 2050,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/048-day.png",
+      "night": "/public/images/maps/048-night.png"
+    }
   },
   {
     "id": 49,
@@ -5283,7 +5462,11 @@
     "genus": "humanoid",
     "rarity": 5,
     "price": 2010,
-    "size": "s"
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/049-day.png",
+      "night": "/public/images/maps/049-night.png"
+    }
   },
   {
     "id": 50,
@@ -5415,7 +5598,11 @@
     "genus": "humanoid",
     "rarity": 4,
     "price": 1880,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/050-day.png",
+      "night": "/public/images/maps/050-night.png"
+    }
   },
   {
     "id": 51,
@@ -5537,7 +5724,11 @@
     "genus": "humanoid",
     "rarity": 8,
     "price": 6830,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/051-day.png",
+      "night": "/public/images/maps/051-night.png"
+    }
   },
   {
     "id": 52,
@@ -5639,7 +5830,11 @@
     "genus": "fourlegged",
     "rarity": 6,
     "price": 5510,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/052-day.png",
+      "night": "/public/images/maps/052-night.png"
+    }
   },
   {
     "id": 53,
@@ -5746,7 +5941,11 @@
     "genus": "other",
     "rarity": 1,
     "price": 1180,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/053-day.png",
+      "night": "/public/images/maps/053-night.png"
+    }
   },
   {
     "id": 54,
@@ -5853,7 +6052,11 @@
     "genus": "other",
     "rarity": 6,
     "price": 6400,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/054-day.png",
+      "night": "/public/images/maps/054-night.png"
+    }
   },
   {
     "id": 55,
@@ -5960,7 +6163,11 @@
     "genus": "fourlegged",
     "rarity": 4,
     "price": 3450,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/055-day.png",
+      "night": "/public/images/maps/055-night.png"
+    }
   },
   {
     "id": 56,
@@ -6067,7 +6274,11 @@
     "genus": "fourlegged",
     "rarity": 5,
     "price": 4280,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/056-day.png",
+      "night": "/public/images/maps/056-night.png"
+    }
   },
   {
     "id": 57,
@@ -6169,7 +6380,11 @@
     "genus": "fourlegged",
     "rarity": 5,
     "price": 3730,
-    "size": "s"
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/057-day.png",
+      "night": "/public/images/maps/057-night.png"
+    }
   },
   {
     "id": 58,
@@ -6276,7 +6491,11 @@
     "genus": "fourlegged",
     "rarity": 6,
     "price": 6720,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/058-day.png",
+      "night": "/public/images/maps/058-night.png"
+    }
   },
   {
     "id": 59,
@@ -6383,7 +6602,11 @@
     "genus": "fourlegged",
     "rarity": 4,
     "price": 2800,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/059-day.png",
+      "night": "/public/images/maps/059-night.png"
+    }
   },
   {
     "id": 60,
@@ -6485,7 +6708,11 @@
     "genus": "fourlegged",
     "rarity": 5,
     "price": 3880,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/060-day.png",
+      "night": "/public/images/maps/060-night.png"
+    }
   },
   {
     "id": 61,
@@ -6587,7 +6814,10 @@
     "genus": "fourlegged",
     "rarity": 6,
     "price": 3170,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "night": "/public/images/maps/061-night.png"
+    }
   },
   {
     "id": 62,
@@ -6699,7 +6929,11 @@
     "genus": "humanoid",
     "rarity": 2,
     "price": 1390,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/062-day.png",
+      "night": "/public/images/maps/062-night.png"
+    }
   },
   {
     "id": 63,
@@ -6811,7 +7045,8 @@
     "genus": "humanoid",
     "rarity": 6,
     "price": 1760,
-    "size": "m"
+    "size": "m",
+    "maps": {}
   },
   {
     "id": 64,
@@ -6918,7 +7153,11 @@
     "genus": "humanoid",
     "rarity": 6,
     "price": 3240,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/064-day.png",
+      "night": "/public/images/maps/064-night.png"
+    }
   },
   {
     "id": 65,
@@ -7020,7 +7259,11 @@
     "genus": "fish",
     "rarity": 4,
     "price": 5050,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/065-day.png",
+      "night": "/public/images/maps/065-night.png"
+    }
   },
   {
     "id": 66,
@@ -7127,7 +7370,10 @@
     "genus": "fourlegged",
     "rarity": 6,
     "price": 1570,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "night": "/public/images/maps/066-night.png"
+    }
   },
   {
     "id": 67,
@@ -7229,7 +7475,11 @@
     "genus": "fourlegged",
     "rarity": 5,
     "price": 2980,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/067-day.png",
+      "night": "/public/images/maps/067-night.png"
+    }
   },
   {
     "id": 68,
@@ -7341,7 +7591,10 @@
     "genus": "humanoid",
     "rarity": 5,
     "price": 3810,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "night": "/public/images/maps/068-night.png"
+    }
   },
   {
     "id": 69,
@@ -7458,7 +7711,10 @@
     "genus": "humanoid",
     "rarity": 5,
     "price": 2450,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "night": "/public/images/maps/069-night.png"
+    }
   },
   {
     "id": 70,
@@ -7575,7 +7831,11 @@
     "genus": "humanoid",
     "rarity": 1,
     "price": 2500,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/070-day.png",
+      "night": "/public/images/maps/070-night.png"
+    }
   },
   {
     "id": 71,
@@ -7682,7 +7942,11 @@
     "genus": "bird",
     "rarity": 4,
     "price": 4360,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/071-day.png",
+      "night": "/public/images/maps/071-night.png"
+    }
   },
   {
     "id": 72,
@@ -7804,7 +8068,11 @@
     "genus": "humanoid",
     "rarity": 7,
     "price": 4520,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/072-day.png",
+      "night": "/public/images/maps/072-night.png"
+    }
   },
   {
     "id": 73,
@@ -7916,7 +8184,11 @@
     "genus": "bird",
     "rarity": 6,
     "price": 7490,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/073-day.png",
+      "night": "/public/images/maps/073-night.png"
+    }
   },
   {
     "id": 74,
@@ -8023,7 +8295,11 @@
     "genus": "bird",
     "rarity": 7,
     "price": 6720,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/074-day.png",
+      "night": "/public/images/maps/074-night.png"
+    }
   },
   {
     "id": 75,
@@ -8135,7 +8411,10 @@
     "genus": "humanoid",
     "rarity": 6,
     "price": 4120,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "night": "/public/images/maps/075-night.png"
+    }
   },
   {
     "id": 76,
@@ -8247,7 +8526,11 @@
     "genus": "humanoid",
     "rarity": 6,
     "price": 1540,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/076-day.png",
+      "night": "/public/images/maps/076-night.png"
+    }
   },
   {
     "id": 77,
@@ -8369,7 +8652,11 @@
     "genus": "humanoid",
     "rarity": 8,
     "price": 2200,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/077-day.png",
+      "night": "/public/images/maps/077-night.png"
+    }
   },
   {
     "id": 78,
@@ -8491,7 +8778,11 @@
     "genus": "humanoid",
     "rarity": 8,
     "price": 1960,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/078-day.png",
+      "night": "/public/images/maps/078-night.png"
+    }
   },
   {
     "id": 79,
@@ -8603,7 +8894,11 @@
     "genus": "humanoid",
     "rarity": 7,
     "price": 5900,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/079-day.png",
+      "night": "/public/images/maps/079-night.png"
+    }
   },
   {
     "id": 80,
@@ -8705,7 +9000,11 @@
     "genus": "humanoid",
     "rarity": 7,
     "price": 5230,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/080-day.png",
+      "night": "/public/images/maps/080-night.png"
+    }
   },
   {
     "id": 81,
@@ -8807,7 +9106,11 @@
     "genus": "dragon",
     "rarity": 1,
     "price": 1260,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/081-day.png",
+      "night": "/public/images/maps/081-night.png"
+    }
   },
   {
     "id": 82,
@@ -8909,7 +9212,11 @@
     "genus": "fish",
     "rarity": 7,
     "price": 5600,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/082-day.png",
+      "night": "/public/images/maps/082-night.png"
+    }
   },
   {
     "id": 83,
@@ -9021,7 +9328,11 @@
     "genus": "humanoid",
     "rarity": 7,
     "price": 8440,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/083-day.png",
+      "night": "/public/images/maps/083-night.png"
+    }
   },
   {
     "id": 84,
@@ -9128,7 +9439,11 @@
     "genus": "fourlegged",
     "rarity": 7,
     "price": 4040,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/084-day.png",
+      "night": "/public/images/maps/084-night.png"
+    }
   },
   {
     "id": 85,
@@ -9235,7 +9550,11 @@
     "genus": "monster",
     "rarity": 8,
     "price": 10240,
-    "size": "xl"
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/085-day.png",
+      "night": "/public/images/maps/085-night.png"
+    }
   },
   {
     "id": 86,
@@ -9337,7 +9656,11 @@
     "genus": "fourlegged",
     "rarity": 7,
     "price": 2920,
-    "size": "xl"
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/086-day.png",
+      "night": "/public/images/maps/086-night.png"
+    }
   },
   {
     "id": 87,
@@ -9459,7 +9782,11 @@
     "genus": "humanoid",
     "rarity": 8,
     "price": 3590,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/087-day.png",
+      "night": "/public/images/maps/087-night.png"
+    }
   },
   {
     "id": 88,
@@ -9566,7 +9893,11 @@
     "genus": "fourlegged",
     "rarity": 6,
     "price": 6940,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/088-day.png",
+      "night": "/public/images/maps/088-night.png"
+    }
   },
   {
     "id": 89,
@@ -9668,7 +9999,11 @@
     "genus": "fourlegged",
     "rarity": 8,
     "price": 5800,
-    "size": "xl"
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/089-day.png",
+      "night": "/public/images/maps/089-night.png"
+    }
   },
   {
     "id": 90,
@@ -9780,7 +10115,11 @@
     "genus": "fourlegged",
     "rarity": 8,
     "price": 9450,
-    "size": "xl"
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/090-day.png",
+      "night": "/public/images/maps/090-night.png"
+    }
   },
   {
     "id": 91,
@@ -9897,7 +10236,11 @@
     "genus": "humanoid",
     "rarity": 7,
     "price": 5900,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/091-day.png",
+      "night": "/public/images/maps/091-night.png"
+    }
   },
   {
     "id": 92,
@@ -10014,7 +10357,11 @@
     "genus": "humanoid",
     "rarity": 8,
     "price": 6830,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/092-day.png",
+      "night": "/public/images/maps/092-night.png"
+    }
   },
   {
     "id": 93,
@@ -10037,7 +10384,7 @@
       "description": "Can be ridden. Can double jump while mounted.",
       "tech": null
     },
-    "description": "In ancient times, it was a familiar subject for painting because of its beautiful and majestic appearance. Fenglope is an endangered species, the \"Fenglope\" whose beautiful fur and horns are much sought after by poachers!",
+    "description": "In ancient times, it was a familiar subject for painting because of its beautiful and majestic appearance. Fenglope is an endangered species, the Fenglope whose beautiful fur and horns are much sought after by poachers!",
     "skills": [
       {
         "level": 1,
@@ -10116,7 +10463,11 @@
     "genus": "fourlegged",
     "rarity": 3,
     "price": 2250,
-    "size": "s"
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/093-day.png",
+      "night": "/public/images/maps/093-night.png"
+    }
   },
   {
     "id": 94,
@@ -10218,7 +10569,8 @@
     "genus": "humanoid",
     "rarity": 6,
     "price": 2100,
-    "size": "m"
+    "size": "m",
+    "maps": {}
   },
   {
     "id": 95,
@@ -10335,7 +10687,11 @@
     "genus": "dragon",
     "rarity": 7,
     "price": 6830,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/095-day.png",
+      "night": "/public/images/maps/095-night.png"
+    }
   },
   {
     "id": 96,
@@ -10442,7 +10798,11 @@
     "genus": "fourlegged",
     "rarity": 9,
     "price": 10520,
-    "size": "xl"
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/096-day.png",
+      "night": "/public/images/maps/096-night.png"
+    }
   },
   {
     "id": 97,
@@ -10544,7 +10904,10 @@
     "genus": "bird",
     "rarity": 7,
     "price": 7840,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "night": "/public/images/maps/097-night.png"
+    }
   },
   {
     "id": 98,
@@ -10651,7 +11014,11 @@
     "genus": "monster",
     "rarity": 9,
     "price": 8200,
-    "size": "xl"
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/098-day.png",
+      "night": "/public/images/maps/098-night.png"
+    }
   },
   {
     "id": 99,
@@ -10758,7 +11125,11 @@
     "genus": "other",
     "rarity": 9,
     "price": 7050,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/099-day.png",
+      "night": "/public/images/maps/099-night.png"
+    }
   },
   {
     "id": 100,
@@ -10870,7 +11241,8 @@
     "genus": "humanoid",
     "rarity": 10,
     "price": 4960,
-    "size": "m"
+    "size": "m",
+    "maps": {}
   },
   {
     "id": 101,
@@ -10972,7 +11344,11 @@
     "genus": "fish",
     "rarity": 8,
     "price": 9320,
-    "size": "xl"
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/101-day.png",
+      "night": "/public/images/maps/101-night.png"
+    }
   },
   {
     "id": 102,
@@ -11074,7 +11450,11 @@
     "genus": "bird",
     "rarity": 8,
     "price": 9840,
-    "size": "xl"
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/102-day.png",
+      "night": "/public/images/maps/102-night.png"
+    }
   },
   {
     "id": 103,
@@ -11191,7 +11571,11 @@
     "genus": "humanoid",
     "rarity": 8,
     "price": 7720,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/103-day.png",
+      "night": "/public/images/maps/103-night.png"
+    }
   },
   {
     "id": 104,
@@ -11312,7 +11696,11 @@
     "genus": "humanoid",
     "rarity": 9,
     "price": 7160,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/104-day.png",
+      "night": "/public/images/maps/104-night.png"
+    }
   },
   {
     "id": 105,
@@ -11419,7 +11807,11 @@
     "genus": "bird",
     "rarity": 9,
     "price": 6720,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/105-day.png",
+      "night": "/public/images/maps/105-night.png"
+    }
   },
   {
     "id": 106,
@@ -11531,7 +11923,11 @@
     "genus": "humanoid",
     "rarity": 9,
     "price": 8320,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/106-day.png",
+      "night": "/public/images/maps/106-night.png"
+    }
   },
   {
     "id": 107,
@@ -11633,7 +12029,11 @@
     "genus": "fourlegged",
     "rarity": 10,
     "price": 9060,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/107-day.png",
+      "night": "/public/images/maps/107-night.png"
+    }
   },
   {
     "id": 108,
@@ -11740,7 +12140,11 @@
     "genus": "fourlegged",
     "rarity": 20,
     "price": 8810,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/108-day.png",
+      "night": "/public/images/maps/108-night.png"
+    }
   },
   {
     "id": 109,
@@ -11847,7 +12251,11 @@
     "genus": "fourlegged",
     "rarity": 20,
     "price": 8930,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/109-day.png",
+      "night": "/public/images/maps/109-night.png"
+    }
   },
   {
     "id": 110,
@@ -11949,7 +12357,11 @@
     "genus": "fourlegged",
     "rarity": 20,
     "price": 8440,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/110-day.png",
+      "night": "/public/images/maps/110-night.png"
+    }
   },
   {
     "id": 111,
@@ -12051,7 +12463,11 @@
     "genus": "dragon",
     "rarity": 20,
     "price": 8680,
-    "size": "xl"
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/111-day.png",
+      "night": "/public/images/maps/111-night.png"
+    }
   },
   {
     "id": 112,
@@ -12153,7 +12569,8 @@
     "genus": "fourlegged",
     "rarity": 2,
     "price": 1070,
-    "size": "xs"
+    "size": "xs",
+    "maps": {}
   },
   {
     "id": 113,
@@ -12260,7 +12677,11 @@
     "genus": "fourlegged",
     "rarity": 2,
     "price": 1010,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/024B-day.png",
+      "night": "/public/images/maps/024B-night.png"
+    }
   },
   {
     "id": 114,
@@ -12372,7 +12793,10 @@
     "genus": "humanoid",
     "rarity": 3,
     "price": 1800,
-    "size": "s"
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/031B-day.png"
+    }
   },
   {
     "id": 115,
@@ -12489,7 +12913,10 @@
     "genus": "other",
     "rarity": 2,
     "price": 1020,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "night": "/public/images/maps/032B-night.png"
+    }
   },
   {
     "id": 116,
@@ -12606,7 +13033,11 @@
     "genus": "humanoid",
     "rarity": 7,
     "price": 6610,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/033B-day.png",
+      "night": "/public/images/maps/033B-night.png"
+    }
   },
   {
     "id": 117,
@@ -12708,7 +13139,11 @@
     "genus": "fourlegged",
     "rarity": 6,
     "price": 2680,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/037B-day.png",
+      "night": "/public/images/maps/037B-night.png"
+    }
   },
   {
     "id": 118,
@@ -12820,7 +13255,11 @@
     "genus": "humanoid",
     "rarity": 5,
     "price": 4870,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/040B-day.png",
+      "night": "/public/images/maps/040B-night.png"
+    }
   },
   {
     "id": 119,
@@ -12937,7 +13376,11 @@
     "genus": "humanoid",
     "rarity": 3,
     "price": 1640,
-    "size": "s"
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/045B-day.png",
+      "night": "/public/images/maps/045B-night.png"
+    }
   },
   {
     "id": 120,
@@ -13059,7 +13502,11 @@
     "genus": "humanoid",
     "rarity": 6,
     "price": 2150,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/048B-day.png",
+      "night": "/public/images/maps/048B-night.png"
+    }
   },
   {
     "id": 121,
@@ -13166,7 +13613,10 @@
     "genus": "fourlegged",
     "rarity": 7,
     "price": 7270,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "night": "/public/images/maps/058B-night.png"
+    }
   },
   {
     "id": 122,
@@ -13273,7 +13723,11 @@
     "genus": "humanoid",
     "rarity": 7,
     "price": 3380,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/064B-day.png",
+      "night": "/public/images/maps/064B-night.png"
+    }
   },
   {
     "id": 123,
@@ -13375,7 +13829,11 @@
     "genus": "fish",
     "rarity": 5,
     "price": 5140,
-    "size": "m"
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/065B-day.png",
+      "night": "/public/images/maps/065B-night.png"
+    }
   },
   {
     "id": 124,
@@ -13482,7 +13940,10 @@
     "genus": "bird",
     "rarity": 5,
     "price": 4610,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "night": "/public/images/maps/071B-night.png"
+    }
   },
   {
     "id": 125,
@@ -13589,7 +14050,8 @@
     "genus": "humanoid",
     "rarity": 8,
     "price": 5320,
-    "size": "l"
+    "size": "l",
+    "maps": {}
   },
   {
     "id": 126,
@@ -13691,7 +14153,11 @@
     "genus": "dragon",
     "rarity": 2,
     "price": 1240,
-    "size": "xs"
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/081B-day.png",
+      "night": "/public/images/maps/081B-night.png"
+    }
   },
   {
     "id": 127,
@@ -13798,7 +14264,10 @@
     "genus": "fourlegged",
     "rarity": 8,
     "price": 4360,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "night": "/public/images/maps/084B-night.png"
+    }
   },
   {
     "id": 128,
@@ -13905,7 +14374,8 @@
     "genus": "monster",
     "rarity": 9,
     "price": 10380,
-    "size": "xl"
+    "size": "xl",
+    "maps": {}
   },
   {
     "id": 129,
@@ -14007,7 +14477,11 @@
     "genus": "fourlegged",
     "rarity": 8,
     "price": 3110,
-    "size": "xl"
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/086B-day.png",
+      "night": "/public/images/maps/086B-night.png"
+    }
   },
   {
     "id": 130,
@@ -14114,7 +14588,8 @@
     "genus": "fourlegged",
     "rarity": 7,
     "price": 7380,
-    "size": "l"
+    "size": "l",
+    "maps": {}
   },
   {
     "id": 131,
@@ -14221,7 +14696,11 @@
     "genus": "fourlegged",
     "rarity": 9,
     "price": 6100,
-    "size": "xl"
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/089B-day.png",
+      "night": "/public/images/maps/089B-night.png"
+    }
   },
   {
     "id": 132,
@@ -14333,7 +14812,11 @@
     "genus": "fourlegged",
     "rarity": 9,
     "price": 9580,
-    "size": "xl"
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/090B-day.png",
+      "night": "/public/images/maps/090B-night.png"
+    }
   },
   {
     "id": 133,
@@ -14450,7 +14933,11 @@
     "genus": "humanoid",
     "rarity": 8,
     "price": 5700,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/091B-day.png",
+      "night": "/public/images/maps/091B-night.png"
+    }
   },
   {
     "id": 134,
@@ -14552,7 +15039,11 @@
     "genus": "fish",
     "rarity": 9,
     "price": 9500,
-    "size": "xl"
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/101B-day.png",
+      "night": "/public/images/maps/101B-night.png"
+    }
   },
   {
     "id": 135,
@@ -14654,7 +15145,8 @@
     "genus": "bird",
     "rarity": 9,
     "price": 10110,
-    "size": "xl"
+    "size": "xl",
+    "maps": {}
   },
   {
     "id": 136,
@@ -14770,7 +15262,11 @@
     "genus": "humanoid",
     "rarity": 10,
     "price": 7610,
-    "size": "l"
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/104B-day.png",
+      "night": "/public/images/maps/104B-night.png"
+    }
   },
   {
     "id": 137,
@@ -14872,6 +15368,7 @@
     "genus": "fourlegged",
     "rarity": 20,
     "price": 8560,
-    "size": "l"
+    "size": "l",
+    "maps": {}
   }
 ]
