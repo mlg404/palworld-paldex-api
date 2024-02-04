@@ -14487,10 +14487,10 @@
     "id": 130,
     "key": "088B",
     "image": "/public/images/paldeck/088B.png",
-    "name": "Ice Reptyro",
-    "wiki": "https://palworld.fandom.com/wiki/Ice_Reptyro",
+    "name": "Reptyro Cryst",
+    "wiki": "https://palworld.fandom.com/wiki/Reptyro_Cryst",
     "types": ["ice", "ground"],
-    "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/2c/Ice_Reptyro_menu.png",
+    "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/09/Reptyro_Cryst_menu.png",
     "suitability": [
       {
         "type": "mining",
