@@ -1,6 +1,7 @@
 import type { ISuitability } from ".";
 import type { TypesEnum } from "../enums";
 import type { IAura } from "./aura.interface";
+import type { IBreedMeta } from "./breed.interface";
 import type { ISkill } from "./skill.interface";
 import type { IStats } from "./stats.interface";
 
@@ -23,5 +24,5 @@ export interface IPal {
   rarity: number;
   price: number;
   size: "l" | "xl" | "xs" | "m" | "s";
-  breed_power: number;
+  breed: IBreedMeta;
 }
