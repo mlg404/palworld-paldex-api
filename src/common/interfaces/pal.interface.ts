@@ -23,4 +23,5 @@ export interface IPal {
   rarity: number;
   price: number;
   size: "l" | "xl" | "xs" | "m" | "s";
+  breed_power: number;
 }

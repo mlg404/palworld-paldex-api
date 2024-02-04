@@ -113,7 +113,8 @@
     "maps": {
       "day": "/public/images/maps/001-day.png",
       "night": "/public/images/maps/001-night.png"
-    }
+    },
+    "breed_power": 1470
   },
   {
     "id": 2,
@@ -234,7 +235,8 @@
     "maps": {
       "day": "/public/images/maps/002-day.png",
       "night": "/public/images/maps/002-night.png"
-    }
+    },
+    "breed_power": 1460
   },
   {
     "id": 3,
@@ -345,7 +347,8 @@
     "maps": {
       "day": "/public/images/maps/003-day.png",
       "night": "/public/images/maps/003-night.png"
-    }
+    },
+    "breed_power": 1500
   },
   {
     "id": 4,
@@ -471,7 +474,8 @@
     "maps": {
       "day": "/public/images/maps/004-day.png",
       "night": "/public/images/maps/004-night.png"
-    }
+    },
+    "breed_power": 1430
   },
   {
     "id": 5,
@@ -577,7 +581,8 @@
     "maps": {
       "day": "/public/images/maps/005-day.png",
       "night": "/public/images/maps/005-night.png"
-    }
+    },
+    "breed_power": 1400
   },
   {
     "id": 6,
@@ -693,7 +698,8 @@
     "maps": {
       "day": "/public/images/maps/006-day.png",
       "night": "/public/images/maps/006-night.png"
-    }
+    },
+    "breed_power": 1330
   },
   {
     "id": 7,
@@ -809,7 +815,8 @@
     "maps": {
       "day": "/public/images/maps/007-day.png",
       "night": "/public/images/maps/007-night.png"
-    }
+    },
+    "breed_power": 1410
   },
   {
     "id": 8,
@@ -935,7 +942,8 @@
     "maps": {
       "day": "/public/images/maps/008-day.png",
       "night": "/public/images/maps/008-night.png"
-    }
+    },
+    "breed_power": 1250
   },
   {
     "id": 9,
@@ -1041,7 +1049,8 @@
     "maps": {
       "day": "/public/images/maps/009-day.png",
       "night": "/public/images/maps/009-night.png"
-    }
+    },
+    "breed_power": 1155
   },
   {
     "id": 10,
@@ -1162,7 +1171,8 @@
     "maps": {
       "day": "/public/images/maps/010-day.png",
       "night": "/public/images/maps/010-night.png"
-    }
+    },
+    "breed_power": 1350
   },
   {
     "id": 11,
@@ -1288,7 +1298,8 @@
     "maps": {
       "day": "/public/images/maps/011-day.png",
       "night": "/public/images/maps/011-night.png"
-    }
+    },
+    "breed_power": 520
   },
   {
     "id": 12,
@@ -1394,7 +1405,8 @@
     "maps": {
       "day": "/public/images/maps/012-day.png",
       "night": "/public/images/maps/012-night.png"
-    }
+    },
+    "breed_power": 1370
   },
   {
     "id": 13,
@@ -1500,7 +1512,8 @@
     "maps": {
       "day": "/public/images/maps/013-day.png",
       "night": "/public/images/maps/013-night.png"
-    }
+    },
+    "breed_power": 1240
   },
   {
     "id": 14,
@@ -1611,7 +1624,8 @@
     "maps": {
       "day": "/public/images/maps/014-day.png",
       "night": "/public/images/maps/014-night.png"
-    }
+    },
+    "breed_power": 1450
   },
   {
     "id": 15,
@@ -1716,7 +1730,8 @@
     "size": "xs",
     "maps": {
       "night": "/public/images/maps/015-night.png"
-    }
+    },
+    "breed_power": 1390
   },
   {
     "id": 16,
@@ -1822,7 +1837,8 @@
     "maps": {
       "day": "/public/images/maps/016-day.png",
       "night": "/public/images/maps/016-night.png"
-    }
+    },
+    "breed_power": 1490
   },
   {
     "id": 17,
@@ -1937,7 +1953,8 @@
     "size": "xs",
     "maps": {
       "night": "/public/images/maps/017-night.png"
-    }
+    },
+    "breed_power": 1380
   },
   {
     "id": 18,
@@ -2047,7 +2064,8 @@
     "size": "xs",
     "maps": {
       "day": "/public/images/maps/018-day.png"
-    }
+    },
+    "breed_power": 1455
   },
   {
     "id": 19,
@@ -2162,7 +2180,8 @@
     "size": "xs",
     "maps": {
       "night": "/public/images/maps/019-night.png"
-    }
+    },
+    "breed_power": 1230
   },
   {
     "id": 20,
@@ -2268,7 +2287,8 @@
     "maps": {
       "day": "/public/images/maps/020-day.png",
       "night": "/public/images/maps/020-night.png"
-    }
+    },
+    "breed_power": 1130
   },
   {
     "id": 21,
@@ -2373,7 +2393,8 @@
     "size": "xs",
     "maps": {
       "night": "/public/images/maps/021-night.png"
-    }
+    },
+    "breed_power": 1180
   },
   {
     "id": 22,
@@ -2489,7 +2510,8 @@
     "maps": {
       "day": "/public/images/maps/022-day.png",
       "night": "/public/images/maps/022-night.png"
-    }
+    },
+    "breed_power": 1220
   },
   {
     "id": 23,
@@ -2597,7 +2619,8 @@
     "rarity": 1,
     "price": 1200,
     "size": "xs",
-    "maps": {}
+    "maps": {},
+    "breed_power": 1290
   },
   {
     "id": 24,
@@ -2700,7 +2723,8 @@
     "rarity": 1,
     "price": 1000,
     "size": "xs",
-    "maps": {}
+    "maps": {},
+    "breed_power": 1480
   },
   {
     "id": 25,
@@ -2811,7 +2835,8 @@
     "maps": {
       "day": "/public/images/maps/025-day.png",
       "night": "/public/images/maps/025-night.png"
-    }
+    },
+    "breed_power": 870
   },
   {
     "id": 26,
@@ -2917,7 +2942,8 @@
     "maps": {
       "day": "/public/images/maps/026-day.png",
       "night": "/public/images/maps/026-night.png"
-    }
+    },
+    "breed_power": 1060
   },
   {
     "id": 27,
@@ -3023,7 +3049,8 @@
     "maps": {
       "day": "/public/images/maps/027-day.png",
       "night": "/public/images/maps/027-night.png"
-    }
+    },
+    "breed_power": 1340
   },
   {
     "id": 28,
@@ -3149,7 +3176,8 @@
     "maps": {
       "day": "/public/images/maps/028-day.png",
       "night": "/public/images/maps/028-night.png"
-    }
+    },
+    "breed_power": 1280
   },
   {
     "id": 29,
@@ -3255,7 +3283,8 @@
     "maps": {
       "day": "/public/images/maps/029-day.png",
       "night": "/public/images/maps/029-night.png"
-    }
+    },
+    "breed_power": 910
   },
   {
     "id": 30,
@@ -3381,7 +3410,8 @@
     "maps": {
       "day": "/public/images/maps/030-day.png",
       "night": "/public/images/maps/030-night.png"
-    }
+    },
+    "breed_power": 1320
   },
   {
     "id": 31,
@@ -3497,7 +3527,8 @@
     "maps": {
       "day": "/public/images/maps/031-day.png",
       "night": "/public/images/maps/031-night.png"
-    }
+    },
+    "breed_power": 1090
   },
   {
     "id": 32,
@@ -3613,7 +3644,8 @@
     "maps": {
       "day": "/public/images/maps/032-day.png",
       "night": "/public/images/maps/032-night.png"
-    }
+    },
+    "breed_power": 1420
   },
   {
     "id": 33,
@@ -3734,7 +3766,8 @@
     "maps": {
       "day": "/public/images/maps/033-day.png",
       "night": "/public/images/maps/033-night.png"
-    }
+    },
+    "breed_power": 430
   },
   {
     "id": 34,
@@ -3840,7 +3873,8 @@
     "maps": {
       "day": "/public/images/maps/034-day.png",
       "night": "/public/images/maps/034-night.png"
-    }
+    },
+    "breed_power": 1190
   },
   {
     "id": 35,
@@ -3951,7 +3985,8 @@
     "maps": {
       "day": "/public/images/maps/035-day.png",
       "night": "/public/images/maps/035-night.png"
-    }
+    },
+    "breed_power": 930
   },
   {
     "id": 36,
@@ -4057,7 +4092,8 @@
     "maps": {
       "day": "/public/images/maps/036-day.png",
       "night": "/public/images/maps/036-night.png"
-    }
+    },
+    "breed_power": 890
   },
   {
     "id": 37,
@@ -4163,7 +4199,8 @@
     "maps": {
       "day": "/public/images/maps/037-day.png",
       "night": "/public/images/maps/037-night.png"
-    }
+    },
+    "breed_power": 920
   },
   {
     "id": 38,
@@ -4269,7 +4306,8 @@
     "maps": {
       "day": "/public/images/maps/038-day.png",
       "night": "/public/images/maps/038-night.png"
-    }
+    },
+    "breed_power": 420
   },
   {
     "id": 39,
@@ -4385,7 +4423,8 @@
     "maps": {
       "day": "/public/images/maps/039-day.png",
       "night": "/public/images/maps/039-night.png"
-    }
+    },
+    "breed_power": 1310
   },
   {
     "id": 40,
@@ -4506,7 +4545,8 @@
     "maps": {
       "day": "/public/images/maps/040-day.png",
       "night": "/public/images/maps/040-night.png"
-    }
+    },
+    "breed_power": 590
   },
   {
     "id": 41,
@@ -4617,7 +4657,8 @@
     "maps": {
       "day": "/public/images/maps/041-day.png",
       "night": "/public/images/maps/041-night.png"
-    }
+    },
+    "breed_power": 490
   },
   {
     "id": 42,
@@ -4728,7 +4769,8 @@
     "maps": {
       "day": "/public/images/maps/042-day.png",
       "night": "/public/images/maps/042-night.png"
-    }
+    },
+    "breed_power": 790
   },
   {
     "id": 43,
@@ -4787,7 +4829,8 @@
     "maps": {
       "day": "/public/images/maps/043-day.png",
       "night": "/public/images/maps/043-night.png"
-    }
+    },
+    "breed_power": 895
   },
   {
     "id": 44,
@@ -4892,7 +4935,8 @@
     "size": "m",
     "maps": {
       "night": "/public/images/maps/044-night.png"
-    }
+    },
+    "breed_power": 1080
   },
   {
     "id": 45,
@@ -5008,7 +5052,8 @@
     "maps": {
       "day": "/public/images/maps/045-day.png",
       "night": "/public/images/maps/045-night.png"
-    }
+    },
+    "breed_power": 1120
   },
   {
     "id": 46,
@@ -5113,7 +5158,8 @@
     "size": "m",
     "maps": {
       "night": "/public/images/maps/046-night.png"
-    }
+    },
+    "breed_power": 950
   },
   {
     "id": 47,
@@ -5219,7 +5265,8 @@
     "maps": {
       "day": "/public/images/maps/047-day.png",
       "night": "/public/images/maps/047-night.png"
-    }
+    },
+    "breed_power": 1030
   },
   {
     "id": 48,
@@ -5350,7 +5397,8 @@
     "maps": {
       "day": "/public/images/maps/048-day.png",
       "night": "/public/images/maps/048-night.png"
-    }
+    },
+    "breed_power": 1020
   },
   {
     "id": 49,
@@ -5466,7 +5514,8 @@
     "maps": {
       "day": "/public/images/maps/049-day.png",
       "night": "/public/images/maps/049-night.png"
-    }
+    },
+    "breed_power": 1040
   },
   {
     "id": 50,
@@ -5602,7 +5651,8 @@
     "maps": {
       "day": "/public/images/maps/050-day.png",
       "night": "/public/images/maps/050-night.png"
-    }
+    },
+    "breed_power": 1070
   },
   {
     "id": 51,
@@ -5728,7 +5778,8 @@
     "maps": {
       "day": "/public/images/maps/051-day.png",
       "night": "/public/images/maps/051-night.png"
-    }
+    },
+    "breed_power": 330
   },
   {
     "id": 52,
@@ -5834,7 +5885,8 @@
     "maps": {
       "day": "/public/images/maps/052-day.png",
       "night": "/public/images/maps/052-night.png"
-    }
+    },
+    "breed_power": 510
   },
   {
     "id": 53,
@@ -5945,7 +5997,8 @@
     "maps": {
       "day": "/public/images/maps/053-day.png",
       "night": "/public/images/maps/053-night.png"
-    }
+    },
+    "breed_power": 1300
   },
   {
     "id": 54,
@@ -6056,7 +6109,8 @@
     "maps": {
       "day": "/public/images/maps/054-day.png",
       "night": "/public/images/maps/054-night.png"
-    }
+    },
+    "breed_power": 410
   },
   {
     "id": 55,
@@ -6167,7 +6221,8 @@
     "maps": {
       "day": "/public/images/maps/055-day.png",
       "night": "/public/images/maps/055-night.png"
-    }
+    },
+    "breed_power": 800
   },
   {
     "id": 56,
@@ -6278,7 +6333,8 @@
     "maps": {
       "day": "/public/images/maps/056-day.png",
       "night": "/public/images/maps/056-night.png"
-    }
+    },
+    "breed_power": 680
   },
   {
     "id": 57,
@@ -6384,7 +6440,8 @@
     "maps": {
       "day": "/public/images/maps/057-day.png",
       "night": "/public/images/maps/057-night.png"
-    }
+    },
+    "breed_power": 760
   },
   {
     "id": 58,
@@ -6495,7 +6552,8 @@
     "maps": {
       "day": "/public/images/maps/058-day.png",
       "night": "/public/images/maps/058-night.png"
-    }
+    },
+    "breed_power": 360
   },
   {
     "id": 59,
@@ -6606,7 +6664,8 @@
     "maps": {
       "day": "/public/images/maps/059-day.png",
       "night": "/public/images/maps/059-night.png"
-    }
+    },
+    "breed_power": 880
   },
   {
     "id": 60,
@@ -6712,7 +6771,8 @@
     "maps": {
       "day": "/public/images/maps/060-day.png",
       "night": "/public/images/maps/060-night.png"
-    }
+    },
+    "breed_power": 740
   },
   {
     "id": 61,
@@ -6817,7 +6877,8 @@
     "size": "m",
     "maps": {
       "night": "/public/images/maps/061-night.png"
-    }
+    },
+    "breed_power": 830
   },
   {
     "id": 62,
@@ -6933,7 +6994,8 @@
     "maps": {
       "day": "/public/images/maps/062-day.png",
       "night": "/public/images/maps/062-night.png"
-    }
+    },
+    "breed_power": 1210
   },
   {
     "id": 63,
@@ -7046,7 +7108,8 @@
     "rarity": 6,
     "price": 1760,
     "size": "m",
-    "maps": {}
+    "maps": {},
+    "breed_power": 1110
   },
   {
     "id": 64,
@@ -7157,7 +7220,8 @@
     "maps": {
       "day": "/public/images/maps/064-day.png",
       "night": "/public/images/maps/064-night.png"
-    }
+    },
+    "breed_power": 820
   },
   {
     "id": 65,
@@ -7263,7 +7327,8 @@
     "maps": {
       "day": "/public/images/maps/065-day.png",
       "night": "/public/images/maps/065-night.png"
-    }
+    },
+    "breed_power": 560
   },
   {
     "id": 66,
@@ -7373,7 +7438,8 @@
     "size": "m",
     "maps": {
       "night": "/public/images/maps/066-night.png"
-    }
+    },
+    "breed_power": 1150
   },
   {
     "id": 67,
@@ -7479,7 +7545,8 @@
     "maps": {
       "day": "/public/images/maps/067-day.png",
       "night": "/public/images/maps/067-night.png"
-    }
+    },
+    "breed_power": 850
   },
   {
     "id": 68,
@@ -7594,7 +7661,8 @@
     "size": "m",
     "maps": {
       "night": "/public/images/maps/068-night.png"
-    }
+    },
+    "breed_power": 750
   },
   {
     "id": 69,
@@ -7714,7 +7782,8 @@
     "size": "l",
     "maps": {
       "night": "/public/images/maps/069-night.png"
-    }
+    },
+    "breed_power": 940
   },
   {
     "id": 70,
@@ -7835,7 +7904,8 @@
     "maps": {
       "day": "/public/images/maps/070-day.png",
       "night": "/public/images/maps/070-night.png"
-    }
+    },
+    "breed_power": 1405
   },
   {
     "id": 71,
@@ -7946,7 +8016,8 @@
     "maps": {
       "day": "/public/images/maps/071-day.png",
       "night": "/public/images/maps/071-night.png"
-    }
+    },
+    "breed_power": 660
   },
   {
     "id": 72,
@@ -8072,7 +8143,8 @@
     "maps": {
       "day": "/public/images/maps/072-day.png",
       "night": "/public/images/maps/072-night.png"
-    }
+    },
+    "breed_power": 640
   },
   {
     "id": 73,
@@ -8188,7 +8260,8 @@
     "maps": {
       "day": "/public/images/maps/073-day.png",
       "night": "/public/images/maps/073-night.png"
-    }
+    },
+    "breed_power": 220
   },
   {
     "id": 74,
@@ -8299,7 +8372,8 @@
     "maps": {
       "day": "/public/images/maps/074-day.png",
       "night": "/public/images/maps/074-night.png"
-    }
+    },
+    "breed_power": 380
   },
   {
     "id": 75,
@@ -8414,7 +8488,8 @@
     "size": "m",
     "maps": {
       "night": "/public/images/maps/075-night.png"
-    }
+    },
+    "breed_power": 700
   },
   {
     "id": 76,
@@ -8530,7 +8605,8 @@
     "maps": {
       "day": "/public/images/maps/076-day.png",
       "night": "/public/images/maps/076-night.png"
-    }
+    },
+    "breed_power": 1160
   },
   {
     "id": 77,
@@ -8656,7 +8732,8 @@
     "maps": {
       "day": "/public/images/maps/077-day.png",
       "night": "/public/images/maps/077-night.png"
-    }
+    },
+    "breed_power": 990
   },
   {
     "id": 78,
@@ -8782,7 +8859,8 @@
     "maps": {
       "day": "/public/images/maps/078-day.png",
       "night": "/public/images/maps/078-night.png"
-    }
+    },
+    "breed_power": 1050
   },
   {
     "id": 79,
@@ -8898,7 +8976,8 @@
     "maps": {
       "day": "/public/images/maps/079-day.png",
       "night": "/public/images/maps/079-night.png"
-    }
+    },
+    "breed_power": 450
   },
   {
     "id": 80,
@@ -9004,7 +9083,8 @@
     "maps": {
       "day": "/public/images/maps/080-day.png",
       "night": "/public/images/maps/080-night.png"
-    }
+    },
+    "breed_power": 540
   },
   {
     "id": 81,
@@ -9110,7 +9190,8 @@
     "maps": {
       "day": "/public/images/maps/081-day.png",
       "night": "/public/images/maps/081-night.png"
-    }
+    },
+    "breed_power": 1260
   },
   {
     "id": 82,
@@ -9216,7 +9297,8 @@
     "maps": {
       "day": "/public/images/maps/082-day.png",
       "night": "/public/images/maps/082-night.png"
-    }
+    },
+    "breed_power": 500
   },
   {
     "id": 83,
@@ -9332,7 +9414,8 @@
     "maps": {
       "day": "/public/images/maps/083-day.png",
       "night": "/public/images/maps/083-night.png"
-    }
+    },
+    "breed_power": 130
   },
   {
     "id": 84,
@@ -9360,7 +9443,7 @@
       "description": "Can be ridden. While fighting together, Grass Pals drop more items when defeated.",
       "tech": null
     },
-    "description": "While it prefers raw meat, it always ends up eating well-done meat. This is due to its blistering claws, which it uses as its weapon—it simply doesn't realize its prey gets burned to a crisp.",
+    "description": "While it prefers raw meat, it always ends up eating well-done meat. This is due to its blistering claws, which it uses as its weapon\u00e2\u20ac\u201dit simply doesn't realize its prey gets burned to a crisp.",
     "skills": [
       {
         "level": 1,
@@ -9443,7 +9526,8 @@
     "maps": {
       "day": "/public/images/maps/084-day.png",
       "night": "/public/images/maps/084-night.png"
-    }
+    },
+    "breed_power": 710
   },
   {
     "id": 85,
@@ -9471,7 +9555,7 @@
       "description": "Can be ridden. Can rapidly fire a missile launcher while mounted.",
       "tech": null
     },
-    "description": "Contrary to its blasé appearance, it's quite ferocious.\nIt perceives everything in its sight as prey and will stop at nothing to devour it.",
+    "description": "Contrary to its blas\u00c3\u00a9 appearance, it's quite ferocious.\nIt perceives everything in its sight as prey and will stop at nothing to devour it.",
     "skills": [
       {
         "level": 1,
@@ -9554,7 +9638,8 @@
     "maps": {
       "day": "/public/images/maps/085-day.png",
       "night": "/public/images/maps/085-night.png"
-    }
+    },
+    "breed_power": 280
   },
   {
     "id": 86,
@@ -9660,7 +9745,8 @@
     "maps": {
       "day": "/public/images/maps/086-day.png",
       "night": "/public/images/maps/086-night.png"
-    }
+    },
+    "breed_power": 860
   },
   {
     "id": 87,
@@ -9786,7 +9872,8 @@
     "maps": {
       "day": "/public/images/maps/087-day.png",
       "night": "/public/images/maps/087-night.png"
-    }
+    },
+    "breed_power": 780
   },
   {
     "id": 88,
@@ -9897,7 +9984,8 @@
     "maps": {
       "day": "/public/images/maps/088-day.png",
       "night": "/public/images/maps/088-night.png"
-    }
+    },
+    "breed_power": 320
   },
   {
     "id": 89,
@@ -10003,7 +10091,8 @@
     "maps": {
       "day": "/public/images/maps/089-day.png",
       "night": "/public/images/maps/089-night.png"
-    }
+    },
+    "breed_power": 470
   },
   {
     "id": 90,
@@ -10119,7 +10208,8 @@
     "maps": {
       "day": "/public/images/maps/090-day.png",
       "night": "/public/images/maps/090-night.png"
-    }
+    },
+    "breed_power": 300
   },
   {
     "id": 91,
@@ -10240,7 +10330,8 @@
     "maps": {
       "day": "/public/images/maps/091-day.png",
       "night": "/public/images/maps/091-night.png"
-    }
+    },
+    "breed_power": 460
   },
   {
     "id": 92,
@@ -10361,7 +10452,8 @@
     "maps": {
       "day": "/public/images/maps/092-day.png",
       "night": "/public/images/maps/092-night.png"
-    }
+    },
+    "breed_power": 340
   },
   {
     "id": 93,
@@ -10467,7 +10559,8 @@
     "maps": {
       "day": "/public/images/maps/093-day.png",
       "night": "/public/images/maps/093-night.png"
-    }
+    },
+    "breed_power": 980
   },
   {
     "id": 94,
@@ -10570,7 +10663,8 @@
     "rarity": 6,
     "price": 2100,
     "size": "m",
-    "maps": {}
+    "maps": {},
+    "breed_power": 1010
   },
   {
     "id": 95,
@@ -10691,7 +10785,8 @@
     "maps": {
       "day": "/public/images/maps/095-day.png",
       "night": "/public/images/maps/095-night.png"
-    }
+    },
+    "breed_power": 350
   },
   {
     "id": 96,
@@ -10802,7 +10897,8 @@
     "maps": {
       "day": "/public/images/maps/096-day.png",
       "night": "/public/images/maps/096-night.png"
-    }
+    },
+    "breed_power": 10
   },
   {
     "id": 97,
@@ -10907,7 +11003,8 @@
     "size": "l",
     "maps": {
       "night": "/public/images/maps/097-night.png"
-    }
+    },
+    "breed_power": 190
   },
   {
     "id": 98,
@@ -11018,7 +11115,8 @@
     "maps": {
       "day": "/public/images/maps/098-day.png",
       "night": "/public/images/maps/098-night.png"
-    }
+    },
+    "breed_power": 150
   },
   {
     "id": 99,
@@ -11129,7 +11227,8 @@
     "maps": {
       "day": "/public/images/maps/099-day.png",
       "night": "/public/images/maps/099-night.png"
-    }
+    },
+    "breed_power": 260
   },
   {
     "id": 100,
@@ -11242,7 +11341,8 @@
     "rarity": 10,
     "price": 4960,
     "size": "m",
-    "maps": {}
+    "maps": {},
+    "breed_power": 570
   },
   {
     "id": 101,
@@ -11348,7 +11448,8 @@
     "maps": {
       "day": "/public/images/maps/101-day.png",
       "night": "/public/images/maps/101-night.png"
-    }
+    },
+    "breed_power": 310
   },
   {
     "id": 102,
@@ -11454,7 +11555,8 @@
     "maps": {
       "day": "/public/images/maps/102-day.png",
       "night": "/public/images/maps/102-night.png"
-    }
+    },
+    "breed_power": 50
   },
   {
     "id": 103,
@@ -11575,7 +11677,8 @@
     "maps": {
       "day": "/public/images/maps/103-day.png",
       "night": "/public/images/maps/103-night.png"
-    }
+    },
+    "breed_power": 200
   },
   {
     "id": 104,
@@ -11700,7 +11803,8 @@
     "maps": {
       "day": "/public/images/maps/104-day.png",
       "night": "/public/images/maps/104-night.png"
-    }
+    },
+    "breed_power": 250
   },
   {
     "id": 105,
@@ -11811,7 +11915,8 @@
     "maps": {
       "day": "/public/images/maps/105-day.png",
       "night": "/public/images/maps/105-night.png"
-    }
+    },
+    "breed_power": 370
   },
   {
     "id": 106,
@@ -11927,7 +12032,8 @@
     "maps": {
       "day": "/public/images/maps/106-day.png",
       "night": "/public/images/maps/106-night.png"
-    }
+    },
+    "breed_power": 140
   },
   {
     "id": 107,
@@ -12033,7 +12139,8 @@
     "maps": {
       "day": "/public/images/maps/107-day.png",
       "night": "/public/images/maps/107-night.png"
-    }
+    },
+    "breed_power": 60
   },
   {
     "id": 108,
@@ -12144,7 +12251,8 @@
     "maps": {
       "day": "/public/images/maps/108-day.png",
       "night": "/public/images/maps/108-night.png"
-    }
+    },
+    "breed_power": 80
   },
   {
     "id": 109,
@@ -12255,7 +12363,8 @@
     "maps": {
       "day": "/public/images/maps/109-day.png",
       "night": "/public/images/maps/109-night.png"
-    }
+    },
+    "breed_power": 70
   },
   {
     "id": 110,
@@ -12361,7 +12470,8 @@
     "maps": {
       "day": "/public/images/maps/110-day.png",
       "night": "/public/images/maps/110-night.png"
-    }
+    },
+    "breed_power": 120
   },
   {
     "id": 111,
@@ -12467,7 +12577,8 @@
     "maps": {
       "day": "/public/images/maps/111-day.png",
       "night": "/public/images/maps/111-night.png"
-    }
+    },
+    "breed_power": 90
   },
   {
     "id": 112,
@@ -12570,7 +12681,8 @@
     "rarity": 2,
     "price": 1070,
     "size": "xs",
-    "maps": {}
+    "maps": {},
+    "breed_power": 1360
   },
   {
     "id": 113,
@@ -12681,7 +12793,8 @@
     "maps": {
       "day": "/public/images/maps/024B-day.png",
       "night": "/public/images/maps/024B-night.png"
-    }
+    },
+    "breed_power": 1440
   },
   {
     "id": 114,
@@ -12796,7 +12909,8 @@
     "size": "s",
     "maps": {
       "day": "/public/images/maps/031B-day.png"
-    }
+    },
+    "breed_power": 1100
   },
   {
     "id": 115,
@@ -12916,7 +13030,8 @@
     "size": "xs",
     "maps": {
       "night": "/public/images/maps/032B-night.png"
-    }
+    },
+    "breed_power": 1422
   },
   {
     "id": 116,
@@ -13037,7 +13152,8 @@
     "maps": {
       "day": "/public/images/maps/033B-day.png",
       "night": "/public/images/maps/033B-night.png"
-    }
+    },
+    "breed_power": 390
   },
   {
     "id": 117,
@@ -13143,7 +13259,8 @@
     "maps": {
       "day": "/public/images/maps/037B-day.png",
       "night": "/public/images/maps/037B-night.png"
-    }
+    },
+    "breed_power": 900
   },
   {
     "id": 118,
@@ -13259,7 +13376,8 @@
     "maps": {
       "day": "/public/images/maps/040B-day.png",
       "night": "/public/images/maps/040B-night.png"
-    }
+    },
+    "breed_power": 580
   },
   {
     "id": 119,
@@ -13380,7 +13498,8 @@
     "maps": {
       "day": "/public/images/maps/045B-day.png",
       "night": "/public/images/maps/045B-night.png"
-    }
+    },
+    "breed_power": 1140
   },
   {
     "id": 120,
@@ -13506,7 +13625,8 @@
     "maps": {
       "day": "/public/images/maps/048B-day.png",
       "night": "/public/images/maps/048B-night.png"
-    }
+    },
+    "breed_power": 1000
   },
   {
     "id": 121,
@@ -13616,7 +13736,8 @@
     "size": "l",
     "maps": {
       "night": "/public/images/maps/058B-night.png"
-    }
+    },
+    "breed_power": 240
   },
   {
     "id": 122,
@@ -13727,7 +13848,8 @@
     "maps": {
       "day": "/public/images/maps/064B-day.png",
       "night": "/public/images/maps/064B-night.png"
-    }
+    },
+    "breed_power": 810
   },
   {
     "id": 123,
@@ -13833,7 +13955,8 @@
     "maps": {
       "day": "/public/images/maps/065B-day.png",
       "night": "/public/images/maps/065B-night.png"
-    }
+    },
+    "breed_power": 550
   },
   {
     "id": 124,
@@ -13943,7 +14066,8 @@
     "size": "l",
     "maps": {
       "night": "/public/images/maps/071B-night.png"
-    }
+    },
+    "breed_power": 620
   },
   {
     "id": 125,
@@ -14051,7 +14175,8 @@
     "rarity": 8,
     "price": 5320,
     "size": "l",
-    "maps": {}
+    "maps": {},
+    "breed_power": 530
   },
   {
     "id": 126,
@@ -14157,7 +14282,8 @@
     "maps": {
       "day": "/public/images/maps/081B-day.png",
       "night": "/public/images/maps/081B-night.png"
-    }
+    },
+    "breed_power": 1270
   },
   {
     "id": 127,
@@ -14185,7 +14311,7 @@
       "description": "Can be ridden. While fighting together, Neutral Pals drop more items when defeated.",
       "tech": null
     },
-    "description": "While it prefers raw meat, it always ends up eating tainted meat. This is due to its dark claws, which it uses as its weapon—it simply doesn't realize its prey got cursed.",
+    "description": "While it prefers raw meat, it always ends up eating tainted meat. This is due to its dark claws, which it uses as its weapon\u00e2\u20ac\u201dit simply doesn't realize its prey got cursed.",
     "skills": [
       {
         "level": 1,
@@ -14267,7 +14393,8 @@
     "size": "l",
     "maps": {
       "night": "/public/images/maps/084B-night.png"
-    }
+    },
+    "breed_power": 670
   },
   {
     "id": 128,
@@ -14375,7 +14502,8 @@
     "rarity": 9,
     "price": 10380,
     "size": "xl",
-    "maps": {}
+    "maps": {},
+    "breed_power": 270
   },
   {
     "id": 129,
@@ -14481,7 +14609,8 @@
     "maps": {
       "day": "/public/images/maps/086B-day.png",
       "night": "/public/images/maps/086B-night.png"
-    }
+    },
+    "breed_power": 840
   },
   {
     "id": 130,
@@ -14589,7 +14718,8 @@
     "rarity": 7,
     "price": 7380,
     "size": "l",
-    "maps": {}
+    "maps": {},
+    "breed_power": 230
   },
   {
     "id": 131,
@@ -14700,7 +14830,8 @@
     "maps": {
       "day": "/public/images/maps/089B-day.png",
       "night": "/public/images/maps/089B-night.png"
-    }
+    },
+    "breed_power": 440
   },
   {
     "id": 132,
@@ -14816,7 +14947,8 @@
     "maps": {
       "day": "/public/images/maps/090B-day.png",
       "night": "/public/images/maps/090B-night.png"
-    }
+    },
+    "breed_power": 290
   },
   {
     "id": 133,
@@ -14937,7 +15069,8 @@
     "maps": {
       "day": "/public/images/maps/091B-day.png",
       "night": "/public/images/maps/091B-night.png"
-    }
+    },
+    "breed_power": 480
   },
   {
     "id": 134,
@@ -15043,7 +15176,8 @@
     "maps": {
       "day": "/public/images/maps/101B-day.png",
       "night": "/public/images/maps/101B-night.png"
-    }
+    },
+    "breed_power": 315
   },
   {
     "id": 135,
@@ -15146,7 +15280,8 @@
     "rarity": 9,
     "price": 10110,
     "size": "xl",
-    "maps": {}
+    "maps": {},
+    "breed_power": 30
   },
   {
     "id": 136,
@@ -15266,7 +15401,8 @@
     "maps": {
       "day": "/public/images/maps/104B-day.png",
       "night": "/public/images/maps/104B-night.png"
-    }
+    },
+    "breed_power": 210
   },
   {
     "id": 137,
@@ -15369,6 +15505,7 @@
     "rarity": 20,
     "price": 8560,
     "size": "l",
-    "maps": {}
+    "maps": {},
+    "breed_power": 100
   }
 ]

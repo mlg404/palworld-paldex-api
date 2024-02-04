@@ -148,7 +148,8 @@ This is the first Palworld API, it's a simple API to get all Palworld Paldex dat
       "genus": "monster",
       "rarity": 8,
       "price": 10240,
-      "size": "xl"
+      "size": "xl",
+      "breed_power": 280
     }
   ],
   "page": 1,
