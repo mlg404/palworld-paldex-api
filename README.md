@@ -149,7 +149,12 @@ This is the first Palworld API, it's a simple API to get all Palworld Paldex dat
       "rarity": 8,
       "price": 10240,
       "size": "xl",
-      "breed_power": 280
+      "breeding": {
+        "rank": 280,
+        "order": 54,
+        "child_eligble": true,
+        "male_probability": 50.0
+      }
     }
   ],
   "page": 1,
