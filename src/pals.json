@@ -113,6 +113,12 @@
     "maps": {
       "day": "/public/images/maps/001-day.png",
       "night": "/public/images/maps/001-night.png"
+    },
+    "breeding": {
+      "rank": 1470,
+      "order": 27,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -234,6 +240,12 @@
     "maps": {
       "day": "/public/images/maps/002-day.png",
       "night": "/public/images/maps/002-night.png"
+    },
+    "breeding": {
+      "rank": 1460,
+      "order": 46,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -345,6 +357,12 @@
     "maps": {
       "day": "/public/images/maps/003-day.png",
       "night": "/public/images/maps/003-night.png"
+    },
+    "breeding": {
+      "rank": 1500,
+      "order": 62,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -471,6 +489,12 @@
     "maps": {
       "day": "/public/images/maps/004-day.png",
       "night": "/public/images/maps/004-night.png"
+    },
+    "breeding": {
+      "rank": 1430,
+      "order": 7,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -577,6 +601,12 @@
     "maps": {
       "day": "/public/images/maps/005-day.png",
       "night": "/public/images/maps/005-night.png"
+    },
+    "breeding": {
+      "rank": 1400,
+      "order": 20,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -693,6 +723,12 @@
     "maps": {
       "day": "/public/images/maps/006-day.png",
       "night": "/public/images/maps/006-night.png"
+    },
+    "breeding": {
+      "rank": 1330,
+      "order": 59,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -809,6 +845,12 @@
     "maps": {
       "day": "/public/images/maps/007-day.png",
       "night": "/public/images/maps/007-night.png"
+    },
+    "breeding": {
+      "rank": 1410,
+      "order": 65,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -935,6 +977,12 @@
     "maps": {
       "day": "/public/images/maps/008-day.png",
       "night": "/public/images/maps/008-night.png"
+    },
+    "breeding": {
+      "rank": 1250,
+      "order": 107,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -1041,6 +1089,12 @@
     "maps": {
       "day": "/public/images/maps/009-day.png",
       "night": "/public/images/maps/009-night.png"
+    },
+    "breeding": {
+      "rank": 1155,
+      "order": 138,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -1162,6 +1216,12 @@
     "maps": {
       "day": "/public/images/maps/010-day.png",
       "night": "/public/images/maps/010-night.png"
+    },
+    "breeding": {
+      "rank": 1350,
+      "order": 23,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -1288,6 +1348,12 @@
     "maps": {
       "day": "/public/images/maps/011-day.png",
       "night": "/public/images/maps/011-night.png"
+    },
+    "breeding": {
+      "rank": 520,
+      "order": 122,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -1394,6 +1460,12 @@
     "maps": {
       "day": "/public/images/maps/012-day.png",
       "night": "/public/images/maps/012-night.png"
+    },
+    "breeding": {
+      "rank": 1370,
+      "order": 17,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -1500,6 +1572,12 @@
     "maps": {
       "day": "/public/images/maps/013-day.png",
       "night": "/public/images/maps/013-night.png"
+    },
+    "breeding": {
+      "rank": 1240,
+      "order": 112,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -1611,6 +1689,12 @@
     "maps": {
       "day": "/public/images/maps/014-day.png",
       "night": "/public/images/maps/014-night.png"
+    },
+    "breeding": {
+      "rank": 1450,
+      "order": 79,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -1716,6 +1800,12 @@
     "size": "xs",
     "maps": {
       "night": "/public/images/maps/015-night.png"
+    },
+    "breeding": {
+      "rank": 1390,
+      "order": 82,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -1822,6 +1912,12 @@
     "maps": {
       "day": "/public/images/maps/016-day.png",
       "night": "/public/images/maps/016-night.png"
+    },
+    "breeding": {
+      "rank": 1490,
+      "order": 14,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -1937,6 +2033,12 @@
     "size": "xs",
     "maps": {
       "night": "/public/images/maps/017-night.png"
+    },
+    "breeding": {
+      "rank": 1380,
+      "order": 47,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -2047,6 +2149,12 @@
     "size": "xs",
     "maps": {
       "day": "/public/images/maps/018-day.png"
+    },
+    "breeding": {
+      "rank": 1455,
+      "order": 135,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -2162,6 +2270,12 @@
     "size": "xs",
     "maps": {
       "night": "/public/images/maps/019-night.png"
+    },
+    "breeding": {
+      "rank": 1230,
+      "order": 106,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -2268,6 +2382,12 @@
     "maps": {
       "day": "/public/images/maps/020-day.png",
       "night": "/public/images/maps/020-night.png"
+    },
+    "breeding": {
+      "rank": 1130,
+      "order": 6,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -2373,6 +2493,12 @@
     "size": "xs",
     "maps": {
       "night": "/public/images/maps/021-night.png"
+    },
+    "breeding": {
+      "rank": 1180,
+      "order": 121,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -2489,6 +2615,12 @@
     "maps": {
       "day": "/public/images/maps/022-day.png",
       "night": "/public/images/maps/022-night.png"
+    },
+    "breeding": {
+      "rank": 1220,
+      "order": 101,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -2597,7 +2729,13 @@
     "rarity": 1,
     "price": 1200,
     "size": "xs",
-    "maps": {}
+    "maps": {},
+    "breeding": {
+      "rank": 1290,
+      "order": 85,
+      "child_eligble": true,
+      "male_probability": 50.0
+    }
   },
   {
     "id": 24,
@@ -2700,7 +2838,13 @@
     "rarity": 1,
     "price": 1000,
     "size": "xs",
-    "maps": {}
+    "maps": {},
+    "breeding": {
+      "rank": 1480,
+      "order": 4,
+      "child_eligble": true,
+      "male_probability": 50.0
+    }
   },
   {
     "id": 25,
@@ -2811,6 +2955,12 @@
     "maps": {
       "day": "/public/images/maps/025-day.png",
       "night": "/public/images/maps/025-night.png"
+    },
+    "breeding": {
+      "rank": 870,
+      "order": 128,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -2917,6 +3067,12 @@
     "maps": {
       "day": "/public/images/maps/026-day.png",
       "night": "/public/images/maps/026-night.png"
+    },
+    "breeding": {
+      "rank": 1060,
+      "order": 15,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -3023,6 +3179,12 @@
     "maps": {
       "day": "/public/images/maps/027-day.png",
       "night": "/public/images/maps/027-night.png"
+    },
+    "breeding": {
+      "rank": 1340,
+      "order": 8,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -3149,6 +3311,12 @@
     "maps": {
       "day": "/public/images/maps/028-day.png",
       "night": "/public/images/maps/028-night.png"
+    },
+    "breeding": {
+      "rank": 1280,
+      "order": 91,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -3255,6 +3423,12 @@
     "maps": {
       "day": "/public/images/maps/029-day.png",
       "night": "/public/images/maps/029-night.png"
+    },
+    "breeding": {
+      "rank": 910,
+      "order": 86,
+      "child_eligble": true,
+      "male_probability": 20.0
     }
   },
   {
@@ -3381,6 +3555,12 @@
     "maps": {
       "day": "/public/images/maps/030-day.png",
       "night": "/public/images/maps/030-night.png"
+    },
+    "breeding": {
+      "rank": 1320,
+      "order": 21,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -3497,6 +3677,12 @@
     "maps": {
       "day": "/public/images/maps/031-day.png",
       "night": "/public/images/maps/031-night.png"
+    },
+    "breeding": {
+      "rank": 1090,
+      "order": 25,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -3613,6 +3799,12 @@
     "maps": {
       "day": "/public/images/maps/032-day.png",
       "night": "/public/images/maps/032-night.png"
+    },
+    "breeding": {
+      "rank": 1420,
+      "order": 31,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -3734,6 +3926,12 @@
     "maps": {
       "day": "/public/images/maps/033-day.png",
       "night": "/public/images/maps/033-night.png"
+    },
+    "breeding": {
+      "rank": 430,
+      "order": 97,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -3840,6 +4038,12 @@
     "maps": {
       "day": "/public/images/maps/034-day.png",
       "night": "/public/images/maps/034-night.png"
+    },
+    "breeding": {
+      "rank": 1190,
+      "order": 39,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -3951,6 +4155,12 @@
     "maps": {
       "day": "/public/images/maps/035-day.png",
       "night": "/public/images/maps/035-night.png"
+    },
+    "breeding": {
+      "rank": 930,
+      "order": 75,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -4057,6 +4267,12 @@
     "maps": {
       "day": "/public/images/maps/036-day.png",
       "night": "/public/images/maps/036-night.png"
+    },
+    "breeding": {
+      "rank": 890,
+      "order": 41,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -4163,6 +4379,12 @@
     "maps": {
       "day": "/public/images/maps/037-day.png",
       "night": "/public/images/maps/037-night.png"
+    },
+    "breeding": {
+      "rank": 920,
+      "order": 9,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -4269,6 +4491,12 @@
     "maps": {
       "day": "/public/images/maps/038-day.png",
       "night": "/public/images/maps/038-night.png"
+    },
+    "breeding": {
+      "rank": 420,
+      "order": 90,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -4385,6 +4613,12 @@
     "maps": {
       "day": "/public/images/maps/039-day.png",
       "night": "/public/images/maps/039-night.png"
+    },
+    "breeding": {
+      "rank": 1310,
+      "order": 117,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -4506,6 +4740,12 @@
     "maps": {
       "day": "/public/images/maps/040-day.png",
       "night": "/public/images/maps/040-night.png"
+    },
+    "breeding": {
+      "rank": 590,
+      "order": 2,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -4617,6 +4857,12 @@
     "maps": {
       "day": "/public/images/maps/041-day.png",
       "night": "/public/images/maps/041-night.png"
+    },
+    "breeding": {
+      "rank": 490,
+      "order": 132,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -4728,6 +4974,12 @@
     "maps": {
       "day": "/public/images/maps/042-day.png",
       "night": "/public/images/maps/042-night.png"
+    },
+    "breeding": {
+      "rank": 790,
+      "order": 99,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -4787,6 +5039,12 @@
     "maps": {
       "day": "/public/images/maps/043-day.png",
       "night": "/public/images/maps/043-night.png"
+    },
+    "breeding": {
+      "rank": 895,
+      "order": 136,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -4892,6 +5150,12 @@
     "size": "m",
     "maps": {
       "night": "/public/images/maps/044-night.png"
+    },
+    "breeding": {
+      "rank": 1080,
+      "order": 44,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -5008,6 +5272,12 @@
     "maps": {
       "day": "/public/images/maps/045-day.png",
       "night": "/public/images/maps/045-night.png"
+    },
+    "breeding": {
+      "rank": 1120,
+      "order": 57,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -5113,6 +5383,12 @@
     "size": "m",
     "maps": {
       "night": "/public/images/maps/046-night.png"
+    },
+    "breeding": {
+      "rank": 950,
+      "order": 30,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -5219,6 +5495,12 @@
     "maps": {
       "day": "/public/images/maps/047-day.png",
       "night": "/public/images/maps/047-night.png"
+    },
+    "breeding": {
+      "rank": 1030,
+      "order": 12,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -5350,6 +5632,12 @@
     "maps": {
       "day": "/public/images/maps/048-day.png",
       "night": "/public/images/maps/048-night.png"
+    },
+    "breeding": {
+      "rank": 1020,
+      "order": 52,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -5466,6 +5754,12 @@
     "maps": {
       "day": "/public/images/maps/049-day.png",
       "night": "/public/images/maps/049-night.png"
+    },
+    "breeding": {
+      "rank": 1040,
+      "order": 16,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -5602,6 +5896,12 @@
     "maps": {
       "day": "/public/images/maps/050-day.png",
       "night": "/public/images/maps/050-night.png"
+    },
+    "breeding": {
+      "rank": 1070,
+      "order": 95,
+      "child_eligble": true,
+      "male_probability": 10.0
     }
   },
   {
@@ -5728,6 +6028,12 @@
     "maps": {
       "day": "/public/images/maps/051-day.png",
       "night": "/public/images/maps/051-night.png"
+    },
+    "breeding": {
+      "rank": 330,
+      "order": 94,
+      "child_eligble": true,
+      "male_probability": 10.0
     }
   },
   {
@@ -5834,6 +6140,12 @@
     "maps": {
       "day": "/public/images/maps/052-day.png",
       "night": "/public/images/maps/052-night.png"
+    },
+    "breeding": {
+      "rank": 510,
+      "order": 131,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -5945,6 +6257,12 @@
     "maps": {
       "day": "/public/images/maps/053-day.png",
       "night": "/public/images/maps/053-night.png"
+    },
+    "breeding": {
+      "rank": 1300,
+      "order": 114,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -6056,6 +6374,12 @@
     "maps": {
       "day": "/public/images/maps/054-day.png",
       "night": "/public/images/maps/054-night.png"
+    },
+    "breeding": {
+      "rank": 410,
+      "order": 115,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -6167,6 +6491,12 @@
     "maps": {
       "day": "/public/images/maps/055-day.png",
       "night": "/public/images/maps/055-night.png"
+    },
+    "breeding": {
+      "rank": 800,
+      "order": 123,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -6278,6 +6608,12 @@
     "maps": {
       "day": "/public/images/maps/056-day.png",
       "night": "/public/images/maps/056-night.png"
+    },
+    "breeding": {
+      "rank": 680,
+      "order": 19,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -6384,6 +6720,12 @@
     "maps": {
       "day": "/public/images/maps/057-day.png",
       "night": "/public/images/maps/057-night.png"
+    },
+    "breeding": {
+      "rank": 760,
+      "order": 104,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -6495,6 +6837,12 @@
     "maps": {
       "day": "/public/images/maps/058-day.png",
       "night": "/public/images/maps/058-night.png"
+    },
+    "breeding": {
+      "rank": 360,
+      "order": 35,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -6606,6 +6954,12 @@
     "maps": {
       "day": "/public/images/maps/059-day.png",
       "night": "/public/images/maps/059-night.png"
+    },
+    "breeding": {
+      "rank": 880,
+      "order": 76,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -6712,6 +7066,12 @@
     "maps": {
       "day": "/public/images/maps/060-day.png",
       "night": "/public/images/maps/060-night.png"
+    },
+    "breeding": {
+      "rank": 740,
+      "order": 100,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -6817,6 +7177,12 @@
     "size": "m",
     "maps": {
       "night": "/public/images/maps/061-night.png"
+    },
+    "breeding": {
+      "rank": 830,
+      "order": 56,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -6933,6 +7299,12 @@
     "maps": {
       "day": "/public/images/maps/062-day.png",
       "night": "/public/images/maps/062-night.png"
+    },
+    "breeding": {
+      "rank": 1210,
+      "order": 24,
+      "child_eligble": true,
+      "male_probability": 20.0
     }
   },
   {
@@ -7046,7 +7418,13 @@
     "rarity": 6,
     "price": 1760,
     "size": "m",
-    "maps": {}
+    "maps": {},
+    "breeding": {
+      "rank": 1110,
+      "order": 22,
+      "child_eligble": true,
+      "male_probability": 50.0
+    }
   },
   {
     "id": 64,
@@ -7157,6 +7535,12 @@
     "maps": {
       "day": "/public/images/maps/064-day.png",
       "night": "/public/images/maps/064-night.png"
+    },
+    "breeding": {
+      "rank": 820,
+      "order": 63,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -7263,6 +7647,12 @@
     "maps": {
       "day": "/public/images/maps/065-day.png",
       "night": "/public/images/maps/065-night.png"
+    },
+    "breeding": {
+      "rank": 560,
+      "order": 42,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -7373,6 +7763,12 @@
     "size": "m",
     "maps": {
       "night": "/public/images/maps/066-night.png"
+    },
+    "breeding": {
+      "rank": 1150,
+      "order": 51,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -7479,6 +7875,12 @@
     "maps": {
       "day": "/public/images/maps/067-day.png",
       "night": "/public/images/maps/067-night.png"
+    },
+    "breeding": {
+      "rank": 850,
+      "order": 11,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -7594,6 +7996,12 @@
     "size": "m",
     "maps": {
       "night": "/public/images/maps/068-night.png"
+    },
+    "breeding": {
+      "rank": 750,
+      "order": 96,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -7714,6 +8122,12 @@
     "size": "l",
     "maps": {
       "night": "/public/images/maps/069-night.png"
+    },
+    "breeding": {
+      "rank": 940,
+      "order": 81,
+      "child_eligble": true,
+      "male_probability": 30.0
     }
   },
   {
@@ -7835,6 +8249,12 @@
     "maps": {
       "day": "/public/images/maps/070-day.png",
       "night": "/public/images/maps/070-night.png"
+    },
+    "breeding": {
+      "rank": 1405,
+      "order": 137,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -7946,6 +8366,12 @@
     "maps": {
       "day": "/public/images/maps/071-day.png",
       "night": "/public/images/maps/071-night.png"
+    },
+    "breeding": {
+      "rank": 660,
+      "order": 60,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -8072,6 +8498,12 @@
     "maps": {
       "day": "/public/images/maps/072-day.png",
       "night": "/public/images/maps/072-night.png"
+    },
+    "breeding": {
+      "rank": 640,
+      "order": 127,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -8188,6 +8620,12 @@
     "maps": {
       "day": "/public/images/maps/073-day.png",
       "night": "/public/images/maps/073-night.png"
+    },
+    "breeding": {
+      "rank": 220,
+      "order": 118,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -8299,6 +8737,12 @@
     "maps": {
       "day": "/public/images/maps/074-day.png",
       "night": "/public/images/maps/074-night.png"
+    },
+    "breeding": {
+      "rank": 380,
+      "order": 126,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -8414,6 +8858,12 @@
     "size": "m",
     "maps": {
       "night": "/public/images/maps/075-night.png"
+    },
+    "breeding": {
+      "rank": 700,
+      "order": 116,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -8530,6 +8980,12 @@
     "maps": {
       "day": "/public/images/maps/076-day.png",
       "night": "/public/images/maps/076-night.png"
+    },
+    "breeding": {
+      "rank": 1160,
+      "order": 80,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -8656,6 +9112,12 @@
     "maps": {
       "day": "/public/images/maps/077-day.png",
       "night": "/public/images/maps/077-night.png"
+    },
+    "breeding": {
+      "rank": 990,
+      "order": 103,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -8782,6 +9244,12 @@
     "maps": {
       "day": "/public/images/maps/078-day.png",
       "night": "/public/images/maps/078-night.png"
+    },
+    "breeding": {
+      "rank": 1050,
+      "order": 89,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -8898,6 +9366,12 @@
     "maps": {
       "day": "/public/images/maps/079-day.png",
       "night": "/public/images/maps/079-night.png"
+    },
+    "breeding": {
+      "rank": 450,
+      "order": 78,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -9004,6 +9478,12 @@
     "maps": {
       "day": "/public/images/maps/080-day.png",
       "night": "/public/images/maps/080-night.png"
+    },
+    "breeding": {
+      "rank": 540,
+      "order": 37,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -9110,6 +9590,12 @@
     "maps": {
       "day": "/public/images/maps/081-day.png",
       "night": "/public/images/maps/081-night.png"
+    },
+    "breeding": {
+      "rank": 1260,
+      "order": 83,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -9216,6 +9702,12 @@
     "maps": {
       "day": "/public/images/maps/082-day.png",
       "night": "/public/images/maps/082-night.png"
+    },
+    "breeding": {
+      "rank": 500,
+      "order": 45,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -9332,6 +9824,12 @@
     "maps": {
       "day": "/public/images/maps/083-day.png",
       "night": "/public/images/maps/083-night.png"
+    },
+    "breeding": {
+      "rank": 130,
+      "order": 40,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -9360,7 +9858,7 @@
       "description": "Can be ridden. While fighting together, Grass Pals drop more items when defeated.",
       "tech": null
     },
-    "description": "While it prefers raw meat, it always ends up eating well-done meat. This is due to its blistering claws, which it uses as its weapon—it simply doesn't realize its prey gets burned to a crisp.",
+    "description": "While it prefers raw meat, it always ends up eating well-done meat. This is due to its blistering claws, which it uses as its weapon\u00e2\u20ac\u201dit simply doesn't realize its prey gets burned to a crisp.",
     "skills": [
       {
         "level": 1,
@@ -9443,6 +9941,12 @@
     "maps": {
       "day": "/public/images/maps/084-day.png",
       "night": "/public/images/maps/084-night.png"
+    },
+    "breeding": {
+      "rank": 710,
+      "order": 108,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -9471,7 +9975,7 @@
       "description": "Can be ridden. Can rapidly fire a missile launcher while mounted.",
       "tech": null
     },
-    "description": "Contrary to its blasé appearance, it's quite ferocious.\nIt perceives everything in its sight as prey and will stop at nothing to devour it.",
+    "description": "Contrary to its blas\u00c3\u00a9 appearance, it's quite ferocious.\nIt perceives everything in its sight as prey and will stop at nothing to devour it.",
     "skills": [
       {
         "level": 1,
@@ -9554,6 +10058,12 @@
     "maps": {
       "day": "/public/images/maps/085-day.png",
       "night": "/public/images/maps/085-night.png"
+    },
+    "breeding": {
+      "rank": 280,
+      "order": 54,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -9660,6 +10170,12 @@
     "maps": {
       "day": "/public/images/maps/086-day.png",
       "night": "/public/images/maps/086-night.png"
+    },
+    "breeding": {
+      "rank": 860,
+      "order": 71,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -9786,6 +10302,12 @@
     "maps": {
       "day": "/public/images/maps/087-day.png",
       "night": "/public/images/maps/087-night.png"
+    },
+    "breeding": {
+      "rank": 780,
+      "order": 130,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -9897,6 +10419,12 @@
     "maps": {
       "day": "/public/images/maps/088-day.png",
       "night": "/public/images/maps/088-night.png"
+    },
+    "breeding": {
+      "rank": 320,
+      "order": 49,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -10003,6 +10531,12 @@
     "maps": {
       "day": "/public/images/maps/089-day.png",
       "night": "/public/images/maps/089-night.png"
+    },
+    "breeding": {
+      "rank": 470,
+      "order": 110,
+      "child_eligble": true,
+      "male_probability": 90.0
     }
   },
   {
@@ -10119,6 +10653,12 @@
     "maps": {
       "day": "/public/images/maps/090-day.png",
       "night": "/public/images/maps/090-night.png"
+    },
+    "breeding": {
+      "rank": 300,
+      "order": 68,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -10240,6 +10780,12 @@
     "maps": {
       "day": "/public/images/maps/091-day.png",
       "night": "/public/images/maps/091-night.png"
+    },
+    "breeding": {
+      "rank": 460,
+      "order": 87,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -10361,6 +10907,12 @@
     "maps": {
       "day": "/public/images/maps/092-day.png",
       "night": "/public/images/maps/092-night.png"
+    },
+    "breeding": {
+      "rank": 340,
+      "order": 119,
+      "child_eligble": true,
+      "male_probability": 85.0
     }
   },
   {
@@ -10467,6 +11019,12 @@
     "maps": {
       "day": "/public/images/maps/093-day.png",
       "night": "/public/images/maps/093-night.png"
+    },
+    "breeding": {
+      "rank": 980,
+      "order": 48,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -10570,7 +11128,13 @@
     "rarity": 6,
     "price": 2100,
     "size": "m",
-    "maps": {}
+    "maps": {},
+    "breeding": {
+      "rank": 1010,
+      "order": 70,
+      "child_eligble": true,
+      "male_probability": 50.0
+    }
   },
   {
     "id": 95,
@@ -10691,6 +11255,12 @@
     "maps": {
       "day": "/public/images/maps/095-day.png",
       "night": "/public/images/maps/095-night.png"
+    },
+    "breeding": {
+      "rank": 350,
+      "order": 124,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -10802,6 +11372,12 @@
     "maps": {
       "day": "/public/images/maps/096-day.png",
       "night": "/public/images/maps/096-night.png"
+    },
+    "breeding": {
+      "rank": 10,
+      "order": 74,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -10907,6 +11483,12 @@
     "size": "l",
     "maps": {
       "night": "/public/images/maps/097-night.png"
+    },
+    "breeding": {
+      "rank": 190,
+      "order": 125,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -11018,6 +11600,12 @@
     "maps": {
       "day": "/public/images/maps/098-day.png",
       "night": "/public/images/maps/098-night.png"
+    },
+    "breeding": {
+      "rank": 150,
+      "order": 102,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -11129,6 +11717,12 @@
     "maps": {
       "day": "/public/images/maps/099-day.png",
       "night": "/public/images/maps/099-night.png"
+    },
+    "breeding": {
+      "rank": 260,
+      "order": 133,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -11242,7 +11836,13 @@
     "rarity": 10,
     "price": 4960,
     "size": "m",
-    "maps": {}
+    "maps": {},
+    "breeding": {
+      "rank": 570,
+      "order": 1,
+      "child_eligble": true,
+      "male_probability": 50.0
+    }
   },
   {
     "id": 101,
@@ -11348,6 +11948,12 @@
     "maps": {
       "day": "/public/images/maps/101-day.png",
       "night": "/public/images/maps/101-night.png"
+    },
+    "breeding": {
+      "rank": 310,
+      "order": 28,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -11454,6 +12060,12 @@
     "maps": {
       "day": "/public/images/maps/102-day.png",
       "night": "/public/images/maps/102-night.png"
+    },
+    "breeding": {
+      "rank": 50,
+      "order": 33,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -11575,6 +12187,12 @@
     "maps": {
       "day": "/public/images/maps/103-day.png",
       "night": "/public/images/maps/103-night.png"
+    },
+    "breeding": {
+      "rank": 200,
+      "order": 13,
+      "child_eligble": false,
+      "male_probability": 50.0
     }
   },
   {
@@ -11700,6 +12318,12 @@
     "maps": {
       "day": "/public/images/maps/104-day.png",
       "night": "/public/images/maps/104-night.png"
+    },
+    "breeding": {
+      "rank": 250,
+      "order": 92,
+      "child_eligble": false,
+      "male_probability": 30.0
     }
   },
   {
@@ -11811,6 +12435,12 @@
     "maps": {
       "day": "/public/images/maps/105-day.png",
       "night": "/public/images/maps/105-night.png"
+    },
+    "breeding": {
+      "rank": 370,
+      "order": 73,
+      "child_eligble": false,
+      "male_probability": 50.0
     }
   },
   {
@@ -11927,6 +12557,12 @@
     "maps": {
       "day": "/public/images/maps/106-day.png",
       "night": "/public/images/maps/106-night.png"
+    },
+    "breeding": {
+      "rank": 140,
+      "order": 134,
+      "child_eligble": false,
+      "male_probability": 50.0
     }
   },
   {
@@ -12033,6 +12669,12 @@
     "maps": {
       "day": "/public/images/maps/107-day.png",
       "night": "/public/images/maps/107-night.png"
+    },
+    "breeding": {
+      "rank": 60,
+      "order": 77,
+      "child_eligble": false,
+      "male_probability": 50.0
     }
   },
   {
@@ -12144,6 +12786,12 @@
     "maps": {
       "day": "/public/images/maps/108-day.png",
       "night": "/public/images/maps/108-night.png"
+    },
+    "breeding": {
+      "rank": 80,
+      "order": 120,
+      "child_eligble": false,
+      "male_probability": 50.0
     }
   },
   {
@@ -12255,6 +12903,12 @@
     "maps": {
       "day": "/public/images/maps/109-day.png",
       "night": "/public/images/maps/109-night.png"
+    },
+    "breeding": {
+      "rank": 70,
+      "order": 129,
+      "child_eligble": false,
+      "male_probability": 50.0
     }
   },
   {
@@ -12361,6 +13015,12 @@
     "maps": {
       "day": "/public/images/maps/110-day.png",
       "night": "/public/images/maps/110-night.png"
+    },
+    "breeding": {
+      "rank": 120,
+      "order": 66,
+      "child_eligble": false,
+      "male_probability": 50.0
     }
   },
   {
@@ -12467,6 +13127,12 @@
     "maps": {
       "day": "/public/images/maps/111-day.png",
       "night": "/public/images/maps/111-night.png"
+    },
+    "breeding": {
+      "rank": 90,
+      "order": 105,
+      "child_eligble": false,
+      "male_probability": 50.0
     }
   },
   {
@@ -12570,7 +13236,13 @@
     "rarity": 2,
     "price": 1070,
     "size": "xs",
-    "maps": {}
+    "maps": {},
+    "breeding": {
+      "rank": 1360,
+      "order": 18,
+      "child_eligble": false,
+      "male_probability": 50.0
+    }
   },
   {
     "id": 113,
@@ -12681,6 +13353,12 @@
     "maps": {
       "day": "/public/images/maps/024B-day.png",
       "night": "/public/images/maps/024B-night.png"
+    },
+    "breeding": {
+      "rank": 1440,
+      "order": 5,
+      "child_eligble": false,
+      "male_probability": 50.0
     }
   },
   {
@@ -12796,6 +13474,12 @@
     "size": "s",
     "maps": {
       "day": "/public/images/maps/031B-day.png"
+    },
+    "breeding": {
+      "rank": 1100,
+      "order": 26,
+      "child_eligble": false,
+      "male_probability": 50.0
     }
   },
   {
@@ -12916,6 +13600,12 @@
     "size": "xs",
     "maps": {
       "night": "/public/images/maps/032B-night.png"
+    },
+    "breeding": {
+      "rank": 1422,
+      "order": 32,
+      "child_eligble": false,
+      "male_probability": 50.0
     }
   },
   {
@@ -13037,6 +13727,12 @@
     "maps": {
       "day": "/public/images/maps/033B-day.png",
       "night": "/public/images/maps/033B-night.png"
+    },
+    "breeding": {
+      "rank": 390,
+      "order": 98,
+      "child_eligble": false,
+      "male_probability": 50.0
     }
   },
   {
@@ -13143,6 +13839,12 @@
     "maps": {
       "day": "/public/images/maps/037B-day.png",
       "night": "/public/images/maps/037B-night.png"
+    },
+    "breeding": {
+      "rank": 900,
+      "order": 10,
+      "child_eligble": false,
+      "male_probability": 50.0
     }
   },
   {
@@ -13259,6 +13961,12 @@
     "maps": {
       "day": "/public/images/maps/040B-day.png",
       "night": "/public/images/maps/040B-night.png"
+    },
+    "breeding": {
+      "rank": 580,
+      "order": 3,
+      "child_eligble": false,
+      "male_probability": 50.0
     }
   },
   {
@@ -13380,6 +14088,12 @@
     "maps": {
       "day": "/public/images/maps/045B-day.png",
       "night": "/public/images/maps/045B-night.png"
+    },
+    "breeding": {
+      "rank": 1140,
+      "order": 58,
+      "child_eligble": false,
+      "male_probability": 50.0
     }
   },
   {
@@ -13506,6 +14220,12 @@
     "maps": {
       "day": "/public/images/maps/048B-day.png",
       "night": "/public/images/maps/048B-night.png"
+    },
+    "breeding": {
+      "rank": 1000,
+      "order": 53,
+      "child_eligble": false,
+      "male_probability": 50.0
     }
   },
   {
@@ -13616,6 +14336,12 @@
     "size": "l",
     "maps": {
       "night": "/public/images/maps/058B-night.png"
+    },
+    "breeding": {
+      "rank": 240,
+      "order": 36,
+      "child_eligble": false,
+      "male_probability": 50.0
     }
   },
   {
@@ -13727,6 +14453,12 @@
     "maps": {
       "day": "/public/images/maps/064B-day.png",
       "night": "/public/images/maps/064B-night.png"
+    },
+    "breeding": {
+      "rank": 810,
+      "order": 64,
+      "child_eligble": false,
+      "male_probability": 50.0
     }
   },
   {
@@ -13833,6 +14565,12 @@
     "maps": {
       "day": "/public/images/maps/065B-day.png",
       "night": "/public/images/maps/065B-night.png"
+    },
+    "breeding": {
+      "rank": 550,
+      "order": 43,
+      "child_eligble": false,
+      "male_probability": 50.0
     }
   },
   {
@@ -13943,6 +14681,12 @@
     "size": "l",
     "maps": {
       "night": "/public/images/maps/071B-night.png"
+    },
+    "breeding": {
+      "rank": 620,
+      "order": 61,
+      "child_eligble": false,
+      "male_probability": 50.0
     }
   },
   {
@@ -14051,7 +14795,13 @@
     "rarity": 8,
     "price": 5320,
     "size": "l",
-    "maps": {}
+    "maps": {},
+    "breeding": {
+      "rank": 530,
+      "order": 38,
+      "child_eligble": false,
+      "male_probability": 50.0
+    }
   },
   {
     "id": 126,
@@ -14157,6 +14907,12 @@
     "maps": {
       "day": "/public/images/maps/081B-day.png",
       "night": "/public/images/maps/081B-night.png"
+    },
+    "breeding": {
+      "rank": 1270,
+      "order": 84,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -14185,7 +14941,7 @@
       "description": "Can be ridden. While fighting together, Neutral Pals drop more items when defeated.",
       "tech": null
     },
-    "description": "While it prefers raw meat, it always ends up eating tainted meat. This is due to its dark claws, which it uses as its weapon—it simply doesn't realize its prey got cursed.",
+    "description": "While it prefers raw meat, it always ends up eating tainted meat. This is due to its dark claws, which it uses as its weapon\u00e2\u20ac\u201dit simply doesn't realize its prey got cursed.",
     "skills": [
       {
         "level": 1,
@@ -14267,6 +15023,12 @@
     "size": "l",
     "maps": {
       "night": "/public/images/maps/084B-night.png"
+    },
+    "breeding": {
+      "rank": 670,
+      "order": 109,
+      "child_eligble": false,
+      "male_probability": 50.0
     }
   },
   {
@@ -14375,7 +15137,13 @@
     "rarity": 9,
     "price": 10380,
     "size": "xl",
-    "maps": {}
+    "maps": {},
+    "breeding": {
+      "rank": 270,
+      "order": 55,
+      "child_eligble": false,
+      "male_probability": 50.0
+    }
   },
   {
     "id": 129,
@@ -14481,16 +15249,22 @@
     "maps": {
       "day": "/public/images/maps/086B-day.png",
       "night": "/public/images/maps/086B-night.png"
+    },
+    "breeding": {
+      "rank": 840,
+      "order": 72,
+      "child_eligble": false,
+      "male_probability": 50.0
     }
   },
   {
     "id": 130,
     "key": "088B",
     "image": "/public/images/paldeck/088B.png",
-    "name": "Ice Reptyro",
-    "wiki": "https://palworld.fandom.com/wiki/Ice_Reptyro",
+    "name": "Reptyro Cryst",
+    "wiki": "https://palworld.fandom.com/wiki/Reptyro_Cryst",
     "types": ["ice", "ground"],
-    "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/2c/Ice_Reptyro_menu.png",
+    "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/09/Reptyro_Cryst_menu.png",
     "suitability": [
       {
         "type": "mining",
@@ -14589,16 +15363,22 @@
     "rarity": 7,
     "price": 7380,
     "size": "l",
-    "maps": {}
+    "maps": {},
+    "breeding": {
+      "rank": 230,
+      "order": 50,
+      "child_eligble": false,
+      "male_probability": 50.0
+    }
   },
   {
     "id": 131,
     "key": "089B",
     "image": "/public/images/paldeck/089B.png",
-    "name": "Ice Kingpaca",
-    "wiki": "https://palworld.fandom.com/wiki/Ice_Kingpaca",
+    "name": "Kingpaca Cryst",
+    "wiki": "https://palworld.fandom.com/wiki/Kingpaca_Cryst",
     "types": ["ice"],
-    "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5a/Ice_Kingpaca_menu.png",
+    "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/49/Kingpaca_Cryst_menu.png",
     "suitability": [
       {
         "type": "gathering",
@@ -14700,6 +15480,12 @@
     "maps": {
       "day": "/public/images/maps/089B-day.png",
       "night": "/public/images/maps/089B-night.png"
+    },
+    "breeding": {
+      "rank": 440,
+      "order": 111,
+      "child_eligble": false,
+      "male_probability": 90.0
     }
   },
   {
@@ -14816,6 +15602,12 @@
     "maps": {
       "day": "/public/images/maps/090B-day.png",
       "night": "/public/images/maps/090B-night.png"
+    },
+    "breeding": {
+      "rank": 290,
+      "order": 69,
+      "child_eligble": false,
+      "male_probability": 50.0
     }
   },
   {
@@ -14937,6 +15729,12 @@
     "maps": {
       "day": "/public/images/maps/091B-day.png",
       "night": "/public/images/maps/091B-night.png"
+    },
+    "breeding": {
+      "rank": 480,
+      "order": 88,
+      "child_eligble": true,
+      "male_probability": 50.0
     }
   },
   {
@@ -15043,6 +15841,12 @@
     "maps": {
       "day": "/public/images/maps/101B-day.png",
       "night": "/public/images/maps/101B-night.png"
+    },
+    "breeding": {
+      "rank": 315,
+      "order": 29,
+      "child_eligble": false,
+      "male_probability": 50.0
     }
   },
   {
@@ -15146,7 +15950,13 @@
     "rarity": 9,
     "price": 10110,
     "size": "xl",
-    "maps": {}
+    "maps": {},
+    "breeding": {
+      "rank": 30,
+      "order": 34,
+      "child_eligble": false,
+      "male_probability": 50.0
+    }
   },
   {
     "id": 136,
@@ -15266,6 +16076,12 @@
     "maps": {
       "day": "/public/images/maps/104B-day.png",
       "night": "/public/images/maps/104B-night.png"
+    },
+    "breeding": {
+      "rank": 210,
+      "order": 93,
+      "child_eligble": false,
+      "male_probability": 30.0
     }
   },
   {
@@ -15369,6 +16185,12 @@
     "rarity": 20,
     "price": 8560,
     "size": "l",
-    "maps": {}
+    "maps": {},
+    "breeding": {
+      "rank": 100,
+      "order": 67,
+      "child_eligble": false,
+      "male_probability": 50.0
+    }
   }
 ]

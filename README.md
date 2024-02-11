@@ -148,7 +148,13 @@ This is the first Palworld API, it's a simple API to get all Palworld Paldex dat
       "genus": "monster",
       "rarity": 8,
       "price": 10240,
-      "size": "xl"
+      "size": "xl",
+      "breeding": {
+        "rank": 280,
+        "order": 54,
+        "child_eligble": true,
+        "male_probability": 50.0
+      }
     }
   ],
   "page": 1,
@@ -159,6 +165,103 @@ This is the first Palworld API, it's a simple API to get all Palworld Paldex dat
 ```
 
 </details>
+
+## :family: Breeding
+
+The `breeding.rank` can be used to calculate the children for two parents:
+
+$$ \text{Child Rank} = \lfloor \frac{\text{ParentA Rank} + \text{ParentB Rank} + 1}{2} \rfloor $$
+
+> "The game will then pick the Pal with the closest power to that average. [...] The 'tie breaker' (since 1015 is equal distance between 1010 and 1020) just comes down to the which Pal [has the lower `breeding.order` number].
+>
+> ~ https://palworld.fandom.com/wiki/Breeding
+
+For example, if you have _Penkin_ (Breed Power = `520`) and breed it with _Vanwyrm Cryst_ (Breed Power = `620`) you get a child with a Breed Power of `570`:
+
+$$ \text{Child Rank} = \lfloor \frac{520 + 620 + 1}{2} \rfloor = 570 $$
+
+The pal with the nearest distance to 570 is Anubis, so if you breed _Penkin_ with _Vanwym Cryst_ you'd get Anubis.
+Some pals can only be bred if their parents are both of the type of the offspring. This is marked by the `breeding.child_eligble` flag.
+
+<details>
+<summary>There are a few special cases, however:</summary>
+
+```py
+    # Relaxaurus + Sparkit = Relaxaurus Lux
+    "085+007": "085B",
+    # Arsox + Broncherry = Kitsun
+    "042+086": "061",
+    # Direhowl + Gumoss = Maraith
+    "026+013": "066",
+    # Jormuntide + Shadowbeak = Helzephyr
+    "101+107": "097",
+    # Helzephyr + Shadowbeak = Cryolinx
+    "097+107": "083",
+    # Suzaku + Relaxaurus = Astegon
+    "102+085": "098",
+    # Penking + Bushi = Anubis
+    "011+072": "100",
+    # Incineram + Maraith = Incineram Noct
+    "040+066": "040B",
+    # Mau + Pengullet = Mau Cryst
+    "024+010": "024B",
+    # Vanwyrm + Foxcicle = Vanwyrm Cryst
+    "071+057": "071B",
+    # Eikthyrdeer + Hangyu = Eikthyrdeer Terra
+    "037+032": "037B",
+    # Elphidran + Surfent = Elphidran Aqua
+    "080+065": "080B",
+    # Pyrin + Katress = Pyrin Noct
+    "058+075": "058B",
+    # Mammorest + Wumpo = Mammorest Cryst
+    "090+091": "090B",
+    # Mossanda + Grizzbolt = Mossanda Lux
+    "033+103": "033B",
+    # Dinossom + Rayhound = Dinossom Lux
+    "064+060": "064B",
+    # Jolthog + Pengullet = Jolthog Cryst
+    "012+010": "012B",
+    # Frostallion + Helzephyr = Frostallion Noct
+    "110+097": "110B",
+    # Kingpaca + Reindrix = Kingpaca Cryst
+    "089+059": "089B",
+    # Lyleen + Menasting = Lyleen Noct
+    "104+099": "104B",
+    # Leezpunk + Flambelle = Leezpunk Ignis
+    "045+070": "045B",
+    # Blazehowl + Felbat = Blazehowl Noct
+    "084+094": "084B",
+    # Robinquill + Fuddler = Robinquill Terra
+    "048+022": "048B",
+    # Broncherry + Fuack = Broncherry Aqua
+    "086+006": "086B",
+    # Surfent + Dumud = Surfent Terra
+    "065+043": "065B",
+    # Gobfin + Rooby = Gobfin Ignis
+    "031+009": "031B",
+    # Suzaku + Jormuntide = Suzaku Aqua
+    "102+101": "102B",
+    # Reptyro + Foxcicle = Reptyro Cryst
+    "088+057": "088B",
+    # Hangyu + Swee = Hangyu Cryst
+    "032+053": "032B",
+    # Mossanda + Petallia = Lyleen
+    "033+087": "104",
+    # Vanwyrm + Anubis = Faleris
+    "071+100": "105",
+    # Mossanda + Rayhound = Grizzbolt
+    "033+060": "103",
+    # Grizzbolt + Relaxaurus = Orserk
+    "103+085": "106",
+    # Kitsun + Astegon = Shadowbeak
+    "061+098": "107",
+    # Bushi + Arsox = Blazehowl
+    "072+042": "084",
+```
+
+</details>
+
+The breeding power data was taken from [@dini.rfl's Google Docs Sheet](https://docs.google.com/spreadsheets/u/1/d/1YgPc11dgdBUC8jXNp01b7gI6jNHoBRQGwrY_V6lXMgQ/htmlview?usp=sharing)
 
 ## :computer: Technologies
 
@@ -290,7 +393,7 @@ Made with 💙 by Victor Eyer :wave: [Get in touch!](https://www.linkedin.com/in
 
 This project was created using `bun init` in bun v1.0.25. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
 
-## Contributions
+## :wrench: Projects that make use of palworld-paldex-api
 
 - [Discord Bot Using this API](https://github.com/nibalizer/palbot-rs/)
 - [Mobile APP - PalPad](https://github.com/Juanvic/PalPad)
