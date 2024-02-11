@@ -1,5 +1,5 @@
-import type { IPal } from "../../common/interfaces";
-import * as elasticurnService from "../../services";
+import type { IPal } from "@interfaces/index";
+import { elasticurnService } from "@services/index";
 
 interface IFilter {
   name?: string;

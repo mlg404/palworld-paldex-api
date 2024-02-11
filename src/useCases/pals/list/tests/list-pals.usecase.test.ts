@@ -1,9 +1,8 @@
+import { SuitabilitiesEnum } from "@enums/index";
 import { describe, expect, test } from "bun:test";
+import { execute as getPalPage } from "../list-pals.usecase";
 
-import { SuitabilitiesEnum } from "../../../common/enums";
-import { execute as getPalPage } from "../index-pals.usecase";
-
-describe("IndexPalsUseCase", () => {
+describe("ListPalsUseCase", () => {
   test("should return a page of pals", async () => {
     const result = getPalPage({});
     expect(result).toMatchObject({

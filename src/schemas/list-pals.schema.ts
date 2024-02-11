@@ -1,6 +1,6 @@
 import { t } from "elysia";
 
-export const queryIndexPals = t.Object({
+export const queryListPals = t.Object({
   page: t.Optional(t.Numeric()),
   limit: t.Optional(t.Numeric()),
 

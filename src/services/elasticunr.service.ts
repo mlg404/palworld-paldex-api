@@ -21,8 +21,11 @@ pals.forEach((pal) => {
   });
 });
 
-export const execute = (query?: string) => {
+const execute = (query?: string) => {
   if (!query) return pals;
   const result = search.search(query);
   return pals.filter((pal) => result.some((item) => +item.ref === pal.id));
 };
+
+// export to import as elasticurnService
+export const elasticurnService = { execute };

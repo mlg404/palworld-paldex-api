@@ -1,1 +1,1 @@
-export * from "./index-pals.schema";
+export * from "./list-pals.schema";

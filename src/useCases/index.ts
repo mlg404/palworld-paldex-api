@@ -1,1 +1,1 @@
-export * from "./index-pals";
+export * from "./pals";

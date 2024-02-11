@@ -17,6 +17,12 @@
     "skipLibCheck": true,
     "strict": true,
     "noFallthroughCasesInSwitch": true,
-    "forceConsistentCasingInFileNames": true
+    "forceConsistentCasingInFileNames": true,
+
+    "paths": {
+      "@interfaces/*": ["./src/common/interfaces/*"],
+      "@enums/*": ["./src/common/enums/*"],
+      "@services/*": ["./src/services/*"]
+    }
   }
 }
