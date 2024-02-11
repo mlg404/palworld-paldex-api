@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Cloth Armor",
+    "status": {
+      "common": { "hp": 70, "defense": 15 },
+      "uncommon": { "hp": 91, "defense": 19 },
+      "rare": { "hp": 98, "defense": 21 },
+      "epic": { "hp": 105, "defense": 22 },
+      "legendary": { "hp": 112, "defense": 24 }
+    }
+  },
+  {
+    "name": "Tundra/Tropical Outfit",
+    "status": {
+      "common": { "hp": 70, "defense": 25 },
+      "uncommon": { "hp": 91, "defense": 32 },
+      "rare": { "hp": 98, "defense": 35 },
+      "epic": { "hp": 105, "defense": 37 },
+      "legendary": { "hp": 112, "defense": 40 }
+    }
+  },
+  {
+    "name": "Pelt Armor",
+    "status": {
+      "common": { "hp": 140, "defense": 35 },
+      "uncommon": { "hp": 182, "defense": 45 },
+      "rare": { "hp": 196, "defense": 49 },
+      "epic": { "hp": 210, "defense": 52 },
+      "legendary": { "hp": 224, "defense": 56 }
+    }
+  },
+  {
+    "name": "Feathered Hairband",
+    "status": {
+      "common": { "hp": 60, "defense": 15 },
+      "uncommon": { "hp": 78, "defense": 19 },
+      "rare": { "hp": 84, "defense": 21 },
+      "epic": { "hp": 90, "defense": 22 },
+      "legendary": { "hp": 96, "defense": 24 }
+    }
+  },
+  {
+    "name": "Hot/Cold Resistant Pelt Armor",
+    "status": {
+      "common": { "hp": 140, "defense": 45 },
+      "uncommon": { "hp": 182, "defense": 58 },
+      "rare": { "hp": 196, "defense": 63 },
+      "epic": { "hp": 210, "defense": 67 },
+      "legendary": { "hp": 224, "defense": 72 }
+    }
+  },
+  {
+    "name": "Metal Armor",
+    "status": {
+      "common": { "hp": 250, "defense": 70 },
+      "uncommon": { "hp": 325, "defense": 91 },
+      "rare": { "hp": 350, "defense": 98 },
+      "epic": { "hp": 375, "defense": 105 },
+      "legendary": { "hp": 400, "defense": 112 }
+    }
+  },
+  {
+    "name": "Metal Helmet",
+    "status": {
+      "common": { "hp": 100, "defense": 50 },
+      "uncommon": { "hp": 130, "defense": 65 },
+      "rare": { "hp": 140, "defense": 70 },
+      "epic": { "hp": 150, "defense": 75 },
+      "legendary": { "hp": 160, "defense": 80 }
+    }
+  },
+  {
+    "name": "Hot/Cold Resistant Metal Armor",
+    "status": {
+      "common": { "hp": 250, "defense": 105 },
+      "uncommon": { "hp": 325, "defense": 136 },
+      "rare": { "hp": 350, "defense": 147 },
+      "epic": { "hp": 375, "defense": 157 },
+      "legendary": { "hp": 400, "defense": 168 }
+    }
+  },
+  {
+    "name": "Refined Metal Armor",
+    "status": {
+      "common": { "hp": 500, "defense": 150 },
+      "uncommon": { "hp": 650, "defense": 195 },
+      "rare": { "hp": 700, "defense": 210 },
+      "epic": { "hp": 750, "defense": 225 },
+      "legendary": { "hp": 800, "defense": 288 }
+    }
+  },
+  {
+    "name": "Refined Metal Helmet",
+    "status": {
+      "common": { "hp": 250, "defense": 100 },
+      "uncommon": { "hp": 325, "defense": 130 },
+      "rare": { "hp": 350, "defense": 140 },
+      "epic": { "hp": 375, "defense": 150 },
+      "legendary": { "hp": 400, "defense": 160 }
+    }
+  },
+  {
+    "name": "Hot/Cold Resistant Refined Metal",
+    "status": {
+      "common": { "hp": 500, "defense": 180 },
+      "uncommon": { "hp": 650, "defense": 234 },
+      "rare": { "hp": 700, "defense": 252 },
+      "epic": { "hp": 750, "defense": 270 },
+      "legendary": { "hp": 800, "defense": 288 }
+    }
+  },
+  {
+    "name": "Pal Metal Armor",
+    "status": {
+      "common": { "hp": 750, "defense": 220 },
+      "uncommon": { "hp": 975, "defense": 286 },
+      "rare": { "hp": 1050, "defense": 308 },
+      "epic": { "hp": 1125, "defense": 330 },
+      "legendary": { "hp": 1200, "defense": 352 }
+    }
+  },
+  {
+    "name": "Pal Metal Helmet",
+    "status": {
+      "common": { "hp": 350, "defense": 150 },
+      "uncommon": { "hp": 445, "defense": 195 },
+      "rare": { "hp": 490, "defense": 210 },
+      "epic": { "hp": 525, "defense": 225 },
+      "legendary": { "hp": 560, "defense": 240 }
+    }
+  },
+  {
+    "name": "Hot/Cold Resistant Pal Metal",
+    "status": {
+      "common": { "hp": 750, "defense": 250 },
+      "uncommon": { "hp": 975, "defense": 325 },
+      "rare": { "hp": 1050, "defense": 350 },
+      "epic": { "hp": 1125, "defense": 375 },
+      "legendary": { "hp": 1200, "defense": 400 }
+    }
+  }
+]
