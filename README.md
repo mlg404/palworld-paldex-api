@@ -395,5 +395,6 @@ This project was created using `bun init` in bun v1.0.25. [Bun](https://bun.sh) 
 
 ## :wrench: Projects that make use of palworld-paldex-api
 
+- [Paldex - is a Kotlin Multiplatform app (KMM) built with Compose Multiplatform to retrieve Palworld game information](https://github.com/viethua99/Paldex)
 - [Discord Bot Using this API](https://github.com/nibalizer/palbot-rs/)
 - [Mobile APP - PalPad](https://github.com/Juanvic/PalPad)
