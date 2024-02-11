@@ -715,5 +715,5 @@
     { "name":"Frostallion Saddle", "type": "essential", "image": "/public/images/items/frostallion-saddle.png", "gold": 0, "weight": 0},
     { "name":"Paladius Saddle", "type": "essential", "image": "/public/images/items/paladius-saddle.png", "gold": 0, "weight": 0},
     { "name":"Necromus Saddle", "type": "essential", "image": "/public/images/items/necromus-saddle.png", "gold": 0, "weight": 0},
-    { "name":"Jetragon's Missile Launcher", "type": "essential", "image": "/public/images/items/jetragon-s-missile-launcher.png", "gold": 0, "weight": 0},
+    { "name":"Jetragon's Missile Launcher", "type": "essential", "image": "/public/images/items/jetragon-s-missile-launcher.png", "gold": 0, "weight": 0}
 ]
