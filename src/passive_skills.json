@@ -1,0 +1,386 @@
+{
+	"abnormal": {
+		"name": "Abnormal",
+		"positive": "10% decrease to incoming Neutral damage",
+		"negative": null,
+		"tier": 1
+	},
+	"aggressive": {
+		"name": "Aggressive",
+		"positive": "Attack +10%",
+		"negative": "Defense -10%",
+		"tier": 1
+	},
+	"artisan": {
+		"name": "Artisan",
+		"positive": "Work Speed +50%",
+		"negative": null,
+		"tier": 3
+	},
+	"blood_of_the_dragon": {
+		"name": "Blood of the Dragon",
+		"positive": "10% increase to Dragon attack damage",
+		"negative": null,
+		"tier": 1
+	},
+	"botanical_barrier": {
+		"name": "Botanical Barrier",
+		"positive": "10% decrease to incoming Grass damage",
+		"negative": null,
+		"tier": 1
+	},
+	"bottomless_stomach": {
+		"name": "Bottomless Stomach",
+		"positive": null,
+		"negative": "Hunger drops +15% faster",
+		"tier": -2
+	},
+	"brave": {
+		"name": "Brave",
+		"positive": "Attack +10%",
+		"negative": null,
+		"tier": 1
+	},
+	"brittle": {
+		"name": "Brittle",
+		"positive": null,
+		"negative": "Defense -20%",
+		"tier": -3
+	},
+	"burly_body": {
+		"name": "Burly Body",
+		"positive": "Defense +20%",
+		"negative": null,
+		"tier": 3
+	},
+	"capacitor": {
+		"name": "Capacitor",
+		"positive": "10% increase to Lightning attack damage",
+		"negative": null,
+		"tier": 1
+	},
+	"celestial_emperor": {
+		"name": "Celestial Emperor",
+		"positive": "20% increase to Normal attack damage",
+		"negative": null,
+		"tier": 3
+	},
+	"cheery": {
+		"name": "Cheery",
+		"positive": "10% decrease to incoming Dark damage",
+		"negative": null,
+		"tier": 1
+	},
+	"clumsy": {
+		"name": "Clumsy",
+		"positive": null,
+		"negative": "Work Speed -10%",
+		"tier": -1
+	},
+	"coldblooded": {
+		"name": "Coldblooded",
+		"positive": "10% increase to Ice attack damage",
+		"negative": null,
+		"tier": 1
+	},
+	"conceited": {
+		"name": "Conceited",
+		"positive": "Work Speed +10%",
+		"negative": "Defense -10%",
+		"tier": 1
+	},
+	"coward": {
+		"name": "Coward",
+		"positive": null,
+		"negative": "Attack -10%",
+		"tier": -1
+	},
+	"dainty_eater": {
+		"name": "Dainty Eater",
+		"positive": "Hunger drops 10% slower",
+		"negative": null,
+		"tier": 1
+	},
+	"destructive": {
+		"name": "Destructive",
+		"positive": null,
+		"negative": "SAN drops 15% faster",
+		"tier": -2
+	},
+	"diet_lover": {
+		"name": "Diet Lover",
+		"positive": "Decrease in Hunger is less likely by +15%",
+		"negative": null,
+		"tier": 3
+	},
+	"divine_dragon": {
+		"name": "Divine Dragon",
+		"positive": "20% increase to Dragon attack damage",
+		"negative": null,
+		"tier": 3
+	},
+	"downtrodden": {
+		"name": "Downtrodden",
+		"positive": null,
+		"negative": "Defense -10%",
+		"tier": -1
+	},
+	"dragonkiller": {
+		"name": "Dragonkiller",
+		"positive": "10% decrease to incoming Dragon damage",
+		"negative": null,
+		"tier": 1
+	},
+	"earth_emperor": {
+		"name": "Earth Emperor",
+		"positive": "20% increase to Ground attack damage",
+		"negative": null,
+		"tier": 3
+	},
+	"earthquake_resistant": {
+		"name": "Earthquake Resistant",
+		"positive": "10% decrease to incoming Ground damage",
+		"negative": null,
+		"tier": 1
+	},
+	"ferocious": {
+		"name": "Ferocious",
+		"positive": "Attack +20%",
+		"negative": null,
+		"tier": 3
+	},
+	"flame_emperor": {
+		"name": "Flame Emperor",
+		"positive": "20% increase to Fire attack damage",
+		"negative": null,
+		"tier": 3
+	},
+	"fragrant_foliage": {
+		"name": "Fragrant Foliage",
+		"positive": "10% increase to Grass attack damage",
+		"negative": null,
+		"tier": 1
+	},
+	"glutton": {
+		"name": "Glutton",
+		"positive": null,
+		"negative": "Hunger drops +10% faster",
+		"tier": -1
+	},
+	"hard_skin": {
+		"name": "Hard Skin",
+		"positive": "Defense +10%",
+		"negative": null,
+		"tier": 1
+	},
+	"heated_body": {
+		"name": "Heated Body",
+		"positive": "10% decrease to incoming Ice damage",
+		"negative": null,
+		"tier": 1
+	},
+	"hooligan": {
+		"name": "Hooligan",
+		"positive": "Attack +15%",
+		"negative": "Work Speed -10%",
+		"tier": 1
+	},
+	"hydromaniac": {
+		"name": "Hydromaniac",
+		"positive": "10% increase to Water attack damage",
+		"negative": null,
+		"tier": 1
+	},
+	"ice_emperor": {
+		"name": "Ice Emperor",
+		"positive": "20% increase to Ice attack damage",
+		"negative": null,
+		"tier": 3
+	},
+	"insulated_body": {
+		"name": "Insulated Body",
+		"positive": "10% decrease to incoming Lightning damage",
+		"negative": null,
+		"tier": 1
+	},
+	"legend": {
+		"name": "Legend",
+		"positive": "Attack +20%, Defense +20%, Movement Speed increases 15%",
+		"negative": null,
+		"tier": 3
+	},
+	"logging_foreman": {
+		"name": "Logging Foreman",
+		"positive": "25% increase to Player Logging Efficiency",
+		"negative": null,
+		"tier": 3
+	},
+	"lord_of_lightning": {
+		"name": "Lord of Lightning",
+		"positive": "20% increase to Lightning attack damage",
+		"negative": null,
+		"tier": 3
+	},
+	"lord_of_the_sea": {
+		"name": "Lord of the Sea",
+		"positive": "20% increase to Water attack damage",
+		"negative": null,
+		"tier": 0
+	},
+	"lord_of_the_underworld": {
+		"name": "Lord of the Underworld",
+		"positive": "20% increase to Dark attack damage",
+		"negative": null,
+		"tier": 3
+	},
+	"lucky": {
+		"name": "Lucky",
+		"positive": "Work Speed +15%, Attack +15%",
+		"negative": null,
+		"tier": 3
+	},
+	"masochist": {
+		"name": "Masochist",
+		"positive": "Defense +15%",
+		"negative": "Attack -15%",
+		"tier": 1
+	},
+	"mine_foreman": {
+		"name": "Mine Foreman",
+		"positive": "25% increase to Player Mining Efficiency",
+		"negative": null,
+		"tier": 3
+	},
+	"motivational_leader": {
+		"name": "Motivational Leader",
+		"positive": "25% increase to Player Work Speed",
+		"negative": null,
+		"tier": 3
+	},
+	"musclehead": {
+		"name": "Musclehead",
+		"positive": "Attack +30%",
+		"negative": "Work Speed -50%",
+		"tier": 2
+	},
+	"nimble": {
+		"name": "Nimble",
+		"positive": "10% increase to Movement Speed",
+		"negative": null,
+		"tier": 1
+	},
+	"pacifist": {
+		"name": "Pacifist",
+		"positive": null,
+		"negative": "Attack -20%",
+		"tier": -3
+	},
+	"positive_thinker": {
+		"name": "Positive Thinker",
+		"positive": "SAN drops +10% slower",
+		"negative": null,
+		"tier": 1
+	},
+	"power_of_gaia": {
+		"name": "Power of Gaia",
+		"positive": "10% increase to Earth attack damage",
+		"negative": null,
+		"tier": 1
+	},
+	"pyromaniac": {
+		"name": "Pyromaniac",
+		"positive": "10% increase to Fire attack damage",
+		"negative": null,
+		"tier": 1
+	},
+	"runner": {
+		"name": "Runner",
+		"positive": "20% increase to Movement Speed",
+		"negative": null,
+		"tier": 2
+	},
+	"sadist": {
+		"name": "Sadist",
+		"positive": "Attack +15%",
+		"negative": "Defense -15%",
+		"tier": 1
+	},
+	"serious": {
+		"name": "Serious",
+		"positive": "Work Speed +20%",
+		"negative": null,
+		"tier": 2
+	},
+	"slacker": {
+		"name": "Slacker",
+		"positive": null,
+		"negative": "Work Speed -30%",
+		"tier": -3
+	},
+	"spirit_emperor": {
+		"name": "Spirit Emperor",
+		"positive": "20% increase to Grass attack damage",
+		"negative": null,
+		"tier": 3
+	},
+	"stronghold_strategist": {
+		"name": "Stronghold Strategist",
+		"positive": "10% increase to Player Defense",
+		"negative": null,
+		"tier": 3
+	},
+	"suntan_lover": {
+		"name": "Suntan Lover",
+		"positive": "10% decrease to incoming Fire damage",
+		"negative": null,
+		"tier": 1
+	},
+	"swift": {
+		"name": "Swift",
+		"positive": "30% increase to movement speed",
+		"negative": null,
+		"tier": 3
+	},
+	"unstable": {
+		"name": "Unstable",
+		"positive": null,
+		"negative": "SAN drops +10% faster",
+		"tier": -1
+	},
+	"vanguard": {
+		"name": "Vanguard",
+		"positive": "10% increase to Player Attack",
+		"negative": null,
+		"tier": 3
+	},
+	"veil_of_darkness": {
+		"name": "Veil of Darkness",
+		"positive": "10% increase to Dark attack damage",
+		"negative": null,
+		"tier": 1
+	},
+	"waterproof": {
+		"name": "Waterproof",
+		"positive": "10% decrease to incoming Water damage",
+		"negative": null,
+		"tier": 1
+	},
+	"work_slave": {
+		"name": "Work Slave",
+		"positive": "Work Speed +30%",
+		"negative": "Attack -30%",
+		"tier": 1
+	},
+	"workaholic": {
+		"name": "Workaholic",
+		"positive": "SAN drops +15% slower",
+		"negative": null,
+		"tier": 3
+	},
+	"zen_mind": {
+		"name": "Zen Mind",
+		"positive": "10% increase to Neutral attack damage",
+		"negative": null,
+		"tier": 1
+	}
+}
