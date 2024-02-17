@@ -5,7 +5,12 @@
     "image": "/public/images/paldeck/001.png",
     "name": "Lamball",
     "wiki": "https://palworld.fandom.com/wiki/Lamball",
-    "types": ["neutral"],
+    "types": [
+      {
+        "name": "neutral",
+        "image": "/public/images/elements/neutral.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/01/Lamball_menu.png/",
     "suitability": [
       {
@@ -127,7 +132,12 @@
     "image": "/public/images/paldeck/002.png",
     "name": "Cattiva",
     "wiki": "https://palworld.fandom.com/wiki/Cattiva",
-    "types": ["neutral"],
+    "types": [
+      {
+        "name": "neutral",
+        "image": "/public/images/elements/neutral.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/51/Cattiva_menu.png/",
     "suitability": [
       {
@@ -254,7 +264,12 @@
     "image": "/public/images/paldeck/003.png",
     "name": "Chikipi",
     "wiki": "https://palworld.fandom.com/wiki/Chikipi",
-    "types": ["neutral"],
+    "types": [
+      {
+        "name": "neutral",
+        "image": "/public/images/elements/neutral.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/f4/Chikipi_menu.png/",
     "suitability": [
       {
@@ -371,7 +386,12 @@
     "image": "/public/images/paldeck/004.png",
     "name": "Lifmunk",
     "wiki": "https://palworld.fandom.com/wiki/Lifmunk",
-    "types": ["grass"],
+    "types": [
+      {
+        "name": "grass",
+        "image": "/public/images/elements/grass.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/dc/Lifmunk_menu.png/",
     "suitability": [
       {
@@ -503,7 +523,12 @@
     "image": "/public/images/paldeck/005.png",
     "name": "Foxparks",
     "wiki": "https://palworld.fandom.com/wiki/Foxparks",
-    "types": ["fire"],
+    "types": [
+      {
+        "name": "fire",
+        "image": "/public/images/elements/fire.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/d7/Foxparks_menu.png/",
     "suitability": [
       {
@@ -615,7 +640,12 @@
     "image": "/public/images/paldeck/006.png",
     "name": "Fuack",
     "wiki": "https://palworld.fandom.com/wiki/Fuack",
-    "types": ["water"],
+    "types": [
+      {
+        "name": "water",
+        "image": "/public/images/elements/water.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fuack_menu.png/",
     "suitability": [
       {
@@ -737,7 +767,12 @@
     "image": "/public/images/paldeck/007.png",
     "name": "Sparkit",
     "wiki": "https://palworld.fandom.com/wiki/Sparkit",
-    "types": ["electric"],
+    "types": [
+      {
+        "name": "electric",
+        "image": "/public/images/elements/electric.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/c/ce/Sparkit_menu.png/",
     "suitability": [
       {
@@ -859,7 +894,12 @@
     "image": "/public/images/paldeck/008.png",
     "name": "Tanzee",
     "wiki": "https://palworld.fandom.com/wiki/Tanzee",
-    "types": ["grass"],
+    "types": [
+      {
+        "name": "grass",
+        "image": "/public/images/elements/grass.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/40/Tanzee_menu.png/",
     "suitability": [
       {
@@ -991,7 +1031,12 @@
     "image": "/public/images/paldeck/009.png",
     "name": "Rooby",
     "wiki": "https://palworld.fandom.com/wiki/Rooby",
-    "types": ["fire"],
+    "types": [
+      {
+        "name": "fire",
+        "image": "/public/images/elements/fire.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/21/Rooby_menu.png/",
     "suitability": [
       {
@@ -1103,7 +1148,16 @@
     "image": "/public/images/paldeck/010.png",
     "name": "Pengullet",
     "wiki": "https://palworld.fandom.com/wiki/Pengullet",
-    "types": ["water", "ice"],
+    "types": [
+      {
+        "name": "water",
+        "image": "/public/images/elements/water.png"
+      },
+      {
+        "name": "ice",
+        "image": "/public/images/elements/ice.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/38/Pengullet_menu.png/",
     "suitability": [
       {
@@ -1230,7 +1284,16 @@
     "image": "/public/images/paldeck/011.png",
     "name": "Penking",
     "wiki": "https://palworld.fandom.com/wiki/Penking",
-    "types": ["water", "ice"],
+    "types": [
+      {
+        "name": "water",
+        "image": "/public/images/elements/water.png"
+      },
+      {
+        "name": "ice",
+        "image": "/public/images/elements/ice.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/b5/Penking_menu.png/",
     "suitability": [
       {
@@ -1362,7 +1425,12 @@
     "image": "/public/images/paldeck/012.png",
     "name": "Jolthog",
     "wiki": "https://palworld.fandom.com/wiki/Jolthog",
-    "types": ["electric"],
+    "types": [
+      {
+        "name": "electric",
+        "image": "/public/images/elements/electric.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/52/Jolthog_menu.png/",
     "suitability": [
       {
@@ -1474,7 +1542,16 @@
     "image": "/public/images/paldeck/013.png",
     "name": "Gumoss",
     "wiki": "https://palworld.fandom.com/wiki/Gumoss",
-    "types": ["grass", "ground"],
+    "types": [
+      {
+        "name": "grass",
+        "image": "/public/images/elements/grass.png"
+      },
+      {
+        "name": "ground",
+        "image": "/public/images/elements/ground.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/2e/Gumoss_menu.png/",
     "suitability": [
       {
@@ -1586,7 +1663,12 @@
     "image": "/public/images/paldeck/014.png",
     "name": "Vixy",
     "wiki": "https://palworld.fandom.com/wiki/Vixy",
-    "types": ["neutral"],
+    "types": [
+      {
+        "name": "neutral",
+        "image": "/public/images/elements/neutral.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/9e/Vixy_menu.png/",
     "suitability": [
       {
@@ -1703,7 +1785,12 @@
     "image": "/public/images/paldeck/015.png",
     "name": "Hoocrates",
     "wiki": "https://palworld.fandom.com/wiki/Hoocrates",
-    "types": ["dark"],
+    "types": [
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/ef/Hoocrates_menu.png/",
     "suitability": [
       {
@@ -1814,7 +1901,12 @@
     "image": "/public/images/paldeck/016.png",
     "name": "Teafant",
     "wiki": "https://palworld.fandom.com/wiki/Teafant",
-    "types": ["water"],
+    "types": [
+      {
+        "name": "water",
+        "image": "/public/images/elements/water.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a7/Teafant_menu.png/",
     "suitability": [
       {
@@ -1926,7 +2018,12 @@
     "image": "/public/images/paldeck/017.png",
     "name": "Depresso",
     "wiki": "https://palworld.fandom.com/wiki/Depresso",
-    "types": ["dark"],
+    "types": [
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/d9/Depresso_menu.png/",
     "suitability": [
       {
@@ -2047,7 +2144,12 @@
     "image": "/public/images/paldeck/018.png",
     "name": "Cremis",
     "wiki": "https://palworld.fandom.com/wiki/Cremis",
-    "types": ["neutral"],
+    "types": [
+      {
+        "name": "neutral",
+        "image": "/public/images/elements/neutral.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a1/Cremis_menu.png/",
     "suitability": [
       {
@@ -2163,7 +2265,12 @@
     "image": "/public/images/paldeck/019.png",
     "name": "Daedream",
     "wiki": "https://palworld.fandom.com/wiki/Daedream",
-    "types": ["dark"],
+    "types": [
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/e6/Daedream_menu.png/",
     "suitability": [
       {
@@ -2284,7 +2391,12 @@
     "image": "/public/images/paldeck/020.png",
     "name": "Rushoar",
     "wiki": "https://palworld.fandom.com/wiki/Rushoar",
-    "types": ["ground"],
+    "types": [
+      {
+        "name": "ground",
+        "image": "/public/images/elements/ground.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/d0/Rushoar_menu.png/",
     "suitability": [
       {
@@ -2396,7 +2508,12 @@
     "image": "/public/images/paldeck/021.png",
     "name": "Nox",
     "wiki": "https://palworld.fandom.com/wiki/Nox",
-    "types": ["dark"],
+    "types": [
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/55/Nox_menu.png/",
     "suitability": [
       {
@@ -2507,7 +2624,12 @@
     "image": "/public/images/paldeck/022.png",
     "name": "Fuddler",
     "wiki": "https://palworld.fandom.com/wiki/Fuddler",
-    "types": ["ground"],
+    "types": [
+      {
+        "name": "ground",
+        "image": "/public/images/elements/ground.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/64/Fuddler_menu.png/",
     "suitability": [
       {
@@ -2629,7 +2751,12 @@
     "image": "/public/images/paldeck/023.png",
     "name": "Killamari",
     "wiki": "https://palworld.fandom.com/wiki/Killamari",
-    "types": ["dark"],
+    "types": [
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/8/80/Killamari_menu.png/",
     "suitability": [
       {
@@ -2743,7 +2870,12 @@
     "image": "/public/images/paldeck/024.png",
     "name": "Mau",
     "wiki": "https://palworld.fandom.com/wiki/Mau",
-    "types": ["dark"],
+    "types": [
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/17/Mau_menu.png/",
     "suitability": [
       {
@@ -2852,7 +2984,12 @@
     "image": "/public/images/paldeck/025.png",
     "name": "Celaray",
     "wiki": "https://palworld.fandom.com/wiki/Celaray",
-    "types": ["water"],
+    "types": [
+      {
+        "name": "water",
+        "image": "/public/images/elements/water.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/95/Celaray_menu.png/",
     "suitability": [
       {
@@ -2969,7 +3106,12 @@
     "image": "/public/images/paldeck/026.png",
     "name": "Direhowl",
     "wiki": "https://palworld.fandom.com/wiki/Direhowl",
-    "types": ["neutral"],
+    "types": [
+      {
+        "name": "neutral",
+        "image": "/public/images/elements/neutral.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/19/Direhowl_menu.png/",
     "suitability": [
       {
@@ -3081,7 +3223,12 @@
     "image": "/public/images/paldeck/027.png",
     "name": "Tocotoco",
     "wiki": "https://palworld.fandom.com/wiki/Tocotoco",
-    "types": ["neutral"],
+    "types": [
+      {
+        "name": "neutral",
+        "image": "/public/images/elements/neutral.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5b/Tocotoco_menu.png/",
     "suitability": [
       {
@@ -3193,7 +3340,12 @@
     "image": "/public/images/paldeck/028.png",
     "name": "Flopie",
     "wiki": "https://palworld.fandom.com/wiki/Flopie",
-    "types": ["grass"],
+    "types": [
+      {
+        "name": "grass",
+        "image": "/public/images/elements/grass.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5e/Flopie_menu.png/",
     "suitability": [
       {
@@ -3325,7 +3477,12 @@
     "image": "/public/images/paldeck/029.png",
     "name": "Mozzarina",
     "wiki": "https://palworld.fandom.com/wiki/Mozzarina",
-    "types": ["neutral"],
+    "types": [
+      {
+        "name": "neutral",
+        "image": "/public/images/elements/neutral.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/3a/Mozzarina_menu.png/",
     "suitability": [
       {
@@ -3437,7 +3594,12 @@
     "image": "/public/images/paldeck/030.png",
     "name": "Bristla",
     "wiki": "https://palworld.fandom.com/wiki/Bristla",
-    "types": ["grass"],
+    "types": [
+      {
+        "name": "grass",
+        "image": "/public/images/elements/grass.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/13/Bristla_menu.png/",
     "suitability": [
       {
@@ -3569,7 +3731,12 @@
     "image": "/public/images/paldeck/031.png",
     "name": "Gobfin",
     "wiki": "https://palworld.fandom.com/wiki/Gobfin",
-    "types": ["water"],
+    "types": [
+      {
+        "name": "water",
+        "image": "/public/images/elements/water.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/ff/Gobfin_menu.png/",
     "suitability": [
       {
@@ -3691,7 +3858,12 @@
     "image": "/public/images/paldeck/032.png",
     "name": "Hangyu",
     "wiki": "https://palworld.fandom.com/wiki/Hangyu",
-    "types": ["ground"],
+    "types": [
+      {
+        "name": "ground",
+        "image": "/public/images/elements/ground.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/08/Hangyu_menu.png/",
     "suitability": [
       {
@@ -3813,7 +3985,12 @@
     "image": "/public/images/paldeck/033.png",
     "name": "Mossanda",
     "wiki": "https://palworld.fandom.com/wiki/Mossanda",
-    "types": ["grass"],
+    "types": [
+      {
+        "name": "grass",
+        "image": "/public/images/elements/grass.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/db/Mossanda_menu.png/",
     "suitability": [
       {
@@ -3940,7 +4117,12 @@
     "image": "/public/images/paldeck/034.png",
     "name": "Woolipop",
     "wiki": "https://palworld.fandom.com/wiki/Woolipop",
-    "types": ["neutral"],
+    "types": [
+      {
+        "name": "neutral",
+        "image": "/public/images/elements/neutral.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/fa/Woolipop_menu.png/",
     "suitability": [
       {
@@ -4052,7 +4234,12 @@
     "image": "/public/images/paldeck/035.png",
     "name": "Caprity",
     "wiki": "https://palworld.fandom.com/wiki/Caprity",
-    "types": ["grass"],
+    "types": [
+      {
+        "name": "grass",
+        "image": "/public/images/elements/grass.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a7/Caprity_menu.png/",
     "suitability": [
       {
@@ -4169,7 +4356,12 @@
     "image": "/public/images/paldeck/036.png",
     "name": "Melpaca",
     "wiki": "https://palworld.fandom.com/wiki/Melpaca",
-    "types": ["neutral"],
+    "types": [
+      {
+        "name": "neutral",
+        "image": "/public/images/elements/neutral.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/7f/Melpaca_menu.png/",
     "suitability": [
       {
@@ -4281,7 +4473,12 @@
     "image": "/public/images/paldeck/037.png",
     "name": "Eikthyrdeer",
     "wiki": "https://palworld.fandom.com/wiki/Eikthyrdeer",
-    "types": ["neutral"],
+    "types": [
+      {
+        "name": "neutral",
+        "image": "/public/images/elements/neutral.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/40/Eikthyrdeer_menu.png/",
     "suitability": [
       {
@@ -4393,7 +4590,12 @@
     "image": "/public/images/paldeck/038.png",
     "name": "Nitewing",
     "wiki": "https://palworld.fandom.com/wiki/Nitewing",
-    "types": ["neutral"],
+    "types": [
+      {
+        "name": "neutral",
+        "image": "/public/images/elements/neutral.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/34/Nitewing_menu.png/",
     "suitability": [
       {
@@ -4505,7 +4707,12 @@
     "image": "/public/images/paldeck/039.png",
     "name": "Ribbuny",
     "wiki": "https://palworld.fandom.com/wiki/Ribbuny",
-    "types": ["neutral"],
+    "types": [
+      {
+        "name": "neutral",
+        "image": "/public/images/elements/neutral.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/7e/Ribbuny_menu.png/",
     "suitability": [
       {
@@ -4627,7 +4834,16 @@
     "image": "/public/images/paldeck/040.png",
     "name": "Incineram",
     "wiki": "https://palworld.fandom.com/wiki/Incineram",
-    "types": ["fire", "dark"],
+    "types": [
+      {
+        "name": "fire",
+        "image": "/public/images/elements/fire.png"
+      },
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/40/Incineram_menu.png/",
     "suitability": [
       {
@@ -4754,7 +4970,12 @@
     "image": "/public/images/paldeck/041.png",
     "name": "Cinnamoth",
     "wiki": "https://palworld.fandom.com/wiki/Cinnamoth",
-    "types": ["grass"],
+    "types": [
+      {
+        "name": "grass",
+        "image": "/public/images/elements/grass.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/7e/Cinnamoth_menu.png/",
     "suitability": [
       {
@@ -4871,7 +5092,12 @@
     "image": "/public/images/paldeck/042.png",
     "name": "Arsox",
     "wiki": "https://palworld.fandom.com/wiki/Arsox",
-    "types": ["fire"],
+    "types": [
+      {
+        "name": "fire",
+        "image": "/public/images/elements/fire.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/f5/Arsox_menu.png/",
     "suitability": [
       {
@@ -4988,7 +5214,12 @@
     "image": "/public/images/paldeck/043.png",
     "name": "Dumud",
     "wiki": "https://palworld.fandom.com/wiki/Dumud",
-    "types": ["ground"],
+    "types": [
+      {
+        "name": "ground",
+        "image": "/public/images/elements/ground.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/32/Dumud_menu.png/",
     "suitability": [
       {
@@ -5053,7 +5284,12 @@
     "image": "/public/images/paldeck/044.png",
     "name": "Cawgnito",
     "wiki": "https://palworld.fandom.com/wiki/Cawgnito",
-    "types": ["dark"],
+    "types": [
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/f6/Cawgnito_menu.png/",
     "suitability": [
       {
@@ -5164,7 +5400,12 @@
     "image": "/public/images/paldeck/045.png",
     "name": "Leezpunk",
     "wiki": "https://palworld.fandom.com/wiki/Leezpunk",
-    "types": ["dark"],
+    "types": [
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/09/Leezpunk_menu.png/",
     "suitability": [
       {
@@ -5286,7 +5527,12 @@
     "image": "/public/images/paldeck/046.png",
     "name": "Loupmoon",
     "wiki": "https://palworld.fandom.com/wiki/Loupmoon",
-    "types": ["dark"],
+    "types": [
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/00/Loupmoon_menu.png/",
     "suitability": [
       {
@@ -5397,7 +5643,12 @@
     "image": "/public/images/paldeck/047.png",
     "name": "Galeclaw",
     "wiki": "https://palworld.fandom.com/wiki/Galeclaw",
-    "types": ["neutral"],
+    "types": [
+      {
+        "name": "neutral",
+        "image": "/public/images/elements/neutral.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/08/Galeclaw_menu.png/",
     "suitability": [
       {
@@ -5509,7 +5760,12 @@
     "image": "/public/images/paldeck/048.png",
     "name": "Robinquill",
     "wiki": "https://palworld.fandom.com/wiki/Robinquill",
-    "types": ["grass"],
+    "types": [
+      {
+        "name": "grass",
+        "image": "/public/images/elements/grass.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/bb/Robinquill_menu.png/",
     "suitability": [
       {
@@ -5646,7 +5902,12 @@
     "image": "/public/images/paldeck/049.png",
     "name": "Gorirat",
     "wiki": "https://palworld.fandom.com/wiki/Gorirat",
-    "types": ["neutral"],
+    "types": [
+      {
+        "name": "neutral",
+        "image": "/public/images/elements/neutral.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/b5/Gorirat_menu.png/",
     "suitability": [
       {
@@ -5768,7 +6029,12 @@
     "image": "/public/images/paldeck/050.png",
     "name": "Beegarde",
     "wiki": "https://palworld.fandom.com/wiki/Beegarde",
-    "types": ["grass"],
+    "types": [
+      {
+        "name": "grass",
+        "image": "/public/images/elements/grass.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/7b/Beegarde_menu.png/",
     "suitability": [
       {
@@ -5910,7 +6176,12 @@
     "image": "/public/images/paldeck/051.png",
     "name": "Elizabee",
     "wiki": "https://palworld.fandom.com/wiki/Elizabee",
-    "types": ["grass"],
+    "types": [
+      {
+        "name": "grass",
+        "image": "/public/images/elements/grass.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a0/Elizabee_menu.png/",
     "suitability": [
       {
@@ -6042,7 +6313,12 @@
     "image": "/public/images/paldeck/052.png",
     "name": "Grintale",
     "wiki": "https://palworld.fandom.com/wiki/Grintale",
-    "types": ["neutral"],
+    "types": [
+      {
+        "name": "neutral",
+        "image": "/public/images/elements/neutral.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/c/c3/Grintale_menu.png/",
     "suitability": [
       {
@@ -6154,7 +6430,12 @@
     "image": "/public/images/paldeck/053.png",
     "name": "Swee",
     "wiki": "https://palworld.fandom.com/wiki/Swee",
-    "types": ["ice"],
+    "types": [
+      {
+        "name": "ice",
+        "image": "/public/images/elements/ice.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/b5/Swee_menu.png/",
     "suitability": [
       {
@@ -6271,7 +6552,12 @@
     "image": "/public/images/paldeck/054.png",
     "name": "Sweepa",
     "wiki": "https://palworld.fandom.com/wiki/Sweepa",
-    "types": ["ice"],
+    "types": [
+      {
+        "name": "ice",
+        "image": "/public/images/elements/ice.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/f3/Sweepa_menu.png/",
     "suitability": [
       {
@@ -6388,7 +6674,16 @@
     "image": "/public/images/paldeck/055.png",
     "name": "Chillet",
     "wiki": "https://palworld.fandom.com/wiki/Chillet",
-    "types": ["ice", "dragon"],
+    "types": [
+      {
+        "name": "ice",
+        "image": "/public/images/elements/ice.png"
+      },
+      {
+        "name": "dragon",
+        "image": "/public/images/elements/dragon.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/49/Chillet_menu.png/",
     "suitability": [
       {
@@ -6505,7 +6800,12 @@
     "image": "/public/images/paldeck/056.png",
     "name": "Univolt",
     "wiki": "https://palworld.fandom.com/wiki/Univolt",
-    "types": ["electric"],
+    "types": [
+      {
+        "name": "electric",
+        "image": "/public/images/elements/electric.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/0e/Univolt_menu.png/",
     "suitability": [
       {
@@ -6622,7 +6922,12 @@
     "image": "/public/images/paldeck/057.png",
     "name": "Foxcicle",
     "wiki": "https://palworld.fandom.com/wiki/Foxcicle",
-    "types": ["ice"],
+    "types": [
+      {
+        "name": "ice",
+        "image": "/public/images/elements/ice.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/21/Foxcicle_menu.png/",
     "suitability": [
       {
@@ -6734,7 +7039,12 @@
     "image": "/public/images/paldeck/058.png",
     "name": "Pyrin",
     "wiki": "https://palworld.fandom.com/wiki/Pyrin",
-    "types": ["fire"],
+    "types": [
+      {
+        "name": "fire",
+        "image": "/public/images/elements/fire.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/e6/Pyrin_menu.png/",
     "suitability": [
       {
@@ -6851,7 +7161,12 @@
     "image": "/public/images/paldeck/059.png",
     "name": "Reindrix",
     "wiki": "https://palworld.fandom.com/wiki/Reindrix",
-    "types": ["ice"],
+    "types": [
+      {
+        "name": "ice",
+        "image": "/public/images/elements/ice.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/c/c1/Reindrix_menu.png/",
     "suitability": [
       {
@@ -6968,7 +7283,12 @@
     "image": "/public/images/paldeck/060.png",
     "name": "Rayhound",
     "wiki": "https://palworld.fandom.com/wiki/Rayhound",
-    "types": ["electric"],
+    "types": [
+      {
+        "name": "electric",
+        "image": "/public/images/elements/electric.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/3f/Rayhound_menu.png/",
     "suitability": [
       {
@@ -7080,7 +7400,12 @@
     "image": "/public/images/paldeck/061.png",
     "name": "Kitsun",
     "wiki": "https://palworld.fandom.com/wiki/Kitsun",
-    "types": ["fire"],
+    "types": [
+      {
+        "name": "fire",
+        "image": "/public/images/elements/fire.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/6b/Kitsun_menu.png/",
     "suitability": [
       {
@@ -7191,7 +7516,12 @@
     "image": "/public/images/paldeck/062.png",
     "name": "Dazzi",
     "wiki": "https://palworld.fandom.com/wiki/Dazzi",
-    "types": ["electric"],
+    "types": [
+      {
+        "name": "electric",
+        "image": "/public/images/elements/electric.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/b0/Dazzi_menu.png/",
     "suitability": [
       {
@@ -7313,7 +7643,12 @@
     "image": "/public/images/paldeck/063.png",
     "name": "Lunaris",
     "wiki": "https://palworld.fandom.com/wiki/Lunaris",
-    "types": ["neutral"],
+    "types": [
+      {
+        "name": "neutral",
+        "image": "/public/images/elements/neutral.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/38/Lunaris_menu.png/",
     "suitability": [
       {
@@ -7432,7 +7767,16 @@
     "image": "/public/images/paldeck/064.png",
     "name": "Dinossom",
     "wiki": "https://palworld.fandom.com/wiki/Dinossom",
-    "types": ["grass", "dragon"],
+    "types": [
+      {
+        "name": "grass",
+        "image": "/public/images/elements/grass.png"
+      },
+      {
+        "name": "dragon",
+        "image": "/public/images/elements/dragon.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/b7/Dinossom_menu.png/",
     "suitability": [
       {
@@ -7549,7 +7893,12 @@
     "image": "/public/images/paldeck/065.png",
     "name": "Surfent",
     "wiki": "https://palworld.fandom.com/wiki/Surfent",
-    "types": ["water"],
+    "types": [
+      {
+        "name": "water",
+        "image": "/public/images/elements/water.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/1d/Surfent_menu.png/",
     "suitability": [
       {
@@ -7661,7 +8010,12 @@
     "image": "/public/images/paldeck/066.png",
     "name": "Maraith",
     "wiki": "https://palworld.fandom.com/wiki/Maraith",
-    "types": ["dark"],
+    "types": [
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/32/Maraith_menu.png/",
     "suitability": [
       {
@@ -7777,7 +8131,12 @@
     "image": "/public/images/paldeck/067.png",
     "name": "Digtoise",
     "wiki": "https://palworld.fandom.com/wiki/Digtoise",
-    "types": ["ground"],
+    "types": [
+      {
+        "name": "ground",
+        "image": "/public/images/elements/ground.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5b/Digtoise_menu.png/",
     "suitability": [
       {
@@ -7889,7 +8248,12 @@
     "image": "/public/images/paldeck/068.png",
     "name": "Tombat",
     "wiki": "https://palworld.fandom.com/wiki/Tombat",
-    "types": ["dark"],
+    "types": [
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/f2/Tombat_menu.png/",
     "suitability": [
       {
@@ -8010,7 +8374,12 @@
     "image": "/public/images/paldeck/069.png",
     "name": "Lovander",
     "wiki": "https://palworld.fandom.com/wiki/Lovander",
-    "types": ["neutral"],
+    "types": [
+      {
+        "name": "neutral",
+        "image": "/public/images/elements/neutral.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/c/c8/Lovander_menu.png/",
     "suitability": [
       {
@@ -8136,7 +8505,12 @@
     "image": "/public/images/paldeck/070.png",
     "name": "Flambelle",
     "wiki": "https://palworld.fandom.com/wiki/Flambelle",
-    "types": ["fire"],
+    "types": [
+      {
+        "name": "fire",
+        "image": "/public/images/elements/fire.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/20/Flambelle_menu.png/",
     "suitability": [
       {
@@ -8263,7 +8637,16 @@
     "image": "/public/images/paldeck/071.png",
     "name": "Vanwyrm",
     "wiki": "https://palworld.fandom.com/wiki/Vanwyrm",
-    "types": ["fire", "dark"],
+    "types": [
+      {
+        "name": "fire",
+        "image": "/public/images/elements/fire.png"
+      },
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/ea/Vanwyrm_menu.png/",
     "suitability": [
       {
@@ -8380,7 +8763,12 @@
     "image": "/public/images/paldeck/072.png",
     "name": "Bushi",
     "wiki": "https://palworld.fandom.com/wiki/Bushi",
-    "types": ["fire"],
+    "types": [
+      {
+        "name": "fire",
+        "image": "/public/images/elements/fire.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/73/Bushi_menu.png/",
     "suitability": [
       {
@@ -8512,7 +8900,12 @@
     "image": "/public/images/paldeck/073.png",
     "name": "Beakon",
     "wiki": "https://palworld.fandom.com/wiki/Beakon",
-    "types": ["electric"],
+    "types": [
+      {
+        "name": "electric",
+        "image": "/public/images/elements/electric.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a0/Beakon_menu.png/",
     "suitability": [
       {
@@ -8634,7 +9027,12 @@
     "image": "/public/images/paldeck/074.png",
     "name": "Ragnahawk",
     "wiki": "https://palworld.fandom.com/wiki/Ragnahawk",
-    "types": ["fire"],
+    "types": [
+      {
+        "name": "fire",
+        "image": "/public/images/elements/fire.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/dd/Ragnahawk_menu.png/",
     "suitability": [
       {
@@ -8751,7 +9149,12 @@
     "image": "/public/images/paldeck/075.png",
     "name": "Katress",
     "wiki": "https://palworld.fandom.com/wiki/Katress",
-    "types": ["dark"],
+    "types": [
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/9e/Katress_menu.png/",
     "suitability": [
       {
@@ -8872,7 +9275,12 @@
     "image": "/public/images/paldeck/076.png",
     "name": "Wixen",
     "wiki": "https://palworld.fandom.com/wiki/Wixen",
-    "types": ["fire"],
+    "types": [
+      {
+        "name": "fire",
+        "image": "/public/images/elements/fire.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/8/85/Wixen_menu.png/",
     "suitability": [
       {
@@ -8994,7 +9402,12 @@
     "image": "/public/images/paldeck/077.png",
     "name": "Verdash",
     "wiki": "https://palworld.fandom.com/wiki/Verdash",
-    "types": ["grass"],
+    "types": [
+      {
+        "name": "grass",
+        "image": "/public/images/elements/grass.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/43/Verdash_menu.png/",
     "suitability": [
       {
@@ -9126,7 +9539,12 @@
     "image": "/public/images/paldeck/078.png",
     "name": "Vaelet",
     "wiki": "https://palworld.fandom.com/wiki/Vaelet",
-    "types": ["grass"],
+    "types": [
+      {
+        "name": "grass",
+        "image": "/public/images/elements/grass.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/24/Vaelet_menu.png/",
     "suitability": [
       {
@@ -9258,7 +9676,12 @@
     "image": "/public/images/paldeck/079.png",
     "name": "Sibelyx",
     "wiki": "https://palworld.fandom.com/wiki/Sibelyx",
-    "types": ["ice"],
+    "types": [
+      {
+        "name": "ice",
+        "image": "/public/images/elements/ice.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/66/Sibelyx_menu.png/",
     "suitability": [
       {
@@ -9380,7 +9803,12 @@
     "image": "/public/images/paldeck/080.png",
     "name": "Elphidran",
     "wiki": "https://palworld.fandom.com/wiki/Elphidran",
-    "types": ["dragon"],
+    "types": [
+      {
+        "name": "dragon",
+        "image": "/public/images/elements/dragon.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a6/Elphidran_menu.png/",
     "suitability": [
       {
@@ -9492,7 +9920,12 @@
     "image": "/public/images/paldeck/081.png",
     "name": "Kelpsea",
     "wiki": "https://palworld.fandom.com/wiki/Kelpsea",
-    "types": ["water"],
+    "types": [
+      {
+        "name": "water",
+        "image": "/public/images/elements/water.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/1b/Kelpsea_menu.png/",
     "suitability": [
       {
@@ -9604,7 +10037,16 @@
     "image": "/public/images/paldeck/082.png",
     "name": "Azurobe",
     "wiki": "https://palworld.fandom.com/wiki/Azurobe",
-    "types": ["water", "dragon"],
+    "types": [
+      {
+        "name": "water",
+        "image": "/public/images/elements/water.png"
+      },
+      {
+        "name": "dragon",
+        "image": "/public/images/elements/dragon.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a0/Azurobe_menu.png/",
     "suitability": [
       {
@@ -9716,7 +10158,12 @@
     "image": "/public/images/paldeck/083.png",
     "name": "Cryolinx",
     "wiki": "https://palworld.fandom.com/wiki/Cryolinx",
-    "types": ["ice"],
+    "types": [
+      {
+        "name": "ice",
+        "image": "/public/images/elements/ice.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/9d/Cryolinx_menu.png/",
     "suitability": [
       {
@@ -9838,7 +10285,12 @@
     "image": "/public/images/paldeck/084.png",
     "name": "Blazehowl",
     "wiki": "https://palworld.fandom.com/wiki/Blazehowl",
-    "types": ["fire"],
+    "types": [
+      {
+        "name": "fire",
+        "image": "/public/images/elements/fire.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/33/Blazehowl_menu.png/",
     "suitability": [
       {
@@ -9955,7 +10407,16 @@
     "image": "/public/images/paldeck/085.png",
     "name": "Relaxaurus",
     "wiki": "https://palworld.fandom.com/wiki/Relaxaurus",
-    "types": ["dragon", "water"],
+    "types": [
+      {
+        "name": "dragon",
+        "image": "/public/images/elements/dragon.png"
+      },
+      {
+        "name": "water",
+        "image": "/public/images/elements/water.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/01/Relaxaurus_menu.png/",
     "suitability": [
       {
@@ -10072,7 +10533,12 @@
     "image": "/public/images/paldeck/086.png",
     "name": "Broncherry",
     "wiki": "https://palworld.fandom.com/wiki/Broncherry",
-    "types": ["grass"],
+    "types": [
+      {
+        "name": "grass",
+        "image": "/public/images/elements/grass.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/bd/Broncherry_menu.png/",
     "suitability": [
       {
@@ -10184,7 +10650,12 @@
     "image": "/public/images/paldeck/087.png",
     "name": "Petallia",
     "wiki": "https://palworld.fandom.com/wiki/Petallia",
-    "types": ["grass"],
+    "types": [
+      {
+        "name": "grass",
+        "image": "/public/images/elements/grass.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/28/Petallia_menu.png/",
     "suitability": [
       {
@@ -10316,7 +10787,16 @@
     "image": "/public/images/paldeck/088.png",
     "name": "Reptyro",
     "wiki": "https://palworld.fandom.com/wiki/Reptyro",
-    "types": ["fire", "ground"],
+    "types": [
+      {
+        "name": "fire",
+        "image": "/public/images/elements/fire.png"
+      },
+      {
+        "name": "ground",
+        "image": "/public/images/elements/ground.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/d0/Reptyro_menu.png/",
     "suitability": [
       {
@@ -10433,7 +10913,12 @@
     "image": "/public/images/paldeck/089.png",
     "name": "Kingpaca",
     "wiki": "https://palworld.fandom.com/wiki/Kingpaca",
-    "types": ["neutral"],
+    "types": [
+      {
+        "name": "neutral",
+        "image": "/public/images/elements/neutral.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/9d/Kingpaca_menu.png/",
     "suitability": [
       {
@@ -10545,7 +11030,12 @@
     "image": "/public/images/paldeck/090.png",
     "name": "Mammorest",
     "wiki": "https://palworld.fandom.com/wiki/Mammorest",
-    "types": ["grass"],
+    "types": [
+      {
+        "name": "grass",
+        "image": "/public/images/elements/grass.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5e/Mammorest_menu.png/",
     "suitability": [
       {
@@ -10667,7 +11157,12 @@
     "image": "/public/images/paldeck/091.png",
     "name": "Wumpo",
     "wiki": "https://palworld.fandom.com/wiki/Wumpo",
-    "types": ["ice"],
+    "types": [
+      {
+        "name": "ice",
+        "image": "/public/images/elements/ice.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/0e/Wumpo_menu.png/",
     "suitability": [
       {
@@ -10794,7 +11289,16 @@
     "image": "/public/images/paldeck/092.png",
     "name": "Warsect",
     "wiki": "https://palworld.fandom.com/wiki/Warsect",
-    "types": ["grass", "ground"],
+    "types": [
+      {
+        "name": "grass",
+        "image": "/public/images/elements/grass.png"
+      },
+      {
+        "name": "ground",
+        "image": "/public/images/elements/ground.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a7/Warsect_menu.png/",
     "suitability": [
       {
@@ -10921,7 +11425,12 @@
     "image": "/public/images/paldeck/093.png",
     "name": "Fenglope",
     "wiki": "https://palworld.fandom.com/wiki/Fenglope",
-    "types": ["neutral"],
+    "types": [
+      {
+        "name": "neutral",
+        "image": "/public/images/elements/neutral.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/68/Fenglope_menu.png/",
     "suitability": [
       {
@@ -11033,7 +11542,12 @@
     "image": "/public/images/paldeck/094.png",
     "name": "Felbat",
     "wiki": "https://palworld.fandom.com/wiki/Felbat",
-    "types": ["dark"],
+    "types": [
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/7d/Felbat_menu.png/",
     "suitability": [
       {
@@ -11142,7 +11656,12 @@
     "image": "/public/images/paldeck/095.png",
     "name": "Quivern",
     "wiki": "https://palworld.fandom.com/wiki/Quivern",
-    "types": ["dragon"],
+    "types": [
+      {
+        "name": "dragon",
+        "image": "/public/images/elements/dragon.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/d9/Quivern_menu.png/",
     "suitability": [
       {
@@ -11269,7 +11788,12 @@
     "image": "/public/images/paldeck/096.png",
     "name": "Blazamut",
     "wiki": "https://palworld.fandom.com/wiki/Blazamut",
-    "types": ["fire"],
+    "types": [
+      {
+        "name": "fire",
+        "image": "/public/images/elements/fire.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/ee/Blazamut_menu.png/",
     "suitability": [
       {
@@ -11386,7 +11910,12 @@
     "image": "/public/images/paldeck/097.png",
     "name": "Helzephyr",
     "wiki": "https://palworld.fandom.com/wiki/Helzephyr",
-    "types": ["dark"],
+    "types": [
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/3c/Helzephyr_menu.png/",
     "suitability": [
       {
@@ -11497,7 +12026,16 @@
     "image": "/public/images/paldeck/098.png",
     "name": "Astegon",
     "wiki": "https://palworld.fandom.com/wiki/Astegon",
-    "types": ["dragon", "dark"],
+    "types": [
+      {
+        "name": "dragon",
+        "image": "/public/images/elements/dragon.png"
+      },
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/d4/Astegon_menu.png/",
     "suitability": [
       {
@@ -11614,7 +12152,16 @@
     "image": "/public/images/paldeck/099.png",
     "name": "Menasting",
     "wiki": "https://palworld.fandom.com/wiki/Menasting",
-    "types": ["dark", "ground"],
+    "types": [
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      },
+      {
+        "name": "ground",
+        "image": "/public/images/elements/ground.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/57/Menasting_menu.png/",
     "suitability": [
       {
@@ -11731,7 +12278,12 @@
     "image": "/public/images/paldeck/100.png",
     "name": "Anubis",
     "wiki": "https://palworld.fandom.com/wiki/Anubis",
-    "types": ["ground"],
+    "types": [
+      {
+        "name": "ground",
+        "image": "/public/images/elements/ground.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/21/Anubis_menu.png/",
     "suitability": [
       {
@@ -11850,7 +12402,16 @@
     "image": "/public/images/paldeck/101.png",
     "name": "Jormuntide",
     "wiki": "https://palworld.fandom.com/wiki/Jormuntide",
-    "types": ["dragon", "water"],
+    "types": [
+      {
+        "name": "dragon",
+        "image": "/public/images/elements/dragon.png"
+      },
+      {
+        "name": "water",
+        "image": "/public/images/elements/water.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/8/8e/Jormuntide_menu.png/",
     "suitability": [
       {
@@ -11962,7 +12523,12 @@
     "image": "/public/images/paldeck/102.png",
     "name": "Suzaku",
     "wiki": "https://palworld.fandom.com/wiki/Suzaku",
-    "types": ["fire"],
+    "types": [
+      {
+        "name": "fire",
+        "image": "/public/images/elements/fire.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/b4/Suzaku_menu.png/",
     "suitability": [
       {
@@ -12074,7 +12640,12 @@
     "image": "/public/images/paldeck/103.png",
     "name": "Grizzbolt",
     "wiki": "https://palworld.fandom.com/wiki/Grizzbolt",
-    "types": ["electric"],
+    "types": [
+      {
+        "name": "electric",
+        "image": "/public/images/elements/electric.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/13/Grizzbolt_menu.png/",
     "suitability": [
       {
@@ -12201,7 +12772,12 @@
     "image": "/public/images/paldeck/104.png",
     "name": "Lyleen",
     "wiki": "https://palworld.fandom.com/wiki/Lyleen",
-    "types": ["grass"],
+    "types": [
+      {
+        "name": "grass",
+        "image": "/public/images/elements/grass.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5e/Lyleen_menu.png/",
     "suitability": [
       {
@@ -12332,7 +12908,12 @@
     "image": "/public/images/paldeck/105.png",
     "name": "Faleris",
     "wiki": "https://palworld.fandom.com/wiki/Faleris",
-    "types": ["fire"],
+    "types": [
+      {
+        "name": "fire",
+        "image": "/public/images/elements/fire.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/99/Faleris_menu.png/",
     "suitability": [
       {
@@ -12449,7 +13030,16 @@
     "image": "/public/images/paldeck/106.png",
     "name": "Orserk",
     "wiki": "https://palworld.fandom.com/wiki/Orserk",
-    "types": ["dragon", "electric"],
+    "types": [
+      {
+        "name": "dragon",
+        "image": "/public/images/elements/dragon.png"
+      },
+      {
+        "name": "electric",
+        "image": "/public/images/elements/electric.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/6e/Orserk_menu.png/",
     "suitability": [
       {
@@ -12571,7 +13161,12 @@
     "image": "/public/images/paldeck/107.png",
     "name": "Shadowbeak",
     "wiki": "https://palworld.fandom.com/wiki/Shadowbeak",
-    "types": ["dark"],
+    "types": [
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/0c/Shadowbeak_menu.png/",
     "suitability": [
       {
@@ -12683,7 +13278,12 @@
     "image": "/public/images/paldeck/108.png",
     "name": "Paladius",
     "wiki": "https://palworld.fandom.com/wiki/Paladius",
-    "types": ["neutral"],
+    "types": [
+      {
+        "name": "neutral",
+        "image": "/public/images/elements/neutral.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/09/Paladius_menu.png/",
     "suitability": [
       {
@@ -12800,7 +13400,12 @@
     "image": "/public/images/paldeck/109.png",
     "name": "Necromus",
     "wiki": "https://palworld.fandom.com/wiki/Necromus",
-    "types": ["dark"],
+    "types": [
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/13/Necromus_menu.png/",
     "suitability": [
       {
@@ -12917,7 +13522,12 @@
     "image": "/public/images/paldeck/110.png",
     "name": "Frostallion",
     "wiki": "https://palworld.fandom.com/wiki/Frostallion",
-    "types": ["ice"],
+    "types": [
+      {
+        "name": "ice",
+        "image": "/public/images/elements/ice.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/00/Frostallion_menu.png/",
     "suitability": [
       {
@@ -13029,7 +13639,12 @@
     "image": "/public/images/paldeck/111.png",
     "name": "Jetragon",
     "wiki": "https://palworld.fandom.com/wiki/Jetragon",
-    "types": ["dragon"],
+    "types": [
+      {
+        "name": "dragon",
+        "image": "/public/images/elements/dragon.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/e5/Jetragon_menu.png/",
     "suitability": [
       {
@@ -13141,7 +13756,12 @@
     "image": "/public/images/paldeck/012B.png",
     "name": "Jolthog Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Jolthog_Cryst",
-    "types": ["ice"],
+    "types": [
+      {
+        "name": "ice",
+        "image": "/public/images/elements/ice.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/72/Jolthog_Cryst_menu.png",
     "suitability": [
       {
@@ -13250,7 +13870,12 @@
     "image": "/public/images/paldeck/024B.png",
     "name": "Mau Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Mau_Cryst",
-    "types": ["ice"],
+    "types": [
+      {
+        "name": "ice",
+        "image": "/public/images/elements/ice.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/7a/Mau_Cryst_menu.png",
     "suitability": [
       {
@@ -13367,7 +13992,12 @@
     "image": "/public/images/paldeck/031B.png",
     "name": "Gobfin Ignis",
     "wiki": "https://palworld.fandom.com/wiki/Gobfin_Ignis",
-    "types": ["fire"],
+    "types": [
+      {
+        "name": "fire",
+        "image": "/public/images/elements/fire.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/9c/Gobfin_Ignis_menu.png",
     "suitability": [
       {
@@ -13488,7 +14118,12 @@
     "image": "/public/images/paldeck/032B.png",
     "name": "Hangyu Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Hangyu_Cryst",
-    "types": ["ice"],
+    "types": [
+      {
+        "name": "ice",
+        "image": "/public/images/elements/ice.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/49/Hangyu_Cryst_menu.png",
     "suitability": [
       {
@@ -13614,7 +14249,12 @@
     "image": "/public/images/paldeck/033B.png",
     "name": "Mossanda Lux",
     "wiki": "https://palworld.fandom.com/wiki/Mossanda_Lux",
-    "types": ["electric"],
+    "types": [
+      {
+        "name": "electric",
+        "image": "/public/images/elements/electric.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/05/Mossanda_Lux_menu.png",
     "suitability": [
       {
@@ -13741,7 +14381,12 @@
     "image": "/public/images/paldeck/037B.png",
     "name": "Eikthyrdeer Terra",
     "wiki": "https://palworld.fandom.com/wiki/Eikthyrdeer_Terra",
-    "types": ["ground"],
+    "types": [
+      {
+        "name": "ground",
+        "image": "/public/images/elements/ground.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/32/Eikthyrdeer_Terra_menu.png",
     "suitability": [
       {
@@ -13853,7 +14498,12 @@
     "image": "/public/images/paldeck/040B.png",
     "name": "Incineram Noct",
     "wiki": "https://palworld.fandom.com/wiki/Incineram_Noct",
-    "types": ["dark"],
+    "types": [
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5b/Incineram_Noct_menu.png",
     "suitability": [
       {
@@ -13975,7 +14625,12 @@
     "image": "/public/images/paldeck/045B.png",
     "name": "Leezpunk Ignis",
     "wiki": "https://palworld.fandom.com/wiki/Leezpunk_Ignis",
-    "types": ["fire"],
+    "types": [
+      {
+        "name": "fire",
+        "image": "/public/images/elements/fire.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/ea/Leezpunk_Ignis_menu.png",
     "suitability": [
       {
@@ -14102,7 +14757,16 @@
     "image": "/public/images/paldeck/048B.png",
     "name": "Robinquill Terra",
     "wiki": "https://palworld.fandom.com/wiki/Robinquill_Terra",
-    "types": ["grass", "ground"],
+    "types": [
+      {
+        "name": "grass",
+        "image": "/public/images/elements/grass.png"
+      },
+      {
+        "name": "ground",
+        "image": "/public/images/elements/ground.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/45/Robinquill_Terra_menu.png",
     "suitability": [
       {
@@ -14234,7 +14898,16 @@
     "image": "/public/images/paldeck/058B.png",
     "name": "Pyrin Noct",
     "wiki": "https://palworld.fandom.com/wiki/Pyrin_Noct",
-    "types": ["fire", "dark"],
+    "types": [
+      {
+        "name": "fire",
+        "image": "/public/images/elements/fire.png"
+      },
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/2b/Pyrin_Noct_menu.png",
     "suitability": [
       {
@@ -14350,7 +15023,16 @@
     "image": "/public/images/paldeck/064B.png",
     "name": "Dinossom Lux",
     "wiki": "https://palworld.fandom.com/wiki/Dinossom_Lux",
-    "types": ["electric", "dragon"],
+    "types": [
+      {
+        "name": "electric",
+        "image": "/public/images/elements/electric.png"
+      },
+      {
+        "name": "dragon",
+        "image": "/public/images/elements/dragon.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/c/c7/Dinossom_Lux_menu.png",
     "suitability": [
       {
@@ -14467,7 +15149,12 @@
     "image": "/public/images/paldeck/065B.png",
     "name": "Surfent Terra",
     "wiki": "https://palworld.fandom.com/wiki/Surfent_Terra",
-    "types": ["ground"],
+    "types": [
+      {
+        "name": "ground",
+        "image": "/public/images/elements/ground.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/ff/Surfent_Terra_menu.png",
     "suitability": [
       {
@@ -14579,7 +15266,16 @@
     "image": "/public/images/paldeck/071B.png",
     "name": "Vanwyrm Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Vanwyrm_Cryst",
-    "types": ["ice", "dark"],
+    "types": [
+      {
+        "name": "ice",
+        "image": "/public/images/elements/ice.png"
+      },
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/19/Vanwyrm_Cryst_menu.png",
     "suitability": [
       {
@@ -14695,7 +15391,16 @@
     "image": "/public/images/paldeck/080B.png",
     "name": "Elphidran Aqua",
     "wiki": "https://palworld.fandom.com/wiki/Elphidran_Aqua",
-    "types": ["dragon", "water"],
+    "types": [
+      {
+        "name": "dragon",
+        "image": "/public/images/elements/dragon.png"
+      },
+      {
+        "name": "water",
+        "image": "/public/images/elements/water.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5e/Elphidran_Aqua_menu.png",
     "suitability": [
       {
@@ -14809,7 +15514,12 @@
     "image": "/public/images/paldeck/081B.png",
     "name": "Kelpsea Ignis",
     "wiki": "https://palworld.fandom.com/wiki/Kelpsea_Ignis",
-    "types": ["fire"],
+    "types": [
+      {
+        "name": "fire",
+        "image": "/public/images/elements/fire.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/ba/Kelpsea_Ignis_menu.png",
     "suitability": [
       {
@@ -14921,7 +15631,16 @@
     "image": "/public/images/paldeck/084B.png",
     "name": "Blazehowl Noct",
     "wiki": "https://palworld.fandom.com/wiki/Blazehowl_Noct",
-    "types": ["fire", "dark"],
+    "types": [
+      {
+        "name": "fire",
+        "image": "/public/images/elements/fire.png"
+      },
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5d/Blazehowl_Noct_menu.png",
     "suitability": [
       {
@@ -15037,7 +15756,16 @@
     "image": "/public/images/paldeck/085B.png",
     "name": "Relaxaurus Lux",
     "wiki": "https://palworld.fandom.com/wiki/Relaxaurus_Lux",
-    "types": ["dragon", "electric"],
+    "types": [
+      {
+        "name": "dragon",
+        "image": "/public/images/elements/dragon.png"
+      },
+      {
+        "name": "electric",
+        "image": "/public/images/elements/electric.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/40/Relaxaurus_Lux_menu.png",
     "suitability": [
       {
@@ -15151,7 +15879,16 @@
     "image": "/public/images/paldeck/086B.png",
     "name": "Broncherry Aqua",
     "wiki": "https://palworld.fandom.com/wiki/Broncherry_Aqua",
-    "types": ["grass", "water"],
+    "types": [
+      {
+        "name": "grass",
+        "image": "/public/images/elements/grass.png"
+      },
+      {
+        "name": "water",
+        "image": "/public/images/elements/water.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/db/Broncherry_Aqua_menu.png",
     "suitability": [
       {
@@ -15263,7 +16000,16 @@
     "image": "/public/images/paldeck/088B.png",
     "name": "Reptyro Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Reptyro_Cryst",
-    "types": ["ice", "ground"],
+    "types": [
+      {
+        "name": "ice",
+        "image": "/public/images/elements/ice.png"
+      },
+      {
+        "name": "ground",
+        "image": "/public/images/elements/ground.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/09/Reptyro_Cryst_menu.png",
     "suitability": [
       {
@@ -15377,7 +16123,12 @@
     "image": "/public/images/paldeck/089B.png",
     "name": "Kingpaca Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Kingpaca_Cryst",
-    "types": ["ice"],
+    "types": [
+      {
+        "name": "ice",
+        "image": "/public/images/elements/ice.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/49/Kingpaca_Cryst_menu.png",
     "suitability": [
       {
@@ -15494,7 +16245,12 @@
     "image": "/public/images/paldeck/090B.png",
     "name": "Mammorest Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Mammorest_Cryst",
-    "types": ["ice"],
+    "types": [
+      {
+        "name": "ice",
+        "image": "/public/images/elements/ice.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/db/Mammorest_Cryst_menu.png",
     "suitability": [
       {
@@ -15616,7 +16372,12 @@
     "image": "/public/images/paldeck/091B.png",
     "name": "Wumpo Botan",
     "wiki": "https://palworld.fandom.com/wiki/Wumpo_Botan",
-    "types": ["grass"],
+    "types": [
+      {
+        "name": "grass",
+        "image": "/public/images/elements/grass.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/68/Wumpo_Botan_menu.png",
     "suitability": [
       {
@@ -15743,7 +16504,16 @@
     "image": "/public/images/paldeck/101B.png",
     "name": "Jormuntide Ignis",
     "wiki": "https://palworld.fandom.com/wiki/Jormuntide_Ignis",
-    "types": ["dragon", "fire"],
+    "types": [
+      {
+        "name": "dragon",
+        "image": "/public/images/elements/dragon.png"
+      },
+      {
+        "name": "fire",
+        "image": "/public/images/elements/fire.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/0d/Jormuntide_Ignis_menu.png",
     "suitability": [
       {
@@ -15855,7 +16625,12 @@
     "image": "/public/images/paldeck/102B.png",
     "name": "Suzaku Aqua",
     "wiki": "https://palworld.fandom.com/wiki/Suzaku_Aqua",
-    "types": ["water"],
+    "types": [
+      {
+        "name": "water",
+        "image": "/public/images/elements/water.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a1/Suzaku_Aqua_menu.png",
     "suitability": [
       {
@@ -15964,7 +16739,12 @@
     "image": "/public/images/paldeck/104B.png",
     "name": "Lyleen Noct",
     "wiki": "https://palworld.fandom.com/wiki/Lyleen_Noct",
-    "types": ["dark"],
+    "types": [
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/30/Lyleen_Noct_menu.png",
     "suitability": [
       {
@@ -16090,7 +16870,12 @@
     "image": "/public/images/paldeck/110B.png",
     "name": "Frostallion Noct",
     "wiki": "https://palworld.fandom.com/wiki/Frostallion_Noct",
-    "types": ["dark"],
+    "types": [
+      {
+        "name": "dark",
+        "image": "/public/images/elements/dark.png"
+      }
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/14/Frostallion_Noct_menu.png",
     "suitability": [
       {
