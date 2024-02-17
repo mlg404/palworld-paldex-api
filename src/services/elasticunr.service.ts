@@ -18,6 +18,7 @@ pals.forEach((pal) => {
   search.addDoc({
     ...pal,
     suitabilities: pal.suitability.map((suitability) => suitability.type),
+    types: pal.types.map((type) => type.name),
   });
 });
 
