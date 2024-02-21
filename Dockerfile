@@ -1,7 +1,7 @@
 # use the official Bun image
 # see all versions at https://hub.docker.com/r/oven/bun/tags
 FROM oven/bun:1 as base
-WORKDIR /usr/src/app
+WORKDIR /
 
 # install dependencies into temp directory
 # this will cache them and speed up future builds
@@ -30,9 +30,9 @@ COPY . .
 FROM base AS release
 COPY --from=install /temp/prod/node_modules node_modules
 # copy all files from src
-COPY --from=prerelease /usr/src/app/src src
-COPY --from=prerelease /usr/src/app/public public
-COPY --from=prerelease /usr/src/app/package.json .
+COPY --from=prerelease ./ .
+# COPY --from=prerelease ./public public
+# COPY --from=prerelease ./package.json .
 
 # run the app
 USER bun
