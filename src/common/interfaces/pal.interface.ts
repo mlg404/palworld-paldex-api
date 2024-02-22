@@ -1,5 +1,5 @@
 import type { ISuitability } from ".";
-import type { TypesEnum } from "../enums";
+import type { ITypes } from "./types.interface";
 import type { IAura } from "./aura.interface";
 import type { IBreedMeta } from "./breed.interface";
 import type { ISkill } from "./skill.interface";
@@ -10,7 +10,7 @@ export interface IPal {
   key: string;
   name: string;
   description: string;
-  types: TypesEnum[];
+  types: ITypes[];
   suitabilities: string[];
   suitability: ISuitability[];
   drops: string[];
