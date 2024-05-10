@@ -1,0 +1,632 @@
+[
+  {
+    "name": "Cloth Outfit",
+    "status": {
+      "common": {
+        "hp": 70,
+        "defense": 15,
+        "price": 320,
+        "durability": 150
+      },
+      "uncommon": {
+        "hp": 91,
+        "defense": 19,
+        "price": 416,
+        "durability": 200
+      },
+      "rare": {
+        "hp": 98,
+        "defense": 21,
+        "price": 480,
+        "durability": 250
+      },
+      "epic": {
+        "hp": 105,
+        "defense": 22,
+        "price": 544,
+        "durability": 300
+      },
+      "legendary": {
+        "hp": 112,
+        "defense": 24,
+        "price": 608,
+        "durability": 350
+      }
+    }
+  },
+  {
+    "name": "Tundra Outfit",
+    "status": {
+      "common": {
+        "hp": 70,
+        "defense": 25,
+        "price": 320,
+        "durability": 150
+      },
+      "uncommon": {
+        "hp": 91,
+        "defense": 32,
+        "price": 384,
+        "durability": 180
+      },
+      "rare": {
+        "hp": 98,
+        "defense": 35,
+        "price": 480,
+        "durability": 225
+      },
+      "epic": {
+        "hp": 105,
+        "defense": 37,
+        "price": 576,
+        "durability": 270
+      },
+      "legendary": {
+        "hp": 112,
+        "defense": 40,
+        "price": 704,
+        "durability": 330
+      }
+    }
+  },
+  {
+    "name": "Tropical Outfit",
+    "status": {
+      "common": {
+        "hp": 70,
+        "defense": 25,
+        "price": 320,
+        "durability": 150
+      },
+      "uncommon": {
+        "hp": 91,
+        "defense": 32,
+        "price": 384,
+        "durability": 180
+      },
+      "rare": {
+        "hp": 98,
+        "defense": 35,
+        "price": 480,
+        "durability": 225
+      },
+      "epic": {
+        "hp": 105,
+        "defense": 37,
+        "price": 576,
+        "durability": 270
+      },
+      "legendary": {
+        "hp": 112,
+        "defense": 40,
+        "price": 704,
+        "durability": 330
+      }
+    }
+  },
+  {
+    "name": "Pelt Armor",
+    "status": {
+      "common": {
+        "hp": 140,
+        "defense": 35,
+        "price": 360,
+        "durability": 300
+      },
+      "uncommon": {
+        "hp": 182,
+        "defense": 45,
+        "price": 468,
+        "durability": 400
+      },
+      "rare": {
+        "hp": 196,
+        "defense": 49,
+        "price": 540,
+        "durability": 500
+      },
+      "epic": {
+        "hp": 210,
+        "defense": 52,
+        "price": 612,
+        "durability": 600
+      },
+      "legendary": {
+        "hp": 224,
+        "defense": 56,
+        "price": 684,
+        "durability": 700
+      }
+    }
+  },
+  {
+    "name": "Feathered Hair Band",
+    "status": {
+      "common": {
+        "hp": 60,
+        "defense": 15,
+        "price": 180,
+        "durability": 200
+      },
+      "uncommon": {
+        "hp": 78,
+        "defense": 19,
+        "price": 234,
+        "durability": 260
+      },
+      "rare": {
+        "hp": 84,
+        "defense": 21,
+        "price": 270,
+        "durability": 300
+      },
+      "epic": {
+        "hp": 90,
+        "defense": 22,
+        "price": 306,
+        "durability": 340
+      },
+      "legendary": {
+        "hp": 96,
+        "defense": 24,
+        "price": 342,
+        "durability": 380
+      }
+    }
+  },
+  {
+    "name": "Cold Resistant Pelt Armor",
+    "status": {
+      "common": {
+        "hp": 140,
+        "defense": 45,
+        "price": 3000,
+        "durability": 300
+      },
+      "uncommon": {
+        "hp": 182,
+        "defense": 58,
+        "price": 3600,
+        "durability": 360
+      },
+      "rare": {
+        "hp": 196,
+        "defense": 63,
+        "price": 4500,
+        "durability": 450
+      },
+      "epic": {
+        "hp": 210,
+        "defense": 67,
+        "price": 5400,
+        "durability": 540
+      },
+      "legendary": {
+        "hp": 224,
+        "defense": 72,
+        "price": 6600,
+        "durability": 660
+      }
+    }
+  },
+  {
+    "name": "Heat Resistant Pelt Armor",
+    "status": {
+      "common": {
+        "hp": 140,
+        "defense": 45,
+        "price": 3000,
+        "durability": 300
+      },
+      "uncommon": {
+        "hp": 182,
+        "defense": 58,
+        "price": 3600,
+        "durability": 360
+      },
+      "rare": {
+        "hp": 196,
+        "defense": 63,
+        "price": 4500,
+        "durability": 450
+      },
+      "epic": {
+        "hp": 210,
+        "defense": 67,
+        "price": 5400,
+        "durability": 540
+      },
+      "legendary": {
+        "hp": 224,
+        "defense": 72,
+        "price": 6600,
+        "durability": 660
+      }
+    }
+  },
+  {
+    "name": "Metal Armor",
+    "status": {
+      "common": {
+        "hp": 250,
+        "defense": 70,
+        "price": 4920,
+        "durability": 700
+      },
+      "uncommon": {
+        "hp": 325,
+        "defense": 91,
+        "price": 6396,
+        "durability": 900
+      },
+      "rare": {
+        "hp": 350,
+        "defense": 98,
+        "price": 7380,
+        "durability": 1100
+      },
+      "epic": {
+        "hp": 375,
+        "defense": 105,
+        "price": 8364,
+        "durability": 1300
+      },
+      "legendary": {
+        "hp": 400,
+        "defense": 112,
+        "price": 9348,
+        "durability": 1500
+      }
+    }
+  },
+  {
+    "name": "Metal Helm",
+    "status": {
+      "common": {
+        "hp": 100,
+        "defense": 50,
+        "price": 2460,
+        "durability": 700
+      },
+      "uncommon": {
+        "hp": 130,
+        "defense": 65,
+        "price": 3198,
+        "durability": 910
+      },
+      "rare": {
+        "hp": 140,
+        "defense": 70,
+        "price": 3690,
+        "durability": 1050
+      },
+      "epic": {
+        "hp": 150,
+        "defense": 75,
+        "price": 4182,
+        "durability": 1190
+      },
+      "legendary": {
+        "hp": 160,
+        "defense": 80,
+        "price": 4674,
+        "durability": 1330
+      }
+    }
+  },
+  {
+    "name": "Cold Resistant Metal Armor",
+    "status": {
+      "common": {
+        "hp": 250,
+        "defense": 105,
+        "price": 4920,
+        "durability": 700
+      },
+      "uncommon": {
+        "hp": 325,
+        "defense": 136,
+        "price": 5904,
+        "durability": 840
+      },
+      "rare": {
+        "hp": 350,
+        "defense": 147,
+        "price": 7380,
+        "durability": 1050
+      },
+      "epic": {
+        "hp": 375,
+        "defense": 157,
+        "price": 8856,
+        "durability": 1260
+      },
+      "legendary": {
+        "hp": 400,
+        "defense": 168,
+        "price": 10824,
+        "durability": 1540
+      }
+    }
+  },
+  {
+    "name": "Refined Metal Armor",
+    "status": {
+      "common": {
+        "hp": 500,
+        "defense": 150,
+        "price": 9840,
+        "durability": 1500
+      },
+      "uncommon": {
+        "hp": 650,
+        "defense": 195,
+        "price": 12792,
+        "durability": 2000
+      },
+      "rare": {
+        "hp": 700,
+        "defense": 210,
+        "price": 14760,
+        "durability": 2500
+      },
+      "epic": {
+        "hp": 750,
+        "defense": 225,
+        "price": 16728,
+        "durability": 3000
+      },
+      "legendary": {
+        "hp": 800,
+        "defense": 240,
+        "price": 18696,
+        "durability": 3500
+      }
+    }
+  },
+  {
+    "name": "Refined Metal Helm",
+    "status": {
+      "common": {
+        "hp": 250,
+        "defense": 100,
+        "price": 5240,
+        "durability": 1500
+      },
+      "uncommon": {
+        "hp": 325,
+        "defense": 130,
+        "price": 6812,
+        "durability": 1950
+      },
+      "rare": {
+        "hp": 350,
+        "defense": 140,
+        "price": 7860,
+        "durability": 2250
+      },
+      "epic": {
+        "hp": 375,
+        "defense": 150,
+        "price": 8908,
+        "durability": 2550
+      },
+      "legendary": {
+        "hp": 400,
+        "defense": 160,
+        "price": 9956,
+        "durability": 2850
+      }
+    }
+  },
+  {
+    "name": "Cold Resistant Refined Metal Armor",
+    "status": {
+      "common": {
+        "hp": 500,
+        "defense": 180,
+        "price": 9840,
+        "durability": 1500
+      },
+      "uncommon": {
+        "hp": 650,
+        "defense": 234,
+        "price": 11808,
+        "durability": 1800
+      },
+      "rare": {
+        "hp": 700,
+        "defense": 252,
+        "price": 14760,
+        "durability": 2250
+      },
+      "epic": {
+        "hp": 750,
+        "defense": 270,
+        "price": 17712,
+        "durability": 2700
+      },
+      "legendary": {
+        "hp": 800,
+        "defense": 288,
+        "price": 21648,
+        "durability": 3300
+      }
+    }
+  },
+  {
+    "name": "Heat Resistant Refined Metal Armor",
+    "status": {
+      "common": {
+        "hp": 500,
+        "defense": 180,
+        "price": 9840,
+        "durability": 1500
+      },
+      "uncommon": {
+        "hp": 650,
+        "defense": 234,
+        "price": 11808,
+        "durability": 1800
+      },
+      "rare": {
+        "hp": 700,
+        "defense": 252,
+        "price": 14760,
+        "durability": 2250
+      },
+      "epic": {
+        "hp": 750,
+        "defense": 270,
+        "price": 17712,
+        "durability": 2700
+      },
+      "legendary": {
+        "hp": 800,
+        "defense": 288,
+        "price": 21648,
+        "durability": 3300
+      }
+    }
+  },
+  {
+    "name": "Pal Metal Armor",
+    "status": {
+      "common": {
+        "hp": 750,
+        "defense": 220,
+        "price": 32300,
+        "durability": 5000
+      },
+      "uncommon": {
+        "hp": 975,
+        "defense": 286,
+        "price": 41990,
+        "durability": 7000
+      },
+      "rare": {
+        "hp": 1050,
+        "defense": 308,
+        "price": 48450,
+        "durability": 9000
+      },
+      "epic": {
+        "hp": 1125,
+        "defense": 330,
+        "price": 54910,
+        "durability": 11000
+      },
+      "legendary": {
+        "hp": 1200,
+        "defense": 352,
+        "price": 61370,
+        "durability": 13000
+      }
+    }
+  },
+  {
+    "name": "Pal Metal Helm",
+    "status": {
+      "common": {
+        "hp": 350,
+        "defense": 150,
+        "price": 16180,
+        "durability": 5000
+      },
+      "uncommon": {
+        "hp": 455,
+        "defense": 195,
+        "price": 21034,
+        "durability": 6500
+      },
+      "rare": {
+        "hp": 490,
+        "defense": 210,
+        "price": 24270,
+        "durability": 7500
+      },
+      "epic": {
+        "hp": 525,
+        "defense": 225,
+        "price": 27506,
+        "durability": 8500
+      },
+      "legendary": {
+        "hp": 560,
+        "defense": 240,
+        "price": 30742,
+        "durability": 9500
+      }
+    }
+  },
+  {
+    "name": "Cold Resistant Pal Metal Armor",
+    "status": {
+      "common": {
+        "hp": 750,
+        "defense": 250,
+        "price": 32300,
+        "durability": 5000
+      },
+      "uncommon": {
+        "hp": 975,
+        "defense": 325,
+        "price": 38760,
+        "durability": 6000
+      },
+      "rare": {
+        "hp": 1050,
+        "defense": 350,
+        "price": 48450,
+        "durability": 7500
+      },
+      "epic": {
+        "hp": 1125,
+        "defense": 375,
+        "price": 58140,
+        "durability": 9000
+      },
+      "legendary": {
+        "hp": 1200,
+        "defense": 400,
+        "price": 71060,
+        "durability": 11000
+      }
+    }
+  },
+  {
+    "name": "Heat Resistant Pal Metal Armor",
+    "status": {
+      "common": {
+        "hp": 750,
+        "defense": 250,
+        "price": 32300,
+        "durability": 5000
+      },
+      "uncommon": {
+        "hp": 975,
+        "defense": 325,
+        "price": 38760,
+        "durability": 6000
+      },
+      "rare": {
+        "hp": 1050,
+        "defense": 350,
+        "price": 48450,
+        "durability": 7500
+      },
+      "epic": {
+        "hp": 1125,
+        "defense": 375,
+        "price": 58140,
+        "durability": 9000
+      },
+      "legendary": {
+        "hp": 1200,
+        "defense": 400,
+        "price": 71060,
+        "durability": 11000
+      }
+    }
+  }
+]

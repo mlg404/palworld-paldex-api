@@ -1,6 +1,6 @@
 import elasticunr from "elasticlunr";
 import type { IPal } from "../common/interfaces";
-const file = Bun.file("src/pals.json");
+const file = Bun.file("src/jsons/pals.json");
 
 const pals: IPal[] = await file.json();
 
